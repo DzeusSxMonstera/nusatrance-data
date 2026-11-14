@@ -90,6 +90,15 @@
   "categories": {
     "Politik": [
       {
+        "slug": "kericuhan-demo-ugm-dpr-dorong-tgpf",
+        "source": "Politik Indonesia",
+        "sourceUrl": "https://www.politikindonesia.id/kericuhan-demo-di-ugm-dpr-dorong-pembentukan-tgpf",
+        "summary": "Wakil Ketua Komisi X DPR MY Esti Wijayati mendorong pembentukan TGPF independen dan verifikasi bersama UGM-polisi terkait dugaan pemakaian gas air mata dan penangkapan acak saat demo ricuh di Bundaran UGM pada 10 November; Polda DIY sempat menahan 157 orang dan 154 orang sudah dipulangkan.",
+        "title": "Kericuhan Demo di UGM, DPR Dorong Pembentukan TGPF",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
         "slug": "mpr-cawapres",
         "title": "MPR Minta Prabowo Ajukan 2 Nama Cawapres",
         "summary": "MPR menetapkan pemilihan Wapres pada Rabu, 2 Desember 2026, dan meminta Presiden Prabowo mengajukan dua nama cawapres untuk diverifikasi tim verifikasi 36 orang; Presiden punya waktu maksimal 14 hari setelah menerima surat resmi MPR.",
@@ -136,6 +145,33 @@
       }
     ],
     "Ekonomi": [
+      {
+        "slug": "pnbp-rp5518-triliun-tembus-120-persen-target-apbn",
+        "source": "ValidNews",
+        "sourceUrl": "https://validnews.id/ekonomi/2026/11/14/performa-ngejreng-120-setoran-pnbp-mentereng-rp5518-t-134300912",
+        "summary": "Realisasi PNBP hingga 31 Oktober 2026 mencapai Rp551,8 triliun atau 120,2 persen dari target APBN Rp459,2 triliun, naik 37 persen year on year, ditopang setoran SDA Rp256,1 triliun dan pendapatan BLU Rp107,7 triliun.",
+        "title": "Performa Ngejreng 120%, Setoran PNBP Mentereng Rp551,8 T",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "bkpm-126-proyek-investasi-mangkrak-perizinan-lahan",
+        "source": "Jawawa",
+        "sourceUrl": "https://jawawa.id/newsitem/bkpm-identifies-126-stalled-investment-projects-with-permits-and-land-as-key-obstacles-1794639049",
+        "summary": "BKPM memetakan 126 proyek investasi di berbagai daerah yang mangkrak dan belum beroperasi, terutama karena perizinan dan ketersediaan lahan; pemerintah memperkuat Investment Desk dan menetapkan batas waktu layanan untuk 287 jenis izin usaha.",
+        "title": "BKPM Identifies 126 Stalled Investment Projects, with Permits and Land as Key Obstacles",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "airlangga-subsidi-bbm-aman-hingga-akhir-2026",
+        "source": "FaktaKalbar",
+        "sourceUrl": "https://faktakalbar.id/berita/airlangga-pastikan-subsidi-bbm-aman-hingga-akhir-2026",
+        "summary": "Menko Perekonomian Airlangga Hartarto memastikan anggaran subsidi BBM mencukupi hingga akhir 2026 meski rupiah melemah ke Rp18.239 per dolar AS dan harga minyak dunia 92-93 dolar AS per barel; harga BBM subsidi dipastikan tidak naik sampai 31 Desember 2026.",
+        "title": "Airlangga Pastikan Subsidi BBM Aman hingga Akhir 2026",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
       {
         "slug": "eko-tumbuh",
         "title": "Ekonomi Indonesia Tumbuh 5,47 Persen, Prabowo Minta Efisiensi Energi",
@@ -184,6 +220,33 @@
     ],
     "Hukum": [
       {
+        "slug": "kpk-telusuri-dugaan-kickback-pengadaan-bnpb",
+        "source": "UrbanNews",
+        "sourceUrl": "https://www.urbannews.id/2026/11/14/dana-bencana-diduga-jadi-ladang-kickback-kpk-telusuri-pengadaan-bnpb/",
+        "summary": "KPK mendalami dugaan kickback dalam pengadaan Dana Siap Pakai BNPB 2024-2026 senilai sekitar Rp148 miliar, setelah memeriksa saksi ASN, mantan pejabat BNPB, dan pihak swasta pada 9-12 November; perkara bermula dari OTT 13 Oktober 2026 dengan lima tersangka.",
+        "title": "Dana Bencana Diduga Jadi Ladang Kickback, KPK Telusuri Pengadaan BNPB",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "muak-tiga-dugaan-korupsi-lutim-batik-videotron-desa-mandiri",
+        "source": "MaliliPos",
+        "sourceUrl": "https://malilipos.com/hukum/korupsi/muak-ungkap-perkembangan-tiga-dugaan-korupsi-di-lutim?page&name=muak-ungkap-perkembangan-tiga-dugaan-korupsi-di-lutim&category_name=hukum/korupsi",
+        "summary": "Aliansi MUAK menyoroti tiga dugaan korupsi di Luwu Timur: pengadaan Seragam Batik Juara dan Videotron Kominfo di tahap penyelidikan, serta Program Desa Mandiri di tahap penyidikan dengan indikasi kerugian negara sekitar Rp1,7 miliar.",
+        "title": "MUAK Ungkap Perkembangan Tiga Dugaan Korupsi di Lutim",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "kejari-aceh-selatan-cabut-perwalian-ayah-perkosa-anak",
+        "source": "InfoRakyat",
+        "sourceUrl": "https://inforakyat.co/ayah-perkosa-anak-kandung-kejari-aceh-selatan-berhasil-mencabut-status-perwalian-di-mahkamah-syariyah.html",
+        "summary": "Mahkamah Syar'iyah Tapaktuan mengabulkan permohonan Jaksa Pengacara Negara Kejari Aceh Selatan untuk mencabut hak perwalian ayah berinisial SK (56) atas anak kandungnya yang menjadi korban pemerkosaan; SK sebelumnya divonis 200 bulan penjara dan pengasuhan diserahkan kepada ibu korban.",
+        "title": "Kejari Aceh Selatan Cabut Perwalian Ayah Perkosa Anak Kandung",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
         "slug": "uu-pemilu-gugat",
         "title": "UU Pemilu Kembali Digugat, Desak Syarat Minimal SMA untuk Capres-Cawapres Dihapus",
         "summary": "Jovi Andrea Bachtiar menggugat UU Pemilu ke Mahkamah Konstitusi (perkara 423/PUU-XXIV/2026) dan meminta Pasal 169 huruf r yang mensyaratkan ijazah minimal SMA bagi capres-cawapres dinyatakan bertentangan dengan UUD 1945.",
@@ -230,6 +293,15 @@
       }
     ],
     "Nasional": [
+      {
+        "slug": "prabowo-beasiswa-penuh-anak-relawan-karhutla-gugur",
+        "source": "Channel9.id",
+        "sourceUrl": "https://channel9.id/prabowo-siapkan-beasiswa-penuh-bagi-anak-relawan-karhutla-yang-gugur/",
+        "summary": "Presiden Prabowo mengarahkan pemberian beasiswa pendidikan hingga jenjang tertinggi bagi anak-anak petugas dan relawan yang gugur saat menangani karhutla, disertai santunan bagi keluarga yang ditinggalkan. Arahan disampaikan Menko PMK Sugiono seusai penyerahan tanda kehormatan Bintang Jasa di Istana Bogor, Jumat (13/11/2026).",
+        "title": "Prabowo Siapkan Beasiswa Penuh bagi Anak Relawan Karhutla yang Gugur",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
       {
         "slug": "riau-hujan",
         "title": "Waspada Cuaca Ekstrem, Hujan Lebat Berpotensi Guyur 9 Daerah di Riau",
@@ -278,6 +350,33 @@
     ],
     "Teknologi": [
       {
+        "slug": "weps-awards-2026-teknologi-inklusif-emtek-pingtar",
+        "source": "Fem Indonesia",
+        "sourceUrl": "https://www.femindonesia.com/weps-awards-2026-soroti-teknologi-inklusif-emtek-dan-pingtar-dorong-pemberdayaan-perempuan/",
+        "summary": "WEPs Awards 2026 Indonesia dari UN Women membuka kategori baru Technology & AI for Gender Equality. EMTEK meraih First Runner-up lewat aplikasi PUJAAN untuk pemberdayaan ekonomi perempuan, sementara Pingtar meraih Second Runner-up lewat edukasi pencegahan pelecehan berbasis WhatsApp yang menjangkau lebih dari 42.000 pekerja.",
+        "title": "WEPs Awards 2026 Soroti Teknologi Inklusif, EMTEK dan Pingtar Dorong Pemberdayaan Perempuan",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "indonesia-asean-segera-tandatangani-kesepakatan-ekonomi-digital",
+        "source": "Inilah Sukabumi",
+        "sourceUrl": "https://inilahsukabumi.com/ekonomi/indonesia-ambil-peran-strategis-asean-segera-tandatangani-kesepakatan-ekonomi-digital/",
+        "summary": "Indonesia mendorong integrasi ekonomi digital Asia Tenggara lewat ASEAN Digital Economy Framework Agreement (DEFA) yang segera ditandatangani 11 negara anggota ASEAN. Menko Perekonomian Airlangga Hartarto dijadwalkan bertolak ke Manila pada 14 November 2026 untuk penandatanganan kesepakatan tersebut.",
+        "title": "Indonesia Ambil Peran Strategis, ASEAN Segera Tandatangani Kesepakatan Ekonomi Digital",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "harga-komputer-disdik-aceh-rp29-juta-tti-pertanyakan-selisih",
+        "source": "HabaTeras",
+        "sourceUrl": "https://www.habateras.com/news/harga-komputer-disdik-aceh-rp29-juta-tti-pertanyakan-selisih-rp15-juta/index.html",
+        "summary": "Transparansi Tender Indonesia (TTI) menyoroti pengadaan komputer Dinas Pendidikan Aceh TA 2026 yang dikontrak Rp29 juta per unit, sementara perangkat diduga berspesifikasi serupa ditemukan seharga sekitar Rp14 juta di toko daring. TTI mendesak Kadisdik Aceh membuka dokumen pengadaan dan meminta Kejati Aceh menelaah prosesnya.",
+        "title": "Harga Komputer Disdik Aceh Rp29 Juta, TTI Pertanyakan Selisih Rp15 Juta",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
         "slug": "pegasus",
         "title": "Pakar Siber Sebut Pegasus Dipakai Sadap Prabowo, Dana Judol Ikut Disorot",
         "summary": "Pakar keamanan siber Ibnu Dwi Cahyo menduga penyadapan terhadap Presiden Prabowo melibatkan spyware Pegasus (NSO Group) dengan kemampuan zero-click, dan mengaitkan biaya pengadaannya dengan dugaan aliran dana judi online — hubungan pendanaan itu sendiri belum dapat dipastikan.",
@@ -324,6 +423,33 @@
       }
     ],
     "Olahraga": [
+      {
+        "slug": "alwi-farhan-kalah-semifinal-kumamoto-masters-2026",
+        "source": "Bulatan Times",
+        "sourceUrl": "https://www.bulatantimes.com/sport/alwi-farhan-kalah-semifinal-kumamoto-masters-2026/",
+        "summary": "Tunggal putra Indonesia Alwi Farhan kalah 12-21, 21-15, 11-21 dari Lakshya Sen (India) di semifinal Kumamoto Masters 2026, Sabtu (14/11/2026), setelah sempat bangkit di gim kedua. Kekalahan ini memastikan Indonesia tanpa wakil di final turnamen BWF World Tour Super 500 tersebut.",
+        "title": "Alwi Farhan Kalah di Semifinal Kumamoto, Indonesia Tanpa Wakil di Final",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "erick-thohir-surat-malaysia-cabor-dicoret-sea-games-2027",
+        "source": "InfoRiau",
+        "sourceUrl": "https://www.inforiau.co/erick-thohir-kirim-surat-ke-malaysia-soal-cabor-indonesia-yang-dicoret-dari-sea-games-2027-17297",
+        "summary": "Menpora Erick Thohir mengirim surat resmi kepada Menpora Malaysia terkait pencoretan sejumlah cabang andalan Indonesia, termasuk panjat tebing dan dayung, dari SEA Games 2027. Langkah diplomasi ini ditempuh karena pencoretan tersebut dinilai berpotensi merugikan perolehan medali Indonesia.",
+        "title": "Erick Thohir Kirim Surat ke Malaysia soal Cabor Indonesia yang Dicoret dari SEA Games 2027",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "persebaya-u-18-taklukkan-psm-makassar-2-0",
+        "source": "Persebaya.id",
+        "sourceUrl": "https://www.persebaya.id/r/4260/persebaya-u-18-tampil-solid-psm-makassar-2-0",
+        "summary": "Persebaya U-18 menang 2-0 atas PSM Makassar U-18 di Bosowa Sport Center, Sabtu (14/11), lewat gol M. Farhan pada menit ke-41 dan Alfredo Nararya di babak kedua. Hasil ini menjadi kemenangan ke-10 Persebaya U-18 di Grup C Elite Pro Academy (EPA) One 2026/2027.",
+        "title": "Persebaya U-18 Tampil Solid, PSM Makassar Ditaklukkan 2-0",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
       {
         "slug": "timnas-u17-kamboja",
         "title": "Timnas Indonesia U-17 vs Kamboja Sore Ini, Garuda Muda Bidik Kemenangan Kedua",
@@ -372,6 +498,33 @@
     ],
     "Kesehatan": [
       {
+        "slug": "diduga-keracunan-mbg-12-siswa-sdn-karangrejo-blitar",
+        "source": "TagarJatim.id",
+        "sourceUrl": "https://tagarjatim.id/35493/diduga-keracunan-usai-santap-mbg-12-siswa-sdn-ii-karangrejo-garum-dilarikan-ke-puskesmas/",
+        "summary": "Sebanyak 12 siswa SDN II Karangrejo, Garum, Kabupaten Blitar diduga keracunan setelah menyantap makanan program Makan Bergizi Gratis pada Jumat (13/11/2026), dengan gejala mual, muntah, dan pusing. Seluruh siswa sudah diperbolehkan pulang dan menjalani rawat jalan, sementara penyebab pastinya masih menunggu hasil uji laboratorium sampel makanan.",
+        "title": "Diduga Keracunan Usai Santap MBG, 12 Siswa SDN II Karangrejo Garum Dilarikan ke Puskesmas",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "ckg-pekerja-alih-daya-cirebon-percontohan-nasional",
+        "source": "Lintas Nusantara Net",
+        "sourceUrl": "https://www.lintasnusantara.net/2026/11/ckg-sasar-pekerja-alih-daya-kabupaten.html",
+        "summary": "Pemkab Cirebon bersama Kemenkes memperluas Cek Kesehatan Gratis (CKG) dengan menyasar pekerja alih daya lapangan, termasuk 1.040 pekerja proyek penggalian jaringan pipa anak usaha Pertamina. Pola layanan ini akan dijadikan percontohan nasional, dan secara nasional CKG telah menjangkau sekitar 119 juta orang sejak Januari hingga November 2026.",
+        "title": "CKG Sasar Pekerja Alih Daya, Kabupaten Cirebon Jadi Percontohan Nasional",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "puskesmas-kassi-kassi-jemput-bola-pemeriksaan-gratis",
+        "source": "Publikasi Online",
+        "sourceUrl": "https://publikasionline.id/2026/11/14/puskesmas-kassi-kassi-jemput-bola-pemeriksaan-kesehatan-gratis/",
+        "summary": "UPT Puskesmas Kassi-Kassi, Bantaeng, menggelar Pemeriksaan Kesehatan Gratis dengan mendatangi langsung rumah warga Dusun Pico, Desa Nipa-Nipa, pada Sabtu (14/11/2026). Petugas menjangkau 18 rumah dengan 38 sasaran pemeriksaan dan menemukan antara lain dua warga hipertensi, tujuh balita, serta satu sasaran terkait tuberkulosis.",
+        "title": "Puskesmas Kassi-Kassi Jemput Bola, Pemeriksaan Kesehatan Gratis",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
         "slug": "hari-diabetes-sedunia-2026",
         "title": "Hari Diabetes Sedunia 2026: Kelola Diabetes Lewat Penurunan Berat Badan Berkualitas",
         "summary": "Dalam rangka Hari Diabetes Sedunia 14 November 2026, Novo Indonesia bersama Kemenkes RI dan Perkeni menekankan pencegahan, deteksi dini, dan penurunan berat badan berkualitas — mengurangi lemak viseral sambil mempertahankan massa otot. Indonesia peringkat ke-5 dunia dengan 20,4 juta orang dewasa hidup dengan diabetes pada 2024, dan sekitar 73,2% di antaranya belum terdiagnosis.",
@@ -419,6 +572,33 @@
     ],
     "Budaya": [
       {
+        "slug": "festival-kalimantan-barat-2026-tmii",
+        "source": "Poskota",
+        "sourceUrl": "https://poskota.co/megapolitan/ikkb-jabodetabek-dan-pemprov-kalbar-sukses-gelar-festival-kalimantan-barat-2026-di-tmii/",
+        "summary": "Festival Kalimantan Barat 2026 digelar meriah di Anjungan Kalimantan Barat, TMII, Jakarta Timur, Sabtu (14/11/2026), menampilkan seni budaya tiga etnis Melayu, Dayak, dan Tionghoa, Festival Kriya dan Wastra, serta Festival Kuliner. Gubernur Kalbar Ria Norsan hadir dan menyerahkan Lifetime Achievement Award kepada Oesman Sapta Odang.",
+        "title": "IKKB Jabodetabek dan Pemprov Kalbar Sukses Gelar Festival Kalimantan Barat 2026 di TMII",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "festival-pesisiran-2026-nadran-cirebon",
+        "source": "Kalimashada.com",
+        "sourceUrl": "https://kalimashada.com/berita/festival-pesisiran-2026-masyarakat-nelayan-kota-cirebon-gelar-pesta-laut-dan-nadran-warisan-budaya-lokal-yang-patut-dil",
+        "summary": "Masyarakat nelayan Kota Cirebon menggelar Pesta Laut atau Pesta Nadran dalam Festival Pesisiran Kota Cirebon 2026 di halaman Gedung BAT, Sabtu (14/11/2026), diikuti nelayan dari tiga kelurahan pesisir. Tradisi syukur atas hasil laut ini turut dihadiri perwakilan empat keraton Cirebon.",
+        "title": "Festival Pesisiran 2026, Masyarakat Nelayan Kota Cirebon Gelar Pesta Laut Dan Nadran",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "festival-seni-budaya-kan-pauh-ix-minangkabau",
+        "source": "Sindotime",
+        "sourceUrl": "https://sindotime.com/rawat-adat-dan-budaya-minangkabau-kan-pauh-ix-gelar-festival-seni-budaya-2026-22116/",
+        "summary": "Kerapatan Adat Nagari (KAN) Pauh IX menggelar Festival Seni Budaya 2026 di Kuranji, Padang, Sabtu (14/11/2026), untuk pertama kalinya, dengan puluhan peserta dari sembilan tim ninik mamak. Peserta berlomba dalam pasambahan adat makan dan silat tradisi Minangkabau sebagai upaya mewariskan nilai adat kepada generasi muda.",
+        "title": "Rawat Adat dan Budaya Minangkabau, KAN Pauh IX Gelar Festival Seni Budaya 2026",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
         "slug": "festival-topeng-dunia-solo",
         "title": "Topeng 8 Negara Berkumpul di Solo: Festival Topeng Dunia 2026 Dimulai",
         "summary": "International Mask Festival (IMF) 2026 digelar di Pendhapi Gede Balai Kota Surakarta pada 13–14 November 2026, memasuki tahun ke-13 penyelenggaraan. Festival bertema \"Topeng Bumi, Satu Dunia\" ini mempertemukan seniman topeng dari delapan negara dengan seniman dari berbagai daerah di Indonesia, lewat pertunjukan tari topeng, konferensi, pameran seni, workshop, dan bazar UMKM.",
@@ -465,6 +645,24 @@
       }
     ],
     "Sains": [
+      {
+        "slug": "kajian-kelayakan-beton-instan-bisa",
+        "source": "Berita Unismuh Makassar",
+        "sourceUrl": "https://news.unismuh.ac.id/2026/11/14/dosen-fakultas-teknik-unismuh-makassar-terlibat-dalam-kajian-kelayakan-beton-instan-bisa/",
+        "summary": "Dosen Fakultas Teknik Unismuh Makassar, Muhammad Syarif, terlibat dalam pengkajian kelayakan produk Beton Instan BISA yang dikembangkan Universitas Bandar Lampung, bersama pakar dari empat perguruan tinggi dalam rangkaian KSTI 2026 di ITS Surabaya, 10–13 November 2026. Kajian menilai legalitas, teknis, mutu, dan potensi hilirisasi inovasi material konstruksi tersebut.",
+        "title": "Dosen Fakultas Teknik Unismuh Makassar Terlibat dalam Kajian Kelayakan Beton Instan BISA",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
+      {
+        "slug": "kppti-ksti-2026-usai-cetak-biru-kampus",
+        "source": "KalderaNews.com",
+        "sourceUrl": "https://www.kalderanews.com/2026/11/kppti-dan-ksti-2026-usai-cetak-biru-kampus-jangan-sekadar-omon-omon/",
+        "summary": "KPPTI 2026 di Unair dan KSTI 2026 di ITS Surabaya resmi ditutup Jumat (13/11/2026), menghasilkan rancangan Cetak Biru Perguruan Tinggi Berdampak 2045 dan puluhan MoU. KSTI 2026 memamerkan 567 produk inovasi, menarik 16.000–17.000 pengunjung, dan menghasilkan 38 kesepakatan kerja sama hilirisasi riset dengan mitra industri.",
+        "title": "KPPTI dan KSTI 2026 Usai, Cetak Biru Kampus Jangan Sekadar Omon-Omon",
+        "time": "14 Nov 2026",
+        "read": "3 mnt baca"
+      },
       {
         "slug": "sinyal-radio-gj725a",
         "title": "Sinyal Radio Misterius Terdeteksi dari Bintang GJ 725A, 11,5 Tahun Cahaya dari Bumi",
