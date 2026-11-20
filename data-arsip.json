@@ -1,7 +1,161 @@
 {
- "generated": "2026-11-20T16:47:43",
- "total": 193,
+ "generated": "2026-11-20T22:59:49",
+ "total": 206,
  "days": [
+  {
+   "date": "2026-11-21",
+   "label": "Sabtu, 21 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "bitcoin-jebol-bawah-60-ribu",
+       "title": "Bitcoin Jebol ke Bawah US$60.000, Terendah Sejak Juli",
+       "summary": "Bitcoin jebol ke bawah US$60.000 pada Jumat, 20 November 2026, untuk pertama kalinya sejak awal Juli. Harga sempat menyentuh US$58.678, terendah sejak 1 Juli. Tekanan datang dari ekspektasi kenaikan suku bunga The Fed pada Desember dan aksi jual saham teknologi global.",
+       "category": "Ekonomi",
+       "source": "TradingView",
+       "sourceUrl": "https://www.tradingview.com",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kspi-tolak-ump-jakarta-2027",
+       "title": "KSPI Tolak UMP Jakarta 2027, Minta Revisi ke Rp6.210.040",
+       "summary": "KSPI menolak UMP Jakarta 2027 sebesar Rp6.136.941 yang ditetapkan Gubernur Pramono Anung, Jumat, 20 November 2026. Presiden KSPI Said Iqbal menyebut angka itu belum mencukupi kebutuhan hidup layak dan meminta revisi menjadi Rp6.210.040. Surat permintaan revisi dikirim paling lambat Senin, 23 November.",
+       "category": "Ekonomi",
+       "source": "AsatuNews",
+       "sourceUrl": "https://www.asatunews.co.id/buruh-gugat-ptun-revisi-ump-2027",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "timnas-u17-juara-grup-a",
+       "title": "Timnas U-17 Juara Grup A Usai Imbang 2-2 Lawan Myanmar",
+       "summary": "Timnas Indonesia U-17 menutup Kualifikasi Piala Asia U-17 2027 sebagai juara Grup A usai menahan imbang tuan rumah Myanmar 2-2 di Stadion Thuwunna, Yangon, Jumat, 20 November 2026. Gol Dolvi Solossa menit 90+2 memastikan Garuda Muda lolos ke putaran final di Uzbekistan dengan 10 poin.",
+       "category": "Olahraga",
+       "source": "AFC",
+       "sourceUrl": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-a-indonesia-2-2-myanmar-philippines-2-2-afghanistan",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "duta-palma-dituntut-819-triliun",
+       "title": "Duta Palma Dituntut Rp81,9 Triliun, 7 Perusahaan Minta Dibubarkan",
+       "summary": "Jaksa menuntut tujuh perusahaan Duta Palma Group membayar denda dan uang pengganti senilai total Rp81,9 triliun dalam sidang di Pengadilan Tipikor Jakarta, Kamis, 19 November 2026. Tuntutan terdiri atas denda Rp100 miliar per perusahaan dan uang pengganti Rp81,2 triliun. Jaksa juga meminta ketujuh perusahaan dibubarkan.",
+       "category": "Hukum",
+       "source": "Topik.id",
+       "sourceUrl": "https://www.topik.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bpom-bongkar-39-obat-ilegal",
+       "title": "BPOM Bongkar 39 Obat Herbal Ilegal Berbahan Kimia Obat",
+       "summary": "BPOM menemukan 39 produk obat bahan alam ilegal yang mengandung bahan kimia obat dari pengawasan Agustus hingga September 2026. Sebanyak 23 produk mencantumkan nomor izin edar fiktif, sedangkan 16 lainnya tidak terdaftar sama sekali. Produk itu mengandung sildenafil, deksametason, dan parasetamol.",
+       "category": "Kesehatan",
+       "source": "BPOM",
+       "sourceUrl": "https://www.pom.go.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ka-siantar-tabrak-angkot-1-tewas",
+       "title": "KA Siantar Tabrak Angkot, 1 Tewas dan Lokomotif Terbakar",
+       "summary": "Kereta Api Siantar Ekspres menabrak angkot Sinar Tani di pelintasan sebidang tanpa palang pintu di Sinaksak, Simalungun, Sumatera Utara, Jumat sore, 20 November 2026. Sopir angkot tewas di lokasi, tiga awak kereta luka bakar. Benturan memicu kebakaran; 264 penumpang kereta selamat.",
+       "category": "Peristiwa",
+       "source": "Tribunnews",
+       "sourceUrl": "https://www.tribunnews.com",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "empat-wakil-ri-semifinal-hong-kong-open",
+       "title": "Empat Wakil Indonesia ke Semifinal Hong Kong Open 2026",
+       "summary": "Indonesia menempatkan empat wakil di semifinal Hong Kong Open 2026 usai memenangi laga perempat final di Kai Tak Arena, Jumat, 20 November 2026. Moh Zaki Ubaidillah menang telak 21-8, 21-9 atas Toma Junior Popov. Semifinal digelar Sabtu, 21 November, mulai pukul 09.00 WIB.",
+       "category": "Olahraga",
+       "source": "iNews",
+       "sourceUrl": "https://www.inews.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ihsg-anjlok-371-persen-sepekan",
+       "title": "IHSG Anjlok 3,71% Sepekan, Net Sell Asing Tembus Rp100,2 T",
+       "summary": "IHSG ditutup melemah 0,92 persen ke level 5.146,33 pada Jumat, 20 November 2026, memperpanjang pelemahan lima hari bursa berturut-turut. Sepanjang pekan, IHSG anjlok 3,71 persen atau 198 poin. Investor asing mencatat jual bersih Rp947,41 miliar pada Jumat, sehingga total jual bersih sepanjang 2026 menembus Rp100,2 triliun.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "mpr-verifikasi-cawapres-tim-36-orang",
+       "title": "MPR Verifikasi Cawapres: Tim 36 Orang, 3 Pokja, Kerja 7 Hari",
+       "summary": "MPR membentuk tim verifikasi calon wakil presiden beranggotakan 36 orang yang dibagi dalam tiga kelompok kerja dan bekerja selama tujuh hari, mulai rapat perdana Jumat, 20 November 2026. Dua nama dari Presiden Prabowo dijadwalkan diserahkan pada 25 November 2026.",
+       "category": "Politik",
+       "source": "iNews",
+       "sourceUrl": "https://www.inews.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "oppo-find-x10-resmi-indonesia",
+       "title": "Oppo Find X10 Resmi di Indonesia, Dua Kamera 200 MP",
+       "summary": "Oppo Find X10 resmi dipasarkan di Indonesia dengan harga Rp20.999.000 untuk varian 12/512 GB. Ponsel ini membawa dua kamera 200 MP dengan lensa Hasselblad, baterai 8.000 mAh, dan chip Dimensity 9600M. Cashback Rp1 juta berlaku hingga 30 November 2026.",
+       "category": "Teknologi",
+       "source": "Gadgetren",
+       "sourceUrl": "https://gadgetren.com",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "benteng-culture-fest-2026-tangerang",
+       "title": "Benteng Culture Fest 2026 Dibuka di Tangerang",
+       "summary": "Benteng Culture Fest 2026 dibuka di Taman Elektrik, Tangerang, dan berlangsung 20–22 November 2026. Festival ini menampilkan Reog Ponorogo, Tari Piring, dan berbagai pertunjukan seni budaya daerah.",
+       "category": "Budaya",
+       "source": "Antara Foto",
+       "sourceUrl": "https://www.antaranews.com",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "hujan-meteor-leonid-aktif-hingga-30-november",
+       "title": "Hujan Meteor Leonid Masih Aktif hingga 30 November",
+       "summary": "Hujan meteor Leonid masih aktif hingga 30 November 2026, meski puncaknya sudah lewat pada 17–18 November. Pada kondisi langit ideal, laju meteor mencapai sekitar 15 meteor per jam.",
+       "category": "Sains",
+       "source": "Topik.id",
+       "sourceUrl": "https://www.topik.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "gempa-m46-sukabumi-sabtu-dini-hari",
+       "title": "Gempa M4,6 Guncang Selatan Sukabumi, Sabtu Dini Hari",
+       "summary": "Gempa bumi magnitudo 4,6 mengguncang wilayah selatan Sukabumi pada Sabtu dini hari, 21 November 2026 pukul 00.50 WIB, dengan kedalaman 17 kilometer. Guncangan dirasakan hingga Bandung dan Cimahi. Belum ada laporan kerusakan maupun korban.",
+       "category": "Bencana",
+       "source": "BMKG",
+       "sourceUrl": "https://www.bmkg.go.id",
+       "time": "21 Nov 2026",
+       "editionDate": "2026-11-21",
+       "editionLabel": "Pagi"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "label": "Jumat, 20 November 2026",

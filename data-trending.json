@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-21T00:47:43+08:00",
- "edition": "tambahan",
+ "updated": "2026-11-21T06:59:49+08:00",
+ "edition": "pagi",
  "items": [
   {
-   "kategori": "Entertainment",
-   "keyword": "exo",
-   "label": "DAY OFF · 21–22 Nov · Istora Senayan",
+   "kategori": "Bencana",
+   "keyword": "BMKG hujan lebat",
+   "label": "Siaga 21 Nov · bibit siklon 96S di barat Bengkulu",
    "rank": 1,
-   "topic": "D.O. EXO Gelar Konser di Istora Senayan"
-  },
-  {
-   "kategori": "Entertainment",
-   "keyword": "my chemical romance",
-   "label": "22 Nov · Jakarta International Stadium",
-   "rank": 2,
-   "topic": "My Chemical Romance Konser di JIS"
-  },
-  {
-   "kategori": "Entertainment",
-   "keyword": "konser internasional",
-   "label": "GNR, D.O. EXO, MCR akhir pekan ini",
-   "rank": 3,
-   "topic": "Pekan Konser Internasional Jakarta"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "cuaca ekstrem",
-   "label": "BMKG: 12 provinsi siaga hujan lebat",
-   "rank": 4,
-   "topic": "Cuaca Ekstrem Akhir Pekan, Waspada Gelombang Tinggi"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "2397 bencana",
-   "label": "Karhutla dan banjir mendominasi",
-   "rank": 5,
-   "topic": "BNPB: 2.397 Bencana Terjadi hingga November 2026"
+   "topic": "BMKG: 12 Provinsi Siaga Hujan Lebat Hari Ini"
   },
   {
    "kategori": "Ekonomi",
-   "keyword": "suku bunga",
-   "label": "RDG 17–18 Nov · rupiah jadi prioritas",
+   "keyword": "UMP Lampung",
+   "label": "Lampung Rp3,28 jt · Kaltara Rp4.027.901",
+   "rank": 2,
+   "topic": "UMP Daerah: Lampung Naik 7,79%, NTT dan Kaltara Menyusul"
+  },
+  {
+   "kategori": "Entertainment",
+   "keyword": "SCTV Awards",
+   "label": "Malam puncak 20 Nov · Asmara Gen Z sinetron terngetop",
+   "rank": 3,
+   "topic": "SCTV Awards 2026: Fattah Syach dan Aqeela Calista Menang"
+  },
+  {
+   "kategori": "Teknologi",
+   "keyword": "Redmi 17 5G",
+   "label": "Snapdragon 4 Gen 5 · baterai 7.500 mAh",
+   "rank": 4,
+   "topic": "Redmi 17 5G Resmi di Indonesia, Rp3,999 Juta"
+  },
+  {
+   "kategori": "Kesehatan",
+   "keyword": "vaksin TB M72",
+   "label": "Efikasi awal 54–57% · joint assessment dengan EMA",
+   "rank": 5,
+   "topic": "BPOM Kaji Vaksin TB M72, Peluang Persetujuan Bersyarat"
+  },
+  {
+   "kategori": "Sains",
+   "keyword": "Alpha Monocerotid",
+   "label": "Hujan meteor minor · kalah pamor dari Leonid",
    "rank": 6,
-   "topic": "BI Naikkan Suku Bunga Acuan Jadi 6%"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "gempa kendari",
-   "label": "M3,7 · 5 km utara Kendari · 18.33 WIB",
-   "rank": 7,
-   "topic": "Gempa M3,7 Guncang Kendari"
-  },
-  {
-   "kategori": "Politik",
-   "keyword": "mafia alsintan",
-   "label": "85 traktor terancam ditarik",
-   "rank": 8,
-   "topic": "Mentan Bongkar Dugaan Mafia Alsintan di Sulsel"
-  },
-  {
-   "kategori": "Olahraga",
-   "keyword": "marquez",
-   "label": "MotoGP Portugal jadi penentu",
-   "rank": 9,
-   "topic": "Marc Márquez di Ambang Gelar Dunia MotoGP"
+   "topic": "Hujan Meteor Alpha Monocerotid Memuncak 21–22 November"
   },
   {
    "kategori": "Peristiwa",
-   "keyword": "operasi zebra",
-   "label": "Razia 16–29 Nov · knalpot brong disasar",
+   "keyword": "gempa Ruteng",
+   "label": "20.51 WIB · 57 km utara Ruteng · dirasakan II–III MMI",
+   "rank": 7,
+   "topic": "Gempa M3,6 Guncang Ruteng, Manggarai"
+  },
+  {
+   "kategori": "Olahraga",
+   "keyword": "Arema PSS",
+   "label": "Pekan ke-10 · Arema naik ke peringkat 11",
+   "rank": 8,
+   "topic": "Arema FC Bantai PSS Sleman 3-0"
+  },
+  {
+   "kategori": "Olahraga",
+   "keyword": "Persija PSM",
+   "label": "Pekan ke-10 · Persija pimpin klasemen 21 poin",
+   "rank": 9,
+   "topic": "Persija vs PSM Makassar Hari Ini"
+  },
+  {
+   "kategori": "Olahraga",
+   "keyword": "Garudayaksa Madura",
+   "label": "Gol Jayro Jean 71' · Madura gagal ke puncak",
    "rank": 10,
-   "topic": "Operasi Zebra 2026 Berjalan hingga 29 November"
+   "topic": "Garudayaksa Kalahkan Madura United 1-0"
   }
  ]
 }
