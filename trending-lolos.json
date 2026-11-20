@@ -1,0 +1,72 @@
+[
+  {
+    "kategori": "Entertainment",
+    "keyword": "exo",
+    "label": "DAY OFF · 21–22 Nov · Istora Senayan",
+    "rank": 1,
+    "topic": "D.O. EXO Gelar Konser di Istora Senayan"
+  },
+  {
+    "kategori": "Entertainment",
+    "keyword": "my chemical romance",
+    "label": "22 Nov · Jakarta International Stadium",
+    "rank": 2,
+    "topic": "My Chemical Romance Konser di JIS"
+  },
+  {
+    "kategori": "Entertainment",
+    "keyword": "konser internasional",
+    "label": "GNR, D.O. EXO, MCR akhir pekan ini",
+    "rank": 3,
+    "topic": "Pekan Konser Internasional Jakarta"
+  },
+  {
+    "kategori": "Bencana",
+    "keyword": "cuaca ekstrem",
+    "label": "BMKG: 12 provinsi siaga hujan lebat",
+    "rank": 4,
+    "topic": "Cuaca Ekstrem Akhir Pekan, Waspada Gelombang Tinggi"
+  },
+  {
+    "kategori": "Bencana",
+    "keyword": "2397 bencana",
+    "label": "Karhutla dan banjir mendominasi",
+    "rank": 5,
+    "topic": "BNPB: 2.397 Bencana Terjadi hingga November 2026"
+  },
+  {
+    "kategori": "Ekonomi",
+    "keyword": "suku bunga",
+    "label": "RDG 17–18 Nov · rupiah jadi prioritas",
+    "rank": 6,
+    "topic": "BI Naikkan Suku Bunga Acuan Jadi 6%"
+  },
+  {
+    "kategori": "Bencana",
+    "keyword": "gempa kendari",
+    "label": "M3,7 · 5 km utara Kendari · 18.33 WIB",
+    "rank": 7,
+    "topic": "Gempa M3,7 Guncang Kendari"
+  },
+  {
+    "kategori": "Politik",
+    "keyword": "mafia alsintan",
+    "label": "85 traktor terancam ditarik",
+    "rank": 8,
+    "topic": "Mentan Bongkar Dugaan Mafia Alsintan di Sulsel"
+  },
+  {
+    "kategori": "Olahraga",
+    "keyword": "marquez",
+    "label": "MotoGP Portugal jadi penentu",
+    "rank": 9,
+    "topic": "Marc Márquez di Ambang Gelar Dunia MotoGP"
+  },
+  {
+    "kategori": "Peristiwa",
+    "keyword": "operasi zebra",
+    "label": "Razia 16–29 Nov · knalpot brong disasar",
+    "rank": 10,
+    "topic": "Operasi Zebra 2026 Berjalan hingga 29 November"
+  }
+]

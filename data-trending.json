@@ -1,1 +1,76 @@
-{"edition":"pagi","items":[{"kategori":"News","keyword":"hujan","label":"Hujan lebat, 10 provinsi siaga","rank":1,"topic":"BMKG: 34 Provinsi Diguyur Hujan Hari Ini"},{"kategori":"Politik","keyword":"karhutla","label":"Minta maaf di hadapan pemimpin ASEAN","rank":2,"topic":"Prabowo Minta Maaf Soal Karhutla di KTT ASEAN"},{"kategori":"Politik","keyword":"Dasco","label":"Gerindra usung Dasco, pemilihan 2 Des","rank":3,"topic":"Dasco Diusung Jadi Wapres"},{"kategori":"Ekonomi","keyword":"pensiun","label":"Info gaji pensiunan PNS paling dicari","rank":4,"topic":"Gaji Pensiunan PNS Terbaru"},{"kategori":"Entertainment","keyword":"Feni Rose","label":"Presenter minta maaf soal kalung","rank":5,"topic":"Feni Rose Minta Maaf Soal Kalung Selvi Ananda"},{"kategori":"News","keyword":"Operasi Zebra","label":"Razia 16–29 Nov, knalpot brong disasar","rank":6,"topic":"Operasi Zebra 2026 Mulai Hari Ini"},{"kategori":"News","keyword":"Gunung Ibu","label":"Kolom abu 500 m, status Waspada","rank":7,"topic":"Gunung Ibu Kembali Erupsi"},{"kategori":"Kesehatan","keyword":"MBG","label":"Kemenkes soroti mentalitas pekerja","rank":8,"topic":"Keracunan MBG: 50.059 Korban di 36 Provinsi"},{"kategori":"Ekonomi","keyword":"FTSE","label":"14 saham HSC dikeluarkan dari indeks","rank":9,"topic":"FTSE Russell: Indonesia Tetap Secondary Emerging Market"},{"kategori":"Olahraga","keyword":"Timnas U-17","label":"Penentu puncak grup, 17 Nov 15.30 WIB","rank":10,"topic":"Timnas U-17 vs Afghanistan Besok"}],"updated":"2026-11-16T09:20:00+08:00"}
+{
+ "updated": "2026-11-21T00:47:43+08:00",
+ "edition": "tambahan",
+ "items": [
+  {
+   "kategori": "Entertainment",
+   "keyword": "exo",
+   "label": "DAY OFF · 21–22 Nov · Istora Senayan",
+   "rank": 1,
+   "topic": "D.O. EXO Gelar Konser di Istora Senayan"
+  },
+  {
+   "kategori": "Entertainment",
+   "keyword": "my chemical romance",
+   "label": "22 Nov · Jakarta International Stadium",
+   "rank": 2,
+   "topic": "My Chemical Romance Konser di JIS"
+  },
+  {
+   "kategori": "Entertainment",
+   "keyword": "konser internasional",
+   "label": "GNR, D.O. EXO, MCR akhir pekan ini",
+   "rank": 3,
+   "topic": "Pekan Konser Internasional Jakarta"
+  },
+  {
+   "kategori": "Bencana",
+   "keyword": "cuaca ekstrem",
+   "label": "BMKG: 12 provinsi siaga hujan lebat",
+   "rank": 4,
+   "topic": "Cuaca Ekstrem Akhir Pekan, Waspada Gelombang Tinggi"
+  },
+  {
+   "kategori": "Bencana",
+   "keyword": "2397 bencana",
+   "label": "Karhutla dan banjir mendominasi",
+   "rank": 5,
+   "topic": "BNPB: 2.397 Bencana Terjadi hingga November 2026"
+  },
+  {
+   "kategori": "Ekonomi",
+   "keyword": "suku bunga",
+   "label": "RDG 17–18 Nov · rupiah jadi prioritas",
+   "rank": 6,
+   "topic": "BI Naikkan Suku Bunga Acuan Jadi 6%"
+  },
+  {
+   "kategori": "Bencana",
+   "keyword": "gempa kendari",
+   "label": "M3,7 · 5 km utara Kendari · 18.33 WIB",
+   "rank": 7,
+   "topic": "Gempa M3,7 Guncang Kendari"
+  },
+  {
+   "kategori": "Politik",
+   "keyword": "mafia alsintan",
+   "label": "85 traktor terancam ditarik",
+   "rank": 8,
+   "topic": "Mentan Bongkar Dugaan Mafia Alsintan di Sulsel"
+  },
+  {
+   "kategori": "Olahraga",
+   "keyword": "marquez",
+   "label": "MotoGP Portugal jadi penentu",
+   "rank": 9,
+   "topic": "Marc Márquez di Ambang Gelar Dunia MotoGP"
+  },
+  {
+   "kategori": "Peristiwa",
+   "keyword": "operasi zebra",
+   "label": "Razia 16–29 Nov · knalpot brong disasar",
+   "rank": 10,
+   "topic": "Operasi Zebra 2026 Berjalan hingga 29 November"
+  }
+ ]
+}

@@ -1,0 +1,2257 @@
+{
+ "generated": "2026-11-20T16:47:43",
+ "total": 193,
+ "days": [
+  {
+   "date": "2026-11-20",
+   "label": "Jumat, 20 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "icj-myanmar-genosida-rohingya",
+       "title": "ICJ Nyatakan Myanmar Bersalah Genosida terhadap Rohingya",
+       "summary": "Mahkamah Internasional memutuskan Myanmar terbukti melakukan genosida terhadap etnis Rohingya dalam operasi militer 2017 di Rakhine Utara.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "icw-adukan-puan-mkd",
+       "title": "ICW Adukan Puan Maharani dan Habiburokhman ke MKD soal UU Perampasan Aset",
+       "summary": "Indonesia Corruption Watch bersama koalisi masyarakat sipil mengadukan Ketua DPR Puan Maharani dan Ketua Baleg Habiburokhman ke Mahkamah Kehormatan Dewan.",
+       "category": "Hukum",
+       "source": "Kompas.com",
+       "sourceUrl": "https://nasional.kompas.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "trilateral-deklarasi-damai",
+       "title": "Trilateral Trump, Xi, Putin Hasilkan Deklarasi Perdamaian",
+       "summary": "Presiden China Xi Jinping menjadi tuan rumah pertemuan trilateral pertama dengan Presiden AS Donald Trump dan Presiden Rusia Vladimir Putin di Shenzhen.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "persib-bantai-shan-united-6-0",
+       "title": "Persib Bantai Shan United 6-0 di GBLA, Sekulic Brace",
+       "summary": "Persib Bandung membantai Shan United 6–0 pada laga Grup B ASEAN Club Championship di Stadion Gelora Bandung Lautan Api.",
+       "category": "Olahraga",
+       "source": "persib.co.id",
+       "sourceUrl": "https://persib.co.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ekspose-makar-kejagung",
+       "title": "Bareskrim Ekspose Dugaan Makar di Kejagung Hari Ini",
+       "summary": "Bareskrim Polri akan menggelar ekspose kasus dugaan makar di Kejaksaan Agung pada Jumat, 20 November 2026.",
+       "category": "Hukum",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ump-jakarta-2027-tiga-opsi",
+       "title": "UMP Jakarta 2027: Tiga Opsi Rp6,05–6,21 Juta, Diputuskan 21 November",
+       "summary": "Dewan Pengupahan DKI Jakarta merampungkan sidang penetapan Upah Minimum Provinsi 2027 dengan tiga opsi di meja gubernur.",
+       "category": "Ekonomi",
+       "source": "Journalarta",
+       "sourceUrl": "https://journalarta.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "sjafrie-bantah-ganti-panglima",
+       "title": "Menhan Sjafrie Bantah Pergantian Panglima TNI",
+       "summary": "Menteri Pertahanan Sjafrie Sjamsoeddin membantah kabar pergantian Panglima TNI usai bertemu tertutup dengan Wakil Ketua DPR Sufmi Dasco Ahmad.",
+       "category": "Politik",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ipo-anthropic-rekor-dunia",
+       "title": "IPO Anthropic US$81,3 Miliar, Terbesar Sepanjang Sejarah",
+       "summary": "Anthropic, pembuat chatbot Claude, mencatatkan penawaran saham perdana terbesar sepanjang sejarah bursa pada Kamis, 19 November 2026.",
+       "category": "Teknologi",
+       "source": "TechCrunch",
+       "sourceUrl": "https://techcrunch.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "ump-jakarta-2027-naik-71-persen",
+       "title": "UMP Jakarta 2027 Naik 7,1% Jadi Rp6.136.941",
+       "summary": "Gubernur Pramono Anung menetapkan Upah Minimum Provinsi Jakarta 2027 sebesar Rp6.136.941, naik 7,1 persen dari Rp5.729.876.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "prabowo-xi-sepakati-rp1600-triliun",
+       "title": "Prabowo–Xi Sepakati Investasi US$86,8 Miliar atau Rp1.600 Triliun",
+       "summary": "Presiden Prabowo bertemu Presiden Xi Jinping di Shenzhen dan menghasilkan enam kesepakatan, termasuk komitmen investasi US$86,8 miliar.",
+       "category": "Politik",
+       "source": "Bloomberg Technoz",
+       "sourceUrl": "https://www.bloombergtechnoz.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ekspose-makar-ditunda-pekan-depan",
+       "title": "Ekspose Dugaan Makar Ditunda ke Pekan Depan",
+       "summary": "Bareskrim Polri menunda ekspose kasus dugaan makar bersama Kejagung; penyidik masih menggeledah lokasi di Bogor dan Tangerang.",
+       "category": "Hukum",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "myanmar-sebut-putusan-icj-tak-adil",
+       "title": "Myanmar Sebut Putusan ICJ Genosida Tidak Adil",
+       "summary": "Pemerintah Myanmar menyebut putusan ICJ yang menyatakan negaranya bersalah genosida sebagai tidak adil; Inggris mengusir atase pertahanannya.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ihsg-anjlok-lima-hari-beruntun",
+       "title": "IHSG Anjlok Lima Hari Beruntun, Emas Antam Rp2.500.000",
+       "summary": "IHSG ditutup melemah 0,92 persen ke 5.146,3 pada Jumat, 20 November 2026; emas Antam turun Rp11.000 ke Rp2.500.000 per gram.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bitcoin-tembus-bawah-usd62-ribu",
+       "title": "Bitcoin Tembus Bawah US$62 Ribu, Terendah Sejak Juli",
+       "summary": "Bitcoin diperdagangkan di bawah US$62.000 pada 20 November 2026; ETF Bitcoin spot AS keluar US$582,3 juta dalam sehari.",
+       "category": "Ekonomi",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "komdigi-tagih-penjelasan-google",
+       "title": "Komdigi Tagih Penjelasan Google soal 19.372 Kanal YouTube",
+       "summary": "Komdigi meminta Google menjelaskan penutupan 19.372 kanal YouTube yang dikaitkan dengan operasi pengaruh terkoordinasi terkait Indonesia.",
+       "category": "Teknologi",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "taiwan-sita-20-ton-kopi-ri",
+       "title": "Taiwan Sita 20 Ton Kopi RI, BPOM Didesak Selidiki Ladaku",
+       "summary": "Otoritas pangan Taiwan menyita sekitar 20 ton biji kopi hijau RI karena residu sipermetrin; pegiat konsumen mendesak BPOM menyelidiki Ladaku.",
+       "category": "Ekonomi",
+       "source": "CNBC Indonesia",
+       "sourceUrl": "https://www.cnbcindonesia.com",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Malam"
+      }
+     ]
+    },
+    {
+     "label": "Tambahan",
+     "items": [
+      {
+       "slug": "konser-guns-n-roses-gbk-jakarta-2026",
+       "title": "Guns N' Roses Guncang GBK Jakarta, Dibuka 9 Dewa Gitar",
+       "summary": "Guns N' Roses tampil di Stadion Madya GBK, Jakarta, Sabtu 21 November 2026, dengan penampilan utama pukul 19.30 WIB dan dibuka segmen 9 Dewa Gitar pukul 18.07 WIB. Promotor Rajawali Indonesia menjual tiket Rp1,75 juta–Rp7,5 juta.",
+       "category": "Entertainment",
+       "source": "Telegraf.co.id",
+       "sourceUrl": "https://telegraf.co.id/jadwal-info-tiket-setlist-lagu-dan-aturan-masuk-konser-guns-n-roses-di-gbk-besok/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "aqeela-calista-aktris-utama-sctv-awards-2026",
+       "title": "Aqeela Calista Raih Aktris Utama Paling Ngetop SCTV Awards 2026",
+       "summary": "Aqeela Calista memenangi kategori Aktris Utama Paling Ngetop di malam puncak SCTV Awards 2026, Jumat 20 November 2026 pukul 19.00 WIB, live dari Studio 6 EMTEK City, Jakarta. Ia juga memenangi Aktris FTV Paling Ngetop di malam yang sama.",
+       "category": "Entertainment",
+       "source": "SCTV (Instagram resmi)",
+       "sourceUrl": "https://www.instagram.com/reel/Df-EbM8TdzM/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "film-menang-untuk-kalah-tayang-bioskop",
+       "title": "Menang untuk Kalah, Drama Keluarga soal Judi Online Tayang",
+       "summary": "Film drama keluarga \"Menang untuk Kalah\" mulai tayang di bioskop Indonesia pada Kamis 19 November 2026. Dibintangi Surya Saputra dan Lulu Tobing, film garapan Hasto Broto ini mengisahkan kepala keluarga Bima yang terjerat judi online dan pinjaman online hingga mengancam keharmonisan keluarganya.",
+       "category": "Entertainment",
+       "source": "Aktualita.co",
+       "sourceUrl": "https://aktualita.co/hiburan/sinopsis-menang-untuk-kalah-film-surya-saputra-judi-online",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "perpusnas-manuskrip-nusantara-bahan-bacaan-anak",
+       "title": "Perpusnas Ubah Manuskrip Nusantara Jadi 175 Bahan Bacaan Anak",
+       "summary": "Perpusnas mengembangkan sekitar 175 bahan bacaan anak dari manuskrip Nusantara sepanjang 2024–2026, disampaikan Kepala Perpusnas E. Aminudin Aziz dalam Festival Naskah Nusantara di UIN Ar-Raniry, Banda Aceh, 20 November 2026. Di Aceh tercatat sekitar 10.000 naskah, dengan 112 naskah musnah akibat gempa dan tsunami serta lebih dari 1.000 hilang atau terbawa banjir pada 2025.",
+       "category": "Budaya",
+       "source": "Industry.co.id",
+       "sourceUrl": "https://www.industry.co.id/read/159555/perpusnas-kembangkan-175-bahan-bacaan-dari-manuskrip-nusantara-ribuan-naskah-aceh-terancam-hilang",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "festival-bunaken-2026-dibuka-manado",
+       "title": "Festival Bunaken 2026 Dibuka, Angkat Konservasi Laut dan Budaya",
+       "summary": "Festival Bunaken 2026 resmi dibuka di kawasan Megamas, Manado, Jumat 20 November 2026, dan berlangsung 20–21 November 2026 dengan tema \"Blue Harmony Ocean, Conservation, Culture and Creative Economy for Sustainable Tourism\". Rangkaiannya meliputi bersih pantai, penanaman mangrove, transplantasi terumbu karang, pertunjukan seni budaya, dan pameran UMKM.",
+       "category": "Budaya",
+       "source": "HelloManado.com",
+       "sourceUrl": "https://hellomanado.com/2026/11/20/keren-festival-bunaken-tahun-2026-resmi-digelar-usung-temablue-harmony-ocean-conservation-culture-and-creative-economy-for-sustainable-touris/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "dekranasda-tangsel-budaya-tempo-doeloe",
+       "title": "Dekranasda Tangsel Angkat Budaya Tempo Doeloe dan Kriya Lokal",
+       "summary": "Pekan Dekranasda 2026 di Atrium Bintaro Jaya Xchange, Tangerang Selatan, berlangsung 20–22 November 2026 dengan tema \"Panggung Budaya Tempo Doeloe\" dan dibuka 20 November 2026. Acara ini memadukan pameran kriya lokal, Dekranasda Tangsel Award, diskusi Paseban Budaya, dan peragaan busana untuk mendorong kriya lokal menembus pasar nasional.",
+       "category": "Budaya",
+       "source": "SerpongUpdate.com",
+       "sourceUrl": "https://serpongupdate.com/dekranasda-tangsel-angkat-budaya-tempo-dulu-kriya-lokal-didorong-tembus-pasar-nasional/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "menkes-budi-kandidat-dirjen-who",
+       "title": "Menkes Budi Paparkan Visi sebagai Kandidat Dirjen WHO",
+       "summary": "Menteri Kesehatan Budi Gunadi Sadikin memaparkan visinya sebagai kandidat Direktur Jenderal WHO periode 2027–2032 dalam forum kandidat di Jenewa, Swiss, pada 19 November 2026, dengan tiga pilar reformasi: mengembalikan WHO ke mandat penetap standar berbasis sains, kedaulatan kesehatan negara, dan pembenahan internal organisasi.",
+       "category": "Kesehatan",
+       "source": "ntvnews.id",
+       "sourceUrl": "https://www.ntvnews.id/news/01126992/maju-jadi-kandidat-dirjen-who-menkes-budi-janji-perkuat-layanan-kesehatan-dunia",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "cek-kesehatan-gratis-114-juta-warga",
+       "title": "Cek Kesehatan Gratis Jangkau 114 Juta Warga Indonesia",
+       "summary": "Program Cek Kesehatan Gratis (CKG) telah menjangkau lebih dari 114 juta penduduk hingga 1 November 2026 dan mendeteksi lebih dari 8 juta warga pengidap hipertensi atau diabetes tanpa gejala, namun baru sekitar 900 ribu di antaranya yang aktif berobat, menurut sambutan Menkes pada peringatan Hari Kesehatan Nasional ke-62.",
+       "category": "Kesehatan",
+       "source": "Inilah.co.id",
+       "sourceUrl": "https://inilah.co.id/2026/11/20/hkn-ke-62-pemprov-sulsel-perkuat-deteksi-dini-dan-perluas-akses-layanan-kesehatan/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kelurahan-siaga-tbc-metro-100-persen",
+       "title": "Metro Luncurkan Kelurahan Siaga TBC, Capai 100 Persen",
+       "summary": "Wali Kota Metro meluncurkan Kelurahan Siaga TBC Kota Metro Tahun 2026 pada Jumat, 20 November 2026, setelah seluruh kelurahan di kota itu berhasil membentuk Kelurahan Siaga TBC — capaian 100 persen dalam tujuh bulan — sebagai tindak lanjut Keputusan Bersama tiga menteri tentang Desa dan Kelurahan Siaga Tuberkulosis.",
+       "category": "Kesehatan",
+       "source": "Pemerintah Kota Metro (info.metrokota.go.id)",
+       "sourceUrl": "https://info.metrokota.go.id/wali-kota-metro-launching-kelurahan-siaga-tbc-2026-seluruh-kelurahan-berhasil-capai-target-100-persen/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "webb-rekam-bintang-raksasa-telan-pendamping-andromeda",
+       "title": "Webb Rekam Bintang Raksasa Telan Pendampingnya di Andromeda",
+       "summary": "Astronom untuk pertama kalinya mengamati langsung bintang raksasa menelan bintang pendampingnya: bintang berukuran tujuh kali massa Matahari dan 18.000 kali lebih terang itu menyerap pendamping seukuran Matahari di galaksi Andromeda, sekitar 2,5 juta tahun cahaya dari Bumi, dalam riset yang terbit di jurnal Nature.",
+       "category": "Sains",
+       "source": "Reuters (via Duke FM)",
+       "sourceUrl": "https://dukecountry.fm/2026/11/20/astronomers-observe-a-huge-puffy-star-merge-with-smaller-companion/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "chip-merah-putih-peruri-itb-e-paspor",
+       "title": "Peruri dan ITB Kembangkan Chip Merah Putih untuk E-Paspor",
+       "summary": "Peruri bersama Institut Teknologi Bandung (ITB) mengembangkan prototipe Chip Merah Putih, chip keamanan 32-bit berbasis fabrikasi 130 nanometer untuk paspor elektronik, yang diluncurkan di KSTI 2026 di ITS Surabaya pada 11 November 2026 dan masih tahap prototipe — belum diproduksi massal dan masih perlu penyempurnaan, pengujian, dan validasi.",
+       "category": "Sains",
+       "source": "LensaHukum.co.id",
+       "sourceUrl": "https://lensahukum.co.id/peruri-dan-itb-kembangkan-chip-merah-putih-untuk-e-paspor",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "as-dukung-indonesia-pusat-reaktor-nuklir-smr",
+       "title": "AS Dukung Indonesia Jadi Pusat Reaktor Nuklir SMR",
+       "summary": "Amerika Serikat berkomitmen membantu Indonesia menjadi pusat pengembangan reaktor modular kecil (SMR) di Asia Tenggara, lewat penyediaan simulator ruang kendali SMR, studi pemilihan lokasi, dukungan regulasi, dan pengembangan kurikulum nuklir melalui program FIRST Departemen Luar Negeri AS, yang diumumkan di KTT Asia Timur di Manila pada 17 November 2026.",
+       "category": "Sains",
+       "source": "Bloomberg Technoz",
+       "sourceUrl": "https://www.bloombergtechnoz.com/detail-news/128454/indonesia-gandeng-as-kembangkan-reaktor-nuklir-kecil",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bmkg-12-provinsi-berpotensi-hujan-lebat-21-november",
+       "title": "BMKG: 12 Provinsi Berpotensi Hujan Lebat Hari Ini",
+       "summary": "BMKG menetapkan status peringatan Siaga untuk 12 provinsi yang berpotensi hujan lebat hingga sangat lebat pada Sabtu (21/11/2026), dipengaruhi antara lain bibit siklon tropis 96S di Samudra Hindia barat daya Bengkulu. BMKG juga mengingatkan potensi gelombang laut 1,25–2,5 meter di sejumlah perairan.",
+       "category": "Peristiwa",
+       "source": "Arina.id",
+       "sourceUrl": "https://www.arina.id/berita/ar-mr027/12-provinsi-berpotensi-hujan-lebat-hingga-sangat-lebat-pada-sabtu-21-november-2026",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ka-siantar-ekspres-tabrak-minibus-lokomotif-terbakar",
+       "title": "KA Siantar Ekspres Tabrak Minibus, Lokomotif Terbakar",
+       "summary": "KA Siantar Ekspres (KA U103) relasi Siantar–Medan menabrak sebuah minibus di Sinaksak, Tapian Dolok, Kabupaten Simalungun, Sumatera Utara, Jumat (20/11/2026) sore, hingga lokomotif terbakar. Satu pengemudi minibus meninggal dunia, tiga awak kereta luka-luka, dan 264 penumpang kereta selamat menurut KAI. Penyebab kecelakaan masih dalam penyelidikan.",
+       "category": "Peristiwa",
+       "source": "Indomedia.co",
+       "sourceUrl": "https://www.indomedia.co/2026/11/tabrakan-dengan-minibus-lokomotif-ka.html",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kebakaran-21-rumah-baduy-luar-lebak",
+       "title": "Kebakaran Hanguskan 21 Rumah Warga Baduy Luar",
+       "summary": "Kebakaran melanda permukiman Baduy Luar di Kampung Cipaler Babakan, Desa Kanekes, Leuwidamar, Kabupaten Lebak, Banten, Kamis (19/11/2026) malam hingga Jumat (20/11/2026) dini hari. Sebanyak 21 rumah hangus, 11 rumah lainnya rusak, serta dua lumbung pangan (leuit) dan satu saung lisung terbakar; 44 KK terdampak dan tidak ada korban jiwa. Api diduga berasal dari tungku.",
+       "category": "Peristiwa",
+       "source": "LensaHukum.co.id",
+       "sourceUrl": "https://lensahukum.co.id/kebakaran-hanguskan-21-rumah-warga-baduy-luar-di-lebak",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "timnas-u17-imbang-myanmar-juara-grup-a",
+       "title": "Timnas U-17 Imbang 2-2 Myanmar, Juara Grup A",
+       "summary": "Timnas Indonesia U-17 bermain imbang 2-2 melawan tuan rumah Myanmar di Stadion Thuwunna, Yangon, Jumat (20/11/2026), pada laga terakhir Grup A Kualifikasi Piala Asia U-17 2027. Gol penyeimbang Dolvi Solossa pada injury time memastikan Garuda Muda finis sebagai juara Grup A dengan 10 poin dan lolos ke putaran final Piala Asia U-17 2027 di Uzbekistan.",
+       "category": "Olahraga",
+       "source": "AFC (the-afc.com)",
+       "sourceUrl": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-a-indonesia-2-2-myanmar-philippines-2-2-afghanistan",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "banjir-longsor-terjang-8-daerah-pasaman-barat-terdampak",
+       "title": "Banjir dan Longsor Terjang 8 Daerah, Pasaman Barat Paling Terdampak",
+       "summary": "Bencana hidrometeorologi basah berupa banjir, tanah longsor, dan angin kencang melanda sedikitnya delapan daerah di Indonesia dalam periode 19–20 November 2026, menurut laporan Direktorat Koordinasi Pengendalian Operasi Darurat BNPB. Pasaman Barat, Sumatera Barat, paling terdampak: 800 kepala keluarga dan sekitar 873 rumah terdampak banjir akibat hujan berintensitas tinggi.",
+       "category": "Bencana",
+       "source": "Vibizmedia.com",
+       "sourceUrl": "https://www.vibizmedia.com/index.php/2026/11/20/banjir-dan-longsor-terjang-8-daerah-ribuan-warga-terdampak-di-sejumlah-wilayah/",
+       "time": "20 Nov 2026",
+       "editionDate": "2026-11-20",
+       "editionLabel": "Tambahan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "label": "Kamis, 19 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "gelar-perkara-makar-hari-ini",
+       "title": "Gelar Perkara Dugaan Makar Hari Ini, Belum Ada Tersangka",
+       "summary": "Bareskrim Polri menggelar perkara awal kasus dugaan makar pada Kamis, 19 November 2026, bersama tim internal dan saksi ahli.",
+       "category": "Hukum",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "trump-xi-putin-bertemu-hari-ini",
+       "title": "Trump, Xi, Putin Bertemu Hari Ini di Shenzhen, Trilateral Pertama",
+       "summary": "Presiden China Xi Jinping menjadi tuan rumah pertemuan trilateral pertama dengan Presiden AS Donald Trump dan Presiden Rusia Vladimir Putin di Shenzhen.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "dasco-terkuat-jadi-wapres",
+       "title": "Dasco Terkuat Jadi Wapres, Dukungan Mengalir dari 20+ Provinsi",
+       "summary": "Nama Wakil Ketua DPR Sufmi Dasco Ahmad semakin menguat dalam bursa calon wakil presiden pengganti Gibran Rakabuming Raka.",
+       "category": "Politik",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-jebol-ke-62526",
+       "title": "Bitcoin Jebol ke US$62.526, Terendah Sejak Juli",
+       "summary": "Bitcoin diperdagangkan di kisaran US$62.526 pada Rabu malam, 18 November 2026, turun sekitar 3 persen dalam sehari.",
+       "category": "Ekonomi",
+       "source": "Finnhub",
+       "sourceUrl": "https://finnhub.io",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ihsg-rawan-melemah-lagi",
+       "title": "IHSG Rawan Melemah Lagi, Anjlok 1,07% ke 5.247,88",
+       "summary": "Indeks Harga Saham Gabungan diperkirakan masih rawan melemah pada perdagangan Kamis, 19 November 2026, dengan kisaran 5.200 hingga 5.300.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "parlemen-mongolia-putuskan-hari-ini",
+       "title": "Parlemen Mongolia Putuskan Pengunduran Diri Presiden Hari Ini",
+       "summary": "Parlemen Mongolia dijadwalkan memutuskan pengunduran diri Presiden Ukhnaagiin Khurelsukh pada Kamis, 19 November 2026.",
+       "category": "Politik",
+       "source": "EFE",
+       "sourceUrl": "https://www.efe.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bnpb-dua-pesawat-cegah-banjir-aceh",
+       "title": "BNPB Kerahkan 2 Pesawat Cegah Banjir Aceh",
+       "summary": "Badan Nasional Penanggulangan Bencana memulai operasi modifikasi cuaca di Aceh dan Sumatera Utara pada Kamis, 19 November 2026, dengan dua pesawat.",
+       "category": "Bencana",
+       "source": "Detik",
+       "sourceUrl": "https://www.detik.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "saham-rans-anjlok-53-persen",
+       "title": "Saham RANS Anjlok 53% dalam 3 Bulan, 639 Ribu Investor Kabur",
+       "summary": "Saham PT RANS Entertainment Indonesia telah anjlok 53,47 persen dalam tiga bulan terakhir hingga diperdagangkan di Rp94 per lembar.",
+       "category": "Ekonomi",
+       "source": "CNA.id",
+       "sourceUrl": "https://cna.id",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "uu-perampasan-aset-disahkan",
+       "title": "UU Perampasan Aset Disahkan Setelah 18 Tahun, ICW Sebut 'UU Palsu'",
+       "summary": "DPR mengesahkan Undang-Undang Perampasan Aset pada Kamis, 19 November 2026, setelah 18 tahun dibahas tanpa putusan.",
+       "category": "Hukum",
+       "source": "BBC News Indonesia",
+       "sourceUrl": "https://www.bbc.com/indonesia",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "trilateral-pertama-digelar",
+       "title": "Trilateral Trump, Xi, Putin Pertama Kali Digelar di Shenzhen",
+       "summary": "Presiden China Xi Jinping menjadi tuan rumah pertemuan trilateral pertama dengan Presiden AS Donald Trump dan Presiden Rusia Vladimir Putin di Shenzhen.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "gelar-perkara-makar-berjalan",
+       "title": "Gelar Perkara Dugaan Makar Berjalan, Ekspose ke Kejagung Jumat Besok",
+       "summary": "Bareskrim Polri menggelar perkara awal kasus dugaan makar pada Kamis, 19 November 2026, bersama tim internal dan saksi ahli.",
+       "category": "Hukum",
+       "source": "Antara",
+       "sourceUrl": "https://www.antaranews.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "presiden-mongolia-resmi-mundur",
+       "title": "Presiden Mongolia Resmi Mundur, Parlemen Sahkan dengan 92% Suara",
+       "summary": "Parlemen Mongolia mengesahkan pengunduran diri Presiden pada Kamis, 19 November 2026, dengan dukungan 92 persen suara.",
+       "category": "Politik",
+       "source": "CCTV",
+       "sourceUrl": "https://www.cctv.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ri-china-sepakati-718-miliar",
+       "title": "RI–China Sepakati Investasi US$71,8 Miliar, Smart City US$50 Miliar",
+       "summary": "Indonesia dan China menyepakati investasi senilai 71,8 miliar dolar Amerika Serikat atau lebih dari Rp1.300 triliun dalam empat kesepakatan.",
+       "category": "Ekonomi",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "google-tutup-19372-kanal-youtube",
+       "title": "Google Tutup 19.372 Kanal YouTube Pro-Pemerintah Prabowo",
+       "summary": "Google menutup 19.372 kanal YouTube yang dinilai menyebarkan konten terkoordinasi mendukung pemerintah Presiden Prabowo Subianto.",
+       "category": "Teknologi",
+       "source": "Bloomberg",
+       "sourceUrl": "https://www.bloomberg.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ihsg-anjlok-lagi-ke-5194",
+       "title": "IHSG Anjlok Lagi 1,02% ke 5.194,14, Tembus Bawah 5.200",
+       "summary": "Indeks Harga Saham Gabungan anjlok lagi 1,02 persen ke level 5.194,14 pada penutupan perdagangan Kamis, 19 November 2026.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "emas-antam-rp2511000",
+       "title": "Emas Antam Rp2.511.000, Buyback Anjlok Rp49.000 ke Rp2.223.000",
+       "summary": "Harga emas batangan Antam resmi turun Rp3.000 menjadi Rp2.511.000 per gram pada Kamis, 19 November 2026.",
+       "category": "Ekonomi",
+       "source": "Antara",
+       "sourceUrl": "https://www.antaranews.com",
+       "time": "19 Nov 2026",
+       "editionDate": "2026-11-19",
+       "editionLabel": "Malam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "label": "Rabu, 18 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "timnas-u17-bantai-afghanistan-4-0",
+       "title": "Timnas U-17 Bantai Afghanistan 4-0, Lolos ke Piala Asia 2027",
+       "summary": "Timnas Indonesia U-17 memastikan tiket putaran final Piala Asia U-17 2027 setelah membantai Afghanistan 4-0 di Stadion Thuwunna, Yangon, Selasa.",
+       "category": "Olahraga",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id/lifestyle/462382/libas-afghanistan-40-timnas-u17-kunci-puncak-grup-a-dan-lolos-ke-piala-asia-2027",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "eko-hadi-dipecat-tak-hormat",
+       "title": "Eko Hadi Dipecat Tak Hormat, Ajukan Banding",
+       "summary": "Majelis Komisi Kode Etik Profesi Polri menjatuhkan sanksi pemberhentian tidak dengan hormat kepada Irjen Eko Hadi Santoso setelah sidang sembilan jam.",
+       "category": "Hukum",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id/national/462368/dipecat-tak-hormat-putusan-etik-eko-hadi-ungkap-pemufakatan-penyadapan-ilegal",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "trump-puji-prabowo",
+       "title": "Trump Puji Prabowo 'Pemimpin Hebat' di KTT ASEAN-AS",
+       "summary": "Presiden AS Donald Trump memuji Presiden Prabowo Subianto sebagai pemimpin hebat dalam KTT Khusus ASEAN-Amerika Serikat di Manila, Selasa malam.",
+       "category": "Politik",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id/international/122858/trump-puji-prabowo-di-ktt-asean-as-bahas-kerja-sama-pertahanan",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "wapres-nama-25-november",
+       "title": "Calon Wapres: Nama Paling Lambat 25 November, Pilih 9 Desember",
+       "summary": "Menko Kumham Imipas Yusril Ihza Mahendra menyatakan belum ada nama calon wakil presiden yang disampaikan Presiden Prabowo kepada MPR.",
+       "category": "Politik",
+       "source": "Antara",
+       "sourceUrl": "https://www.antaranews.com",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "emas-antam-turun-2515000",
+       "title": "Emas Antam Turun Rp7.000 ke Rp2.515.000 per Gram",
+       "summary": "Harga emas Antam turun Rp7.000 menjadi Rp2.515.000 per gram berdasarkan data perdagangan 17 November 2026. Harga buyback anjlok Rp20.000.",
+       "category": "Ekonomi",
+       "source": "Industry.co.id",
+       "sourceUrl": "https://www.industry.co.id",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "banjir-aceh-21109-jiwa",
+       "title": "Banjir Aceh: 21.109 Jiwa Terdampak, Balita Tewas Tertimbun Longsor",
+       "summary": "Banjir dan longsor melanda sejumlah wilayah Aceh setelah hujan deras mengguyur selama sepekan, dengan 21.109 jiwa terdampak hingga Senin sore.",
+       "category": "Bencana",
+       "source": "Afu.id",
+       "sourceUrl": "https://afu.id/nusantara/banjir-terjang-lima-wilayah-aceh-21109-warga-terdampak-dan-1553-mengungsi",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-gagal-tembus-65ribu",
+       "title": "Bitcoin Macet di US$64 Ribu, Gagal Tembus US$65 Ribu",
+       "summary": "Harga Bitcoin bertahan di kisaran 64 ribu dolar AS setelah beberapa kali gagal menembus 65 ribu dolar pada Selasa. Dalam lima sesi terkoreksi 9,09 persen.",
+       "category": "Ekonomi",
+       "source": "Pluang",
+       "sourceUrl": "https://pluang.com/news-feed/harga-bitcoin-bisa-turun-di-bawah-60ribu-wintermute-peringatkan",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "karangetang-erupsi-dua-kali",
+       "title": "Gunung Karangetang Erupsi Dua Kali, Lava Mengalir 1.000 Meter",
+       "summary": "Gunung Karangetang di Pulau Siau, Sulawesi Utara, erupsi dua kali pada Selasa, 17 November, dengan kolom abu setinggi 800 meter.",
+       "category": "Bencana",
+       "source": "Koran Metro",
+       "sourceUrl": "https://www.koran-metro.com/2026/11/17/gunung-karangetang-dua-kali-erupsi-hari-ini-tinggi-letusan-capai-1000-meter/",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "bi-rate-naik-jadi-6-persen",
+       "title": "BI Rate Naik Jadi 6%, IHSG Anjlok 1,07%",
+       "summary": "Bank Indonesia menaikkan suku bunga acuan 25 basis poin menjadi 6 persen dalam Rapat Dewan Gubernur 17-18 November, mengejutkan pasar yang memperkirakan BI Rate bertahan di 5,75 persen.",
+       "category": "Ekonomi",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id/market/462481/ihsg-anjlok-tapi-3-saham-ara",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "gempa-m58-manggarai-timur",
+       "title": "Gempa M5,8 Guncang Manggarai Timur, 17 Susulan",
+       "summary": "Gempa bumi tektonik magnitudo 5,8 mengguncang Manggarai Timur, NTT, Rabu pukul 11.41 WIB, dengan pusat di laut 45 kilometer timur laut Ruteng pada kedalaman 10 kilometer.",
+       "category": "Bencana",
+       "source": "Validnews",
+       "sourceUrl": "https://journalarta.com",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "banjir-aceh-meluas",
+       "title": "Banjir Aceh Meluas, DPR Desak Bantuan",
+       "summary": "Banjir dan longsor di Aceh meluas ke tujuh kabupaten dan satu kota, dengan Aceh Tamiang menanggung dampak terluas: 18.158 jiwa terdampak dan 5.088 warga mengungsi.",
+       "category": "Bencana",
+       "source": "DPR RI",
+       "sourceUrl": "https://www.dpr.go.id",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "trump-minta-asean-pasok-magnet",
+       "title": "Trump Minta ASEAN Pasok Magnet dan Mineral Kritis",
+       "summary": "Presiden AS Donald Trump meminta negara-negara ASEAN mengembangkan mineral kritis, khususnya logam tanah jarang dan magnet, dalam KTT Khusus ASEAN-Amerika Serikat di Manila, Selasa.",
+       "category": "Politik",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id/international/122867/di-ktt-asean-trump-cari-mineral-magnet-di-asia-tenggara",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "xi-putin-kecam-proteksionisme",
+       "title": "Xi-Putin Kecam Proteksionisme di KTT APEC Shenzhen",
+       "summary": "Presiden China Xi Jinping dan Presiden Rusia Vladimir Putin mengecam proteksionisme dan sanksi Barat dalam pidato pembuka KTT APEC di Shenzhen, Rabu.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com/fr/economie/au-sommet-de-lapec-xi-et-poutine-fustigent-le-protectionnisme-occidental-2026-11-18/",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "emas-antam-turun-rp1000",
+       "title": "Emas Antam Turun Rp1.000 ke Rp2.514.000 per Gram",
+       "summary": "Harga emas batangan Antam turun Rp1.000 menjadi Rp2.514.000 per gram pada Rabu, 18 November, menurut laman resmi Logam Mulia. Harga buyback turun Rp6.000.",
+       "category": "Ekonomi",
+       "source": "Validnews",
+       "sourceUrl": "https://www.fortuneidn.com",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "dua-jenderal-banding-komisi-dibentuk",
+       "title": "Dua Jenderal Banding, Komisi Banding Dibentuk",
+       "summary": "Polri akan membentuk komisi banding untuk memeriksa permohonan Irjen Eko Hadi Santoso dan Irjen Ahrie Sonta Nasution atas putusan pemberhentian tidak dengan hormat.",
+       "category": "Hukum",
+       "source": "CNN Indonesia",
+       "sourceUrl": "https://www.cnnindonesia.com",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "empat-timnas-lolos-piala-asia-2027",
+       "title": "Empat Timnas Lolos Piala Asia 2027",
+       "summary": "Indonesia memastikan empat wakil di Piala Asia 2027 setelah Timnas U-17 membantai Afghanistan 4-0 di Stadion Thuwunna, Yangon, Selasa.",
+       "category": "Olahraga",
+       "source": "PSSI",
+       "sourceUrl": "https://www.pssi.org",
+       "time": "18 Nov 2026",
+       "editionDate": "2026-11-18",
+       "editionLabel": "Malam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "label": "Selasa, 17 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "gempa-m71-maluku-tenggara",
+       "title": "Gempa M7,1 Guncang Maluku Tenggara, BMKG: Tak Berpotensi Tsunami",
+       "summary": "Gempa bumi magnitudo 7,1 mengguncang wilayah 130 kilometer barat daya Maluku Tenggara, Selasa dini hari pukul 04.11 WIB, pada kedalaman 115…",
+       "category": "Bencana",
+       "source": "BMKG",
+       "sourceUrl": "https://www.bmkg.go.id/gempabumi/gempabumi-realtime",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "sidang-etik-eko-hadi",
+       "title": "Irjen Eko Hadi Disidang Etik Hari Ini Terkait Sadapan Prabowo",
+       "summary": "Divisi Profesi dan Pengamanan Polri menggelar sidang Komisi Kode Etik Profesi terhadap Irjen Eko Hadi Santoso, Selasa, terkait dugaan…",
+       "category": "Hukum",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id/national/122691/besok-irjen-eko-hadi-disidang-etik-terkait-kasus-penyadapan-prabowo",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "trump-tiba-manila-malam-ini",
+       "title": "Trump Tiba di Manila Malam Ini, Hadiri KTT ASEAN-AS dan Quad",
+       "summary": "Presiden Amerika Serikat Donald Trump dijadwalkan tiba di Manila, Selasa malam, untuk menghadiri KTT Khusus ASEAN-Amerika Serikat dan…",
+       "category": "Politik",
+       "source": "Antara",
+       "sourceUrl": "https://lapor.co.id/berita/ktt-trilateral-trump-xi-dan-putin-diagendakan-pekan-depan-di-china",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "timnas-u17-vs-afghanistan",
+       "title": "Timnas U-17 vs Afghanistan, Perebutan Puncak Grup A",
+       "summary": "Timnas Indonesia U-17 menghadapi Afghanistan dalam laga penentuan Grup A Kualifikasi Piala Asia U-17 2027 di Stadion Starcity Sports Club,…",
+       "category": "Olahraga",
+       "source": "Detik Sport",
+       "sourceUrl": "https://lensahukum.co.id/indonesia-u17-hadapi-afganistan",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kebakaran-asrama-bogor-12-rumah",
+       "title": "Kebakaran Hanguskan 12 Rumah Asrama di Bogor, 2 Warga Dirawat",
+       "summary": "Kebakaran melanda kompleks asrama TNI di Kelurahan Lawanggintung, Bogor Selatan, Senin petang, dan menghanguskan 12 unit rumah. Api diduga…",
+       "category": "Peristiwa",
+       "source": "Antara",
+       "sourceUrl": "https://jawawa.id/newsitem/fire-engulfs-12-homes-at-paspampres-dormitory-complex-in-bogor-1794844407",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "prabowo-semikonduktor-asean-korsel",
+       "title": "Prabowo: ASEAN Harus Jadi Kekuatan Industri Teknologi, Bukan Sekadar Pasar",
+       "summary": "Presiden Prabowo Subianto mendorong ASEAN dan Korea Selatan memperkuat kerja sama industri semikonduktor serta hilirisasi mineral kritis…",
+       "category": "Politik",
+       "source": "InvestorTrust",
+       "sourceUrl": "https://investortrust.id/international/122719/prabowo-asean-harus-jadi-kekuatan-industri-teknologi-bukan-sekadar-pasar",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-macet-64ribu",
+       "title": "Bitcoin Macet di US$64 Ribu, Sepekan Terkoreksi 12,6%",
+       "summary": "Harga Bitcoin bertahan di kisaran 64 ribu dolar Amerika Serikat pada Selasa dini hari, setelah sempat menyentuh 62.006 dolar, level…",
+       "category": "Ekonomi",
+       "source": "Aktualita",
+       "sourceUrl": "https://aktualita.co/ekonomi/harga-bitcoin-hari-ini-17-november-2026-btc-usd-idr",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bmkg-9-provinsi-siaga-hujan",
+       "title": "BMKG: 9 Provinsi Siaga Hujan Lebat Hari Ini",
+       "summary": "Badan Meteorologi, Klimatologi, dan Geofisika memprakirakan 16 wilayah berpotensi hujan sedang hingga sangat lebat pada Selasa, dengan…",
+       "category": "Bencana",
+       "source": "BMKG",
+       "sourceUrl": "https://www.arina.id/berita/ar-89qu3/16-wilayah-berpotensi-hujan-pada-selasa-17-november-2026-9-provinsi-berstatus-siaga",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "trump-tiba-di-manila",
+       "title": "Trump Tiba di Manila, Quad Pertama dalam 2 Tahun Digelar Malam Ini",
+       "summary": "Presiden Amerika Serikat Donald Trump tiba di Manila, Selasa malam, untuk menghadiri KTT Khusus ASEAN-Amerika…",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "wapres-diundur-9-desember",
+       "title": "Pemilihan Wapres Diundur ke 9 Desember 2026",
+       "summary": "Majelis Permusyawaratan Rakyat menetapkan sidang paripurna pemilihan, pengesahan, dan pelantikan Wakil…",
+       "category": "Politik",
+       "source": "Informasi.com",
+       "sourceUrl": "https://www.informasi.com",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "banjir-aceh-tamiang-meluas",
+       "title": "Banjir Aceh Tamiang Meluas, 81 Desa Terendam",
+       "summary": "Banjir di Kabupaten Aceh Tamiang, Aceh, meluas setelah Sungai Tamiang meluap sejak Kamis lalu. Badan…",
+       "category": "Bencana",
+       "source": "Kompas",
+       "sourceUrl": "https://www.kompas.com",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "wni-scam-filipina-dipulangkan",
+       "title": "140 WNI Pelaku Penipuan Daring di Filipina Dipulangkan 25 November",
+       "summary": "Sebanyak 140 warga negara Indonesia pelaku penipuan daring di Filipina akan dipulangkan ke tanah air pada 25…",
+       "category": "Hukum",
+       "source": "Validnews.id",
+       "sourceUrl": "https://validnews.id",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ebola-kongo-11376-kasus",
+       "title": "Ebola Kongo: 11.376 Kasus, 5.568 Tewas, Belum Terkendali",
+       "summary": "Wabah Ebola di Republik Demokratik Kongo telah menewaskan 5.568 orang dengan 11.376 kasus tercatat, menurut…",
+       "category": "Kesehatan",
+       "source": "",
+       "sourceUrl": "",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "gempa-maluku-tanpa-kerusakan",
+       "title": "Gempa Maluku Tak Ada Kerusakan, Magnitudo Direvisi Jadi 6,8",
+       "summary": "Badan Meteorologi, Klimatologi, dan Geofisika memutakhirkan magnitudo gempa Laut Banda, Selasa dini hari,…",
+       "category": "Bencana",
+       "source": "BMKG",
+       "sourceUrl": "https://www.bmkg.go.id",
+       "time": "17 Nov 2026",
+       "editionDate": "2026-11-17",
+       "editionLabel": "Malam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "label": "Senin, 16 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "prabowo-minta-maaf-karhutla-ktt-asean",
+       "title": "Prabowo Minta Maaf soal Karhutla di Hadapan Pemimpin ASEAN",
+       "summary": "Presiden Prabowo Subianto menyampaikan permohonan maaf atas kebakaran hutan dan lahan di hadapan para pemimpin ASEAN pada sesi pleno KTT ke-49 di Manila, Minggu. Indonesia mengerahkan 71.000 personel pemadam dan kehilangan 16 petugas yang gugur.",
+       "category": "Politik",
+       "source": "Kompas",
+       "sourceUrl": "https://twaslnews1.twaslnews.com/7749204/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "dasco-diusung-wapres-pengganti-gibran",
+       "title": "Dasco Diusung Jadi Wapres Pengganti Gibran",
+       "summary": "Dukungan kepada Sufmi Dasco Ahmad sebagai calon wakil presiden pengganti Gibran Rakabuming Raka menguat, Minggu. Sejumlah DPD dan DPC Partai Gerindra dari berbagai daerah secara serentak mengusulkan Ketua Harian DPP Gerindra itu.",
+       "category": "Politik",
+       "source": "Rakyat Bekasi",
+       "sourceUrl": "https://rakyatbekasi.com/sejumlah-dpd-dan-dpc-gerindra-deklarasikan-dukungan-untuk-sufmi-dasco-ahmad-jadi-wapres-pengganti-gibran-ini-respons-pan/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-bangkit-64946",
+       "title": "Bitcoin Bangkit ke US$64.946 Usai Sentuh US$62.006",
+       "summary": "Bitcoin bangkit ke kisaran 64.946 dolar Amerika Serikat pada Minggu malam setelah sempat menyentuh 62.006 dolar, level terendah sejak Juli. Dalam lima sesi perdagangan, harga aset kripto itu anjlok 11,23 persen.",
+       "category": "Ekonomi",
+       "source": "Traders Union",
+       "sourceUrl": "https://tradersunion.com/ind/news/cryptocurrency-news/show/4251344-bitcoin-drops-4-11percent-today-to/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "gempa-m54-gorontalo-utara",
+       "title": "Gempa M5,4 Guncang Gorontalo Utara, Tanpa Potensi Tsunami",
+       "summary": "Gempa bumi magnitudo 5,4 mengguncang wilayah 127 kilometer barat laut Gorontalo Utara, Minggu malam pukul 22.41 WIB. BMKG mencatat pusat gempa berada pada kedalaman 465 kilometer di bawah permukaan bumi.",
+       "category": "Bencana",
+       "source": "GoSumatera",
+       "sourceUrl": "http://www.gosumatera.com/2026/11/gempa-m54-guncang-gorontalo-utara.html",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kebakaran-palopo-ledakan-wna-tewas",
+       "title": "Ledakan Picu Kebakaran 6 Rumah di Palopo, WNA Nigeria Tewas",
+       "summary": "Kebakaran melanda enam rumah berdekatan di Kota Palopo, Sulawesi Selatan, dan menewaskan seorang warga negara asing asal Nigeria bernama Yoseph Chima Ugocha. Peristiwa itu diduga bermula dari pertengkaran pasangan suami istri yang kemudian diikuti ledakan.",
+       "category": "Peristiwa",
+       "source": "Detikcom",
+       "sourceUrl": "https://lensahukum.co.id/ledakan-kebakaran-enam-rumah-palopo",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "demo-anti-trump-bentrok-manila",
+       "title": "Demo Anti-Trump Bentrok dengan Polisi di Manila",
+       "summary": "Ratusan demonstran yang memprotes kunjungan Presiden Amerika Serikat Donald Trump bentrok dengan polisi di Manila, Minggu. Massa mencoba berbaris menuju kompleks Philippine International Convention Center, tempat KTT ke-49 ASEAN berlangsung.",
+       "category": "Politik",
+       "source": "Reuters",
+       "sourceUrl": "https://headlinesxtra.com/2026/11/15/manila-protesters-clash-police-trump-asean-summit-2026/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bmkg-10-provinsi-siaga-hujan-lebat",
+       "title": "BMKG: 10 Provinsi Siaga Hujan Lebat, Jakarta Naik ke Siaga",
+       "summary": "Badan Meteorologi, Klimatologi, dan Geofisika menetapkan sepuluh provinsi berstatus siaga hujan lebat hingga sangat lebat pada Senin, 16 November. Pemicunya antara lain bibit siklon tropis 96S di Samudra Hindia barat Sumatra.",
+       "category": "Bencana",
+       "source": "Arina.id",
+       "sourceUrl": "https://www.arina.id/berita/ar-jhfhk/bmkg-prediksi-sejumlah-daerah-berpotensi-hujan-pada-senin-16-november-2026",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "timnas-u17-vs-afghanistan-puncak-grup",
+       "title": "Timnas U-17 vs Afghanistan: Perebutan Puncak Grup A",
+       "summary": "Timnas Indonesia U-17 menghadapi Afghanistan dalam perebutan puncak Grup A Kualifikasi Piala Asia U-17 2027 di Stadion Thuwunna, Yangon, Selasa, 17 November pukul 15.30 WIB. Kedua tim sama-sama mengoleksi enam poin dari dua kemenangan.",
+       "category": "Olahraga",
+       "source": "Indonesia Travel Sport",
+       "sourceUrl": "https://indonesiatravelsport.com/id/4726/sport/indonesia-u17-bidik-tiket-piala-asia-afghanistan-jadi-ujian-krusial",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "raffi-najwa-diduga-disadap",
+       "title": "Raffi Ahmad & Najwa Shihab Diduga Jadi Sasaran Sadapan Listyo Sigit",
+       "summary": "Bareskrim Polri mengonfirmasi Raffi Ahmad, Nagita Slavina, Najwa Shihab, Alfito Deannova, dan Denny Siregar diduga masuk daftar sasaran penyadapan dalam perkara yang menyeret mantan Kapolri Listyo Sigit Prabowo. Polri menegaskan nama di daftar bukan berarti keterlibatan.",
+       "category": "Hukum",
+       "source": "IndoWarta",
+       "sourceUrl": "https://indowarta.com/112273-target-penyadapan-listyo-sigit-terbongkar-najwa-shihab-hingga-raffi-ahmad",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "prabowo-desak-coc-lcs",
+       "title": "Prabowo Desak Penyelesaian CoC Laut China Selatan di KTT ASEAN-Tiongkok",
+       "summary": "Presiden Prabowo Subianto mendesak penyelesaian perundingan pedoman perilaku Laut China Selatan saat KTT ke-29 ASEAN-Tiongkok di Manila, Senin. Prabowo juga mengapresiasi konsistensi Tiongkok membela kepentingan Global South, termasuk perjuangan rakyat Palestina.",
+       "category": "Politik",
+       "source": "ValidNews",
+       "sourceUrl": "https://validnews.id/nasional/2026/11/16/prabowo-desak-penyelesaian-laut-china-selatan-140900983",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "rupiah-rekor-terendah-18265",
+       "title": "Rupiah Sentuh Rekor Terendah Rp18.265, IHSG Melemah ke 5.320,98",
+       "summary": "Nilai tukar rupiah menyentuh rekor terendah sepanjang sejarah Rp18.265 per dolar AS pada perdagangan Senin, lalu ditutup di Rp18.250. IHSG melemah 0,44 persen ke level 5.320,98 dengan nilai transaksi Rp12,94 triliun.",
+       "category": "Ekonomi",
+       "source": "Vibiznews",
+       "sourceUrl": "https://vibiznews.com/index.php/2026/11/16/rupiah-senin-berakhir-tergelincir-ke-level-rp18-250-usd-dollar-global-di-sekitar-20-bulan-tertingginya/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "koalisi-serahkan-wapres-gerindra",
+       "title": "Koalisi Sepakat Kursi Wapres dari Gerindra, Tiga Nama Menguat",
+       "summary": "Partai-partai koalisi pendukung Presiden Prabowo sepakat menyerahkan kursi calon wakil presiden pengganti Gibran kepada kader Partai Gerindra. Tiga figur menguat: Sufmi Dasco Ahmad, Ahmad Muzani, dan Sugiono; keputusan akhir di tangan Prabowo.",
+       "category": "Politik",
+       "source": "BarataNews",
+       "sourceUrl": "https://baratanews.id/parpol-koalisi-sepakati-kader-gerindra-muzani-dasco-dan-sugiono-menguat/",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "trump-tiba-manila-demo-ditangkap",
+       "title": "Trump Tiba Besok di Manila, Demo Anti-Trump Dibubarkan",
+       "summary": "Presiden Amerika Serikat Donald Trump dijadwalkan tiba di Manila, Selasa, untuk KTT Khusus ASEAN-AS dan pertemuan Quad. Koalisi aktivis menyebut sekitar 300 demonstran ditangkap polisi; polisi membenarkan lima orang ditahan dalam pawai yang dibubarkan.",
+       "category": "Politik",
+       "source": "AnewZ",
+       "sourceUrl": "https://anewz.tv/world/world-news/26752/trump-heads-to-asean-summit-amid-manila-protests/news",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bitcoin-macet-takut-ekstrem",
+       "title": "Bitcoin Macet di US$64 Ribu, Sentimen Masuk Zona Takut Ekstrem",
+       "summary": "Bitcoin tertahan di kisaran 64.300 dolar AS pada Senin setelah sempat bangkit dari level terendah 62.006 dolar akhir pekan lalu. Indeks Fear and Greed turun ke 13, zona takut ekstrem; ETF Bitcoin spot AS mencatat arus keluar sekitar US$1,91 miliar dalam tujuh sesi.",
+       "category": "Ekonomi",
+       "source": "Bareksa",
+       "sourceUrl": "https://www.bareksa.com/berita/kripto/2026-11-16/jelang-ipo-anthropic-dan-risalah-fed-bitcoin-uji-area-us64000",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "emas-antam-naik-2522000",
+       "title": "Emas Antam Naik Rp5.000 ke Rp2.522.000 per Gram",
+       "summary": "Harga emas batangan Antam naik Rp5.000 menjadi Rp2.522.000 per gram pada Senin, menurut laman resmi Logam Mulia. Harga buyback juga naik Rp5.000 menjadi Rp2.298.000 per gram, saat harga emas dunia justru melemah.",
+       "category": "Ekonomi",
+       "source": "Fortune",
+       "sourceUrl": "https://www.fortuneidn.com/market/harga-emas-antam-hari-ini-16-november-2026-naik-rp5-000-d7w02-00-lflgw-l164yd/amp",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bmkg-34-provinsi-siaga-hujan",
+       "title": "BMKG: Hujan Lebat Ancam 34 Provinsi hingga 19 November",
+       "summary": "BMKG memperingatkan potensi hujan sedang hingga sangat lebat di 34 provinsi pada 16 hingga 19 November 2026, dengan 10 provinsi berstatus Siaga dan 24 provinsi Waspada. Gelombang laut 2,5 hingga 4 meter diwaspadai di Samudra Hindia.",
+       "category": "Bencana",
+       "source": "RingkasNow",
+       "sourceUrl": "https://ringkasnow.com/news/evt-1794809238984-55e13f0e",
+       "time": "16 Nov 2026",
+       "editionDate": "2026-11-16",
+       "editionLabel": "Malam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "label": "Minggu, 15 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "prabowo-manila-ktt-asean",
+       "title": "Dari Manila, Prabowo Cari Wapres — KTT ASEAN ke-49 Dibuka Hari Ini",
+       "summary": "Presiden Prabowo Subianto tiba di Manila, Sabtu malam, untuk menghadiri KTT ke-49 ASEAN yang dibuka hari ini, 15 November. KTT tiga hari ini mengesahkan 154 dokumen dan meluncurkan logo baru ASEAN dengan tambahan tangkai padi sebagai simbol Timor-Leste sebagai anggota penuh.",
+       "category": "Politik",
+       "source": "TRT Indonesia",
+       "sourceUrl": "https://www.trtindonesia.com/article/2cee0ac2b5ce",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-terjun-63944",
+       "title": "Bitcoin Terjun ke US$63.944, Terendah Tiga Bulan",
+       "summary": "Bitcoin kembali merosot tajam pada Sabtu malam dan sempat menyentuh US$63.944, level terendah dalam tiga bulan terakhir, sebelum bergerak di kisaran US$64.456. Dalam sepekan aset kripto terbesar dunia ini anjlok 13,5 persen.",
+       "category": "Ekonomi",
+       "source": "CoinDesk",
+       "sourceUrl": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "sadapan-brigjen-tk-diperiksa",
+       "title": "Sadapan: Brigjen TK Diperiksa Propam, GMNI Desak Pansus",
+       "summary": "Mabes Polri mengonfirmasi Brigjen TK kini diperiksa Biro Wabprof Divisi Propam untuk mendalami keterlibatannya dalam dugaan penyadapan ilegal, setelah empat jenderal ditetapkan sebagai tersangka. GMNI mendesak DPR membentuk Pansus Penyadapan.",
+       "category": "Hukum",
+       "source": "TribrataNews Polri",
+       "sourceUrl": "https://tribratanews.polri.go.id/article/kadivhumas-polri-sosok-tk-dalam-kasus-penyadapan-ilegal-berpangkat-brigjen-pol",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "gempa-m52-simeulue",
+       "title": "Gempa M5,2 Guncang Lepas Pantai Simeulue, Tanpa Ancaman Tsunami",
+       "summary": "Gempa bumi magnitudo 5,2 mengguncang lepas pantai barat Sumatera Utara, sekitar 364 kilometer di barat Simeulue, pada Sabtu pagi. Badan Meteorologi Malaysia memastikan gempa tersebut tidak menimbulkan ancaman tsunami.",
+       "category": "Bencana",
+       "source": "MediaSelangor",
+       "sourceUrl": "https://mediaselangor.com/ms/2026/11/406842",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kebakaran-apms-dedai-sintang",
+       "title": "Kebakaran di Kawasan APMS Dedai, Sintang — Pengelola Pastikan APMS Aman",
+       "summary": "Kebakaran melanda bangunan di kawasan tepian Sungai Melawi, Dedai, Sintang, Sabtu siang, dan videonya viral di media sosial. Pengelola menegaskan yang terbakar adalah bangunan kantor, bukan fasilitas APMS, dan operasional penyaluran BBM tetap aman.",
+       "category": "Peristiwa",
+       "source": "LintasKapuas",
+       "sourceUrl": "https://www.lintaskapuas.com/bangunan-kantor-di-tepian-sungai-melawi-dedai-terbakar-pengelola-pastikan-apms-aman/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "haedar-oligarki-muktamar-medan-2027",
+       "title": "Haedar Nashir Ingatkan Bahaya Oligarki di Hadapan Prabowo",
+       "summary": "Ketua Umum PP Muhammadiyah Haedar Nashir mengingatkan bahaya oligarki ekonomi dan politik di hadapan Presiden Prabowo pada pembukaan Tanwir di Palu, Sabtu. Ia juga mengumumkan Muktamar ke-49 Muhammadiyah akan digelar di Medan pada 18 hingga 21 November 2027.",
+       "category": "Politik",
+       "source": "Muhammadiyah.or.id",
+       "sourceUrl": "https://muhammadiyah.or.id/2026/11/di-hadapan-presiden-prabowo-haedar-nashir-tegaskan-tiga-dimensi-penting-persatuan-bangsa/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "tabrakan-tol-pekanbaru-dumai",
+       "title": "Tabrakan di Tol Pekanbaru-Dumai, Tiga Penumpang Terluka",
+       "summary": "Mobil Datsun Go menabrak bagian belakang truk Hino Fuso di Tol Pekanbaru-Dumai KM 23B, Kabupaten Kampar, Sabtu sore. Tiga penumpang mobil terluka, satu di antaranya luka berat. Polisi menduga pengemudi mengalami microsleep, diperparah hujan lebat.",
+       "category": "Peristiwa",
+       "source": "IndoWarta",
+       "sourceUrl": "https://indowarta.com/111074-kecelakaan-tol-pekanbaru-dumai-mobil-hancur-tabrak-truk-3-terluka",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "prabowo-ktt-asean-pangan-energi-air",
+       "title": "Prabowo di KTT ASEAN: Pangan, Energi, dan Air Jadi Prioritas",
+       "summary": "Presiden Prabowo Subianto mendorong negara-negara ASEAN memperkuat ketahanan pangan, energi, dan pengelolaan air dalam sesi pleno KTT ke-49 ASEAN di Manila, Minggu. ASEAN adalah rumah bagi sekitar 700 juta penduduk dengan ekonomi gabungan melampaui US$4 triliun.",
+       "category": "Politik",
+       "source": "ANTARA",
+       "sourceUrl": "https://jawawa.id/newsitem/prabowo-stresses-the-importance-of-asean-resilience-amid-global-shifts-1794732696",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bitcoin-jebol-62006",
+       "title": "Bitcoin Jebol ke US$62.006, Terendah Sejak Juli",
+       "summary": "Bitcoin kembali anjlok dan sempat menyentuh US$62.006 pada Minggu pagi, level terendah sejak Juli lalu, sebelum pulih ke kisaran US$65.300. Dalam sepekan bitcoin turun sekitar 14,8 persen dan menuju kerugian pekan keenam beruntun.",
+       "category": "Ekonomi",
+       "source": "ForkLog",
+       "sourceUrl": "https://forklog.com/en/bitcoin-falls-below-63000-hitting-three-month-low/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "sri-sultan-diusung-wapres",
+       "title": "Sri Sultan HB X Diusung Warganet Jadi Wapres, Zulhas: Nama Ketahuan Seminggu Lagi",
+       "summary": "Nama Sri Sultan Hamengku Buwono X ramai diusung warganet sebagai calon wakil presiden pengganti Gibran Rakabuming Raka di media sosial. Sultan sendiri enggan menanggapi, sementara Ketua Umum PAN Zulkifli Hasan menyebut nama pengganti Gibran akan diketahui dalam sepekan.",
+       "category": "Politik",
+       "source": "Suara Negeri",
+       "sourceUrl": "https://www.suaranegeri.co.id/2026/11/sri-sultan-hb-x-jadi-perbincangan.html",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "prabowo-naik-tricycle-viral",
+       "title": "Prabowo Naik Tricycle Hias Bareng PM Vietnam di Manila, Viral",
+       "summary": "Presiden Prabowo Subianto mencuri perhatian pada pembukaan KTT ke-49 ASEAN di Manila, Minggu, saat menaiki tricycle hias bersama Perdana Menteri Vietnam Le Minh Hung menuju ruang utama. Kendaraan roda tiga elektrik bergaya jeepney itu dihias bendera Filipina dan tulisan ASEAN.",
+       "category": "Politik",
+       "source": "SoalIndonesia",
+       "sourceUrl": "https://soalindonesia.com/prabowo-hadiri-ktt-asean-ke-49-di-filipina-naik-tricycle-bersama-pm-vietnam/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "aksi-proklamasi-rakyat-tugu-proklamasi",
+       "title": "Aksi Rakyat Bela Indonesia Kumandangkan 'Proklamasi Rakyat' di Tugu Proklamasi",
+       "summary": "Sekitar seribu massa Aksi Rakyat Bela Indonesia berkumpul di Tugu Proklamasi, Menteng, Jakarta Pusat, Minggu pagi, dan mengumandangkan 'Proklamasi Rakyat'. Ustaz Bachtiar Nasir membacakan pernyataan sikap berisi lima tuntutan.",
+       "category": "Politik",
+       "source": "Ahad Times",
+       "sourceUrl": "https://ahadtimes.id/dari-tugu-proklamasi-ubn-kumandangkan-proklamasi-rakyat-serukan-perlawanan-terhadap-oligarki-dan-penegakan-keadilan/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bupati-kupang-buka-suara",
+       "title": "Bupati Kupang Yosef Lede Buka Suara: Hormati Proses Hukum",
+       "summary": "Bupati Kupang Yosef Lede akhirnya buka suara setelah dilaporkan seorang mahasiswi berinisial RWM, 21 tahun, ke Polda NTT atas dugaan kekerasan seksual. Yosef menyatakan menghormati laporan itu dan menyerahkan sepenuhnya penanganan perkara kepada kepolisian tanpa intervensi.",
+       "category": "Hukum",
+       "source": "IndoWarta",
+       "sourceUrl": "https://indowarta.com/111202-bupati-kupang-yosef-lede-buka-suara-soal-laporan-pemerkosaan-mahasiswi",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "penembakan-konter-pulsa-padang",
+       "title": "Penembakan Viral di Konter Pulsa Padang: Pelaku IA (19) Diringkus",
+       "summary": "Tim Klewang Satreskrim Polresta Padang menangkap pemuda berinisial IA, 19 tahun, yang diduga menembak seorang warga di konter pulsa kawasan Gaung, Lubuk Begalung, pada Jumat malam. Pelaku diringkus di kediamannya Sabtu malam tanpa perlawanan dan satu unit airsoft gun disita.",
+       "category": "Hukum",
+       "source": "Detik Sumbar",
+       "sourceUrl": "https://www.detiksumbar.com/penembakan-di-padang-viral-di-media-sosial-tim-klewang-tangkap-pelaku-19-tahun/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "trump-hadir-ktt-asean-as-17-nov",
+       "title": "Trump Dijadwalkan Hadir di KTT Khusus ASEAN-AS, 17 November",
+       "summary": "Presiden Amerika Serikat Donald Trump dijadwalkan menghadiri KTT Khusus ASEAN-Amerika Serikat di Manila pada Selasa, 17 November, sebagai penutup rangkaian KTT ke-49 ASEAN. Menurut Departemen Luar Negeri Filipina, Trump mendarat pukul 17.30, seusai upacara penutupan.",
+       "category": "Politik",
+       "source": "BusinessWorld",
+       "sourceUrl": "https://bworldonline.com/the-nation/2026/11/11/793219/trump-at-last-day-of-asean-summit/",
+       "time": "15 Nov 2026",
+       "editionDate": "2026-11-15",
+       "editionLabel": "Malam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "label": "Sabtu, 14 November 2026",
+   "editions": [
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "prabowo-tanwir-palu-puluhan-triliun",
+       "title": "Prabowo: Puluhan Triliun Dipakai Rusak Bangsa Lewat Hoaks",
+       "summary": "Presiden Prabowo heran pemerintah yang berupaya menghapus kemiskinan justru dikritik habis-habisan, dan menyebut ada pihak memakai uang puluhan triliun rupiah untuk merusak bangsa lewat hoaks serta mengerahkan buzzer.",
+       "category": "Politik",
+       "source": "Investor.id",
+       "sourceUrl": "https://investor.id/national/462015/prabowo-heran-pemerintah-dikritik-habishabisan-singgung-dugaan-aliran-dana-buzzer",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "bitcoin-terjun-66456",
+       "title": "Bitcoin Terjun ke US$66.456, Terendah Sejak Agustus",
+       "summary": "Bitcoin sempat menyentuh US$66.456 pada Sabtu, level terendah sejak Agustus, dan menuju kerugian pekan keenam beruntun di tengah penguatan dolar AS dan kekhawatiran suku bunga The Fed.",
+       "category": "Ekonomi",
+       "source": "VIV.co.id",
+       "sourceUrl": "https://www.viv.co.id/read/255901/bitcoin-anjlok-ke-us-68190-sentuh-level-terendah-akibat-gejolak-pasar",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "timnas-u17-gasak-kamboja-2-0",
+       "title": "Garuda Muda Gasak Kamboja 2-0, Tempel Afghanistan di Puncak Grup A",
+       "summary": "Timnas Indonesia U-17 menang 2-0 atas Kamboja di Kualifikasi Piala Asia U-17 2027 lewat gol Dolvi Theofilus Solossa dan Melki Alvando, dan kini mengoleksi enam poin.",
+       "category": "Olahraga",
+       "source": "Skor.id",
+       "sourceUrl": "https://skor.id/posts/792647/menang-dua-gol-timnas-u-17-indonesia-masih-di-bawah-afghanistan-pada-kualifikasi-piala-asia-u-17-2027",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "asean-teken-defa-manila",
+       "title": "ASEAN Teken DEFA di Manila, Ekonomi Digital Diproyeksi US$2 Triliun",
+       "summary": "Indonesia bersama sepuluh negara anggota ASEAN menandatangani ASEAN Digital Economy Framework Agreement di Manila sesudah negosiasi tiga tahun sejak 2023.",
+       "category": "Ekonomi",
+       "source": "Koridor.co.id",
+       "sourceUrl": "https://koridor.co.id/indonesia-negara-asean-teken-defa",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "crane-kuningan-roboh-1-tewas",
+       "title": "Crane Proyek Mega Kuningan Roboh, 1 Pekerja Tewas",
+       "summary": "Tower crane di proyek Bahana Tower dan Hotel Apartemen, Mega Kuningan, patah dan jatuh hingga menewaskan seorang pekerja. Proyek dihentikan sementara dan kontraktor diperiksa.",
+       "category": "Nasional",
+       "source": "Lensahukum.co.id",
+       "sourceUrl": "https://lensahukum.co.id/crane-jatuh-mega-kuningan",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "emas-antam-naik-2517000",
+       "title": "Emas Antam Naik Rp8.000 ke Rp2.517.000 per Gram",
+       "summary": "Harga emas batangan Antam naik Rp8.000 menjadi Rp2.517.000 per gram pada Sabtu menurut laman resmi Logam Mulia, dan harga buyback ikut naik ke Rp2.293.000.",
+       "category": "Ekonomi",
+       "source": "VIV.co.id",
+       "sourceUrl": "https://www.viv.co.id/read/256006/harga-emas-hari-ini-sabtu-14-november-2026-beda-harga-per-denominasi-antam-vs-ubs-di-pegadaian",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "dua-bibit-siklon-ancam-sumatra",
+       "title": "Dua Bibit Siklon Ancam Sumatra, Gelombang hingga 4 Meter",
+       "summary": "BMKG memantau dua bibit siklon tropis, 92B di Teluk Benggala dan 96S di Samudra Hindia barat Sumatra, yang berpotensi memicu hujan lebat dan gelombang tinggi hingga 4 meter.",
+       "category": "Nasional",
+       "source": "KalderaNews.com",
+       "sourceUrl": "https://www.kalderanews.com/2026/11/waspada-hujan-lebat-dan-gelombang-tinggi-di-sumatra-akibat-dua-bibit-siklon-tropis/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "sadapan-bongkar-dalangnya",
+       "title": "Sadapan: LBH Desak Bongkar Dalang, Jangan Berhenti di Listyo",
+       "summary": "LBH Perisai Cakra Nusantara mendesak pengusutan dugaan penyadapan terhadap Presiden tidak berhenti pada mantan Kapolri Listyo Sigit, sementara perkara dugaan makar masih tahap penyelidikan.",
+       "category": "Hukum",
+       "source": "JatimTerkini.com",
+       "sourceUrl": "https://jatimterkini.com/kasus-penyadapan-presiden-oleh-para-jenderal-jangan-berhenti-di-lsp-bongkar-dalangnya/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Malam"
+      }
+     ]
+    },
+    {
+     "label": "Tambahan",
+     "items": [
+      {
+       "slug": "wapres",
+       "title": "Prabowo Kumpulkan Ketum Parpol, Bahas Calon Wapres Pengganti Gibran",
+       "summary": "Pertemuan para ketua umum partai politik koalisi membahas nama calon wakil presiden pengganti Gibran — keputusan politik terbesar pekan ini mulai digodok.",
+       "category": "Politik",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bitcoin",
+       "title": "Bitcoin Jebol di Bawah US$70.000, Pasar Kripto Terseret Arus Jual",
+       "summary": "Aksi jual besar-besaran melikuidasi posisi leverage dan menyeret harga Bitcoin menembus level psikologis US$70.000. Investor ritel jadi kelompok yang paling terdampak.",
+       "category": "Ekonomi",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ihsg",
+       "title": "IHSG Melonjak ke 5.344, Rupiah Ikut Menguat",
+       "summary": "Indeks Harga Saham Gabungan melesat dan ditutup di level 5.344, sementara rupiah ikut menguat terhadap dolar AS. Sentimen positif dari pasar regional dan data domestik jadi bahan bakar kenaikan hari ini.",
+       "category": "Ekonomi",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "komnas-ham",
+       "title": "Komnas HAM Soroti Gas Air Mata yang Masuk Lingkungan UGM",
+       "summary": "Komnas HAM menilai penggunaan gas air mata yang sampai masuk ke area kampus Universitas Gadjah Mada perlu dievaluasi serius. Prinsip proporsionalitas dan keselamatan warga sipil jadi sorotan utama.",
+       "category": "Hukum",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pasal-makar",
+       "title": "Komisi III Desak Pasal Makar Diterapkan Selektif dan Terukur",
+       "summary": "Anggota Komisi III DPR mendesak agar pasal makar tidak dipakai sembarangan. Pasal ini diminta hanya diterapkan pada ancaman nyata terhadap negara, bukan untuk membungkam kritik warga.",
+       "category": "Politik",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "banjir-gayo",
+       "title": "Banjir Gayo Lues: Menteri PU Turun Langsung Cek Jembatan Putus",
+       "summary": "Menteri Pekerjaan Umum meninjau langsung lokasi banjir di Gayo Lues, Aceh. Jembatan yang putus diterjang arus jadi prioritas perbaikan agar akses warga dan distribusi bantuan kembali terbuka.",
+       "category": "Nasional",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bmkg",
+       "title": "BMKG: Lima Provinsi Siaga Hujan Lebat Hari Ini",
+       "summary": "BMKG menaikkan status siaga hujan lebat untuk lima provinsi. Warga di daerah rawan banjir dan longsor diminta waspada sejak pagi hingga malam nanti.",
+       "category": "Nasional",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "satgas-pagar",
+       "title": "Pria Berbaju Hitam di Truk Polisi Ternyata Anggota Satgas Pagar",
+       "summary": "Sosok pria berbaju hitam yang terekam berada di truk polisi akhirnya teridentifikasi sebagai anggota Satgas Pagar. Klarifikasi ini meredam spekulasi yang sempat ramai beredar di media sosial.",
+       "category": "Hukum",
+       "source": "",
+       "sourceUrl": "",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "mpr-cawapres",
+       "title": "MPR Minta Prabowo Ajukan 2 Nama Cawapres",
+       "summary": "MPR menetapkan pemilihan Wapres pada Rabu, 2 Desember 2026, dan meminta Presiden Prabowo mengajukan dua nama cawapres untuk diverifikasi tim verifikasi 36 orang; Presiden punya waktu maksimal 14 hari setelah menerima surat resmi MPR.",
+       "category": "Politik",
+       "source": "Fokus Jabar",
+       "sourceUrl": "https://fokusjabar.id/2026/11/14/mpr-minta-prabowo-subianto-ajukan-2-nama-cawapres/",
+       "time": "14 Nov · 10.22 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "zulhas-tenggat",
+       "title": "Zulhas: Prabowo Beri Tenggat Satu Pekan bagi Parpol Koalisi Diskusikan Calon Pengganti Wapres Gibran",
+       "summary": "Presiden Prabowo memberi waktu satu minggu kepada partai koalisi untuk membahas internal dan menyiapkan usulan nama cawapres pengganti Gibran; pertemuan lanjutan digelar pekan depan setelah Prabowo kembali dari Tanwir Muhammadiyah di Palu dan KTT ASEAN di Manila. PAN menegaskan tidak mengajukan kadernya.",
+       "category": "Politik",
+       "source": "Astakom",
+       "sourceUrl": "https://astakom.com/2026/11/14/zulhas-presiden-prabowo-beri-tenggat-satu-pekan-bagi-parpol-koalisi-diskusikan-calon-pengganti-wapres-gibran",
+       "time": "14 Nov · 09.10 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "koalisi-prabowo",
+       "title": "Koalisi Serahkan Pilihan ke Prabowo, Bursa Wapres Kian Ramai",
+       "summary": "Partai-partai koalisi memilih menyerahkan sepenuhnya pilihan cawapres kepada Presiden Prabowo; tiga nama muncul di semua daftar bursa yang beredar: Puan Maharani, Agus Harimurti Yudhoyono (AHY), dan Sufmi Dasco Ahmad.",
+       "category": "Politik",
+       "source": "Forensik Narasi",
+       "sourceUrl": "https://www.forensiknarasi.com/politik/852/koalisi-serahkan-pilihan-ke-prabowo-bursa-wapres-kian-ramai",
+       "time": "14 Nov · 10.34 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pkb-cawapres",
+       "title": "PKB Serahkan Sepenuhnya Usulan Dua Nama Cawapres Pengganti Gibran kepada Presiden Prabowo",
+       "summary": "Fraksi PKB MPR menegaskan partainya menyerahkan sepenuhnya kepada Presiden untuk mengusulkan dua nama cawapres dan tidak memiliki usulan nama; MPR juga membentuk tim verifikasi untuk memeriksa kesesuaian calon dengan persyaratan perundang-undangan.",
+       "category": "Politik",
+       "source": "Fraksi PKB DPR RI",
+       "sourceUrl": "https://www.fraksipkb.com/2026/11/14/pkb-serahkan-sepenuhnya-usulan-dua-nama-cawapres-pengganti-gibran-kepada-presiden-prabowo/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "sudaryono-bursa",
+       "title": "Bursa Pengganti Gibran Menghangat, Nama Sudaryono Mulai Diperhitungkan",
+       "summary": "Kepala Badan Gizi Nasional Sudaryono mulai diperhitungkan sebagai calon pengganti Gibran berkat kedekatan historisnya dengan Presiden Prabowo; MPR telah menjadwalkan sidang paripurna pemilihan dan pelantikan pada 2 Desember 2026.",
+       "category": "Politik",
+       "source": "Darmedia Network",
+       "sourceUrl": "https://darmedianetwork.com/bursa-pengganti-gibran-menghangat-nama-sudaryono-mulai-diperhitungkan/",
+       "time": "14 Nov · 08.08 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "eko-tumbuh",
+       "title": "Ekonomi Indonesia Tumbuh 5,47 Persen, Prabowo Minta Efisiensi Energi",
+       "summary": "Dalam ratas di Istana Bogor, Menko Airlangga melaporkan pertumbuhan ekonomi 5,47%, inflasi 3,3%, cadangan devisa US$146 miliar (5,3 bulan), IKK di atas 118, dan PMI 54; Presiden meminta kajian penghematan BBM dan listrik serta percepatan pabrik feedmeal dan peternakan ayam.",
+       "category": "Ekonomi",
+       "source": "Publik Update",
+       "sourceUrl": "https://publikupdate.com/ekonomi-indonesia-tumbuh-547-persen-prabowo-minta-efisiensi-energi/",
+       "time": "14 Nov · 10.18 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pajak-514",
+       "title": "Pajak Kurang Rp514 Triliun, Outlook pun di Bawah Target",
+       "summary": "Penerimaan pajak hingga 31 Oktober 2026 baru Rp1.796,8 triliun (76,2% dari target Rp2.357,7 triliun); Menkeu Suahasil Nazara menyebut masih kurang Rp514 triliun yang harus dikumpulkan pada November–Desember untuk mencapai outlook Rp2.310,8 triliun.",
+       "category": "Ekonomi",
+       "source": "Feedberry",
+       "sourceUrl": "https://feedberry.com/artikel/pajak-kurang-rp514-triliun-outlook-pun-di-bawah-target",
+       "time": "14 Nov · 05.55 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bei-transaksi",
+       "title": "BEI Catat Nilai Transaksi Harian Naik 114,64 Persen",
+       "summary": "Rata-rata nilai transaksi harian BEI melonjak 114,64% menjadi Rp23,698 triliun pada periode 9–13 November 2026, seiring IHSG menguat 5,82% ke 5.344,406; investor asing mencatat jual bersih Rp229,77 miliar pada Jumat 13 November.",
+       "category": "Ekonomi",
+       "source": "Lensa Hukum",
+       "sourceUrl": "https://lensahukum.co.id/bei-transaksi-harian-naik",
+       "time": "14 Nov · 11.05 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "growth-pmi",
+       "title": "Pertumbuhan Ekonomi Bertahan 5,47%, PMI Manufaktur Naik",
+       "summary": "Ekonomi Indonesia tumbuh 5,47% secara tahunan pada kuartal III-2026, naik dari 5,29% kuartal sebelumnya; BPS mencatat inflasi Oktober 3,23%, cadangan devisa US$146,8 miliar, IKK 119,9, dan PMI manufaktur 54,0.",
+       "category": "Ekonomi",
+       "source": "The Kabar News",
+       "sourceUrl": "https://thekabarnews.com/indonesias-growth-holds-at-5-47-as-pmi-rises/",
+       "time": "14 Nov · 09.20 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "apbn-2026",
+       "title": "APBN 2026 di Persimpangan Konstitusi: Mengejar Pajak, Mengawasi Belanja Negara",
+       "summary": "Pemerintah menetapkan pendapatan negara Rp3.153,58 triliun, belanja Rp3.842,73 triliun, dan defisit Rp689,15 triliun dalam APBN 2026; hingga Oktober, pendapatan negara Rp2.618 triliun dan belanja Rp2.997,2 triliun, dengan defisit sementara Rp379,3 triliun (1,47% PDB).",
+       "category": "Ekonomi",
+       "source": "Analisa Publik",
+       "sourceUrl": "https://analisapublik.id/apbn-2026-dipersimpangan-konstitusi-mengejar-pajak-mengawasi-belanja-negara-menuntut-tanggung-jawab-pengelolaan-kekayaan-alam/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "uu-pemilu-gugat",
+       "title": "UU Pemilu Kembali Digugat, Desak Syarat Minimal SMA untuk Capres-Cawapres Dihapus",
+       "summary": "Jovi Andrea Bachtiar menggugat UU Pemilu ke Mahkamah Konstitusi (perkara 423/PUU-XXIV/2026) dan meminta Pasal 169 huruf r yang mensyaratkan ijazah minimal SMA bagi capres-cawapres dinyatakan bertentangan dengan UUD 1945.",
+       "category": "Hukum",
+       "source": "Bejana News",
+       "sourceUrl": "https://www.bejananews.com/2026/11/uu-pemilu-kembali-digugat-desak-syarat.html",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "jaksa-surabaya",
+       "title": "Jaksa Surabaya Dituduh Terima Rp150 Juta untuk Ringankan Hukuman Terdakwa",
+       "summary": "JPU Kejari Surabaya Suparlan Hadiyanto dituduh meminta Rp180 juta (ditawar menjadi Rp150 juta) dari keluarga terdakwa kasus pembacokan di Jalan Dinoyo; Suparlan membantah dan menegaskan tidak ada transaksi, sementara Kejari meminta perkara dilihat utuh.",
+       "category": "Hukum",
+       "source": "IndoWarta",
+       "sourceUrl": "https://indowarta.com/110802-jaksa-surabaya-dituduh-terima-rp-150-juta-untuk-ringankan-hukuman-terdakwa",
+       "time": "14 Nov · 09.00 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ppk-upi",
+       "title": "Tersangka PPK Pembangunan CWP-03 UPI Ditahan Kejati Jabar, Rugikan Negara Rp25,98 Miliar",
+       "summary": "Kejati Jabar menahan PPK proyek CWP-03 UPI berinisial BK selama 20 hari (13 Nov–2 Des 2026) atas dugaan korupsi yang merugikan negara Rp25.982.542.357,20; tersangka DWR, direktur PT Arkindo, juga ditetapkan sebagai tersangka.",
+       "category": "Hukum",
+       "source": "IndonesiaTren",
+       "sourceUrl": "https://www.indonesiatren.com/nusantara/8744/rugikan-keuangan-negara-rp-2598254235720-tersangka-ppk-pembangunan-cwp-03-upi-diborgol-penyidik-kejati-jabar-dan-digiring-ke-rutan-kelas-i-a-kebonwaru-bandung",
+       "time": "14 Nov · 10.23 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ojol-uu",
+       "title": "UU Ketenagakerjaan Baru Belum Lindungi Driver Ojol",
+       "summary": "Pakar ketenagakerjaan Arif Novianto menilai UU Pelindungan Ketenagakerjaan No. 27/2026 belum menjawab persoalan status dan hak pekerja platform karena pengemudi ojol masih ditempatkan dalam skema kemitraan, bukan pekerja formal perusahaan aplikator.",
+       "category": "Hukum",
+       "source": "Lensa Hukum",
+       "sourceUrl": "https://lensahukum.co.id/uu-ketenagakerjaan-perlindungan-driver-ojol",
+       "time": "14 Nov · 09.40 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ppa-ntt",
+       "title": "Sudah Tersangka, Mengapa Penyidikan PPA Polda NTT Berputar?",
+       "summary": "Kuasa hukum pelapor Imelda C. Bessie meminta atensi Kapolri atas lambannya penyidikan dugaan penelantaran rumah tangga dan KDRT psikis di Ditres PPA dan PPO Polda NTT; SP2HP 13 November 2026 menyebut berkas dikembalikan jaksa untuk dilengkapi.",
+       "category": "Hukum",
+       "source": "The Wasesa News",
+       "sourceUrl": "https://thewasesanews.com/penyidikan-ppa-polda-ntt-minta-atensi-kapolri/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "riau-hujan",
+       "title": "Waspada Cuaca Ekstrem, Hujan Lebat Berpotensi Guyur 9 Daerah di Riau",
+       "summary": "BMKG memperkirakan hujan ringan hingga lebat mengguyur hampir seluruh Riau pada Sabtu 14 November 2026; sembilan kabupaten/kota diminta waspada hujan sedang-lebat disertai petir dan angin kencang, dan dua titik panas terdeteksi di Pelalawan.",
+       "category": "Nasional",
+       "source": "Riau Cerdas",
+       "sourceUrl": "https://riaucerdas.id/2026/11/14/waspada-cuaca-ekstrem-hujan-lebat-berpotensi-guyur-9-daerah-di-riau/",
+       "time": "14 Nov · 10.02 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "sulsel-angin",
+       "title": "BMKG Ingatkan Potensi Hujan dan Angin Kencang di Sulsel hingga 16 November",
+       "summary": "Sejumlah wilayah Sulawesi Selatan berpotensi hujan dan angin kencang 11–35 km/jam pada 14–16 November 2026; hujan sedang hingga lebat berpotensi terjadi di Luwu Timur dan Sidrap pada Sabtu 14 November.",
+       "category": "Nasional",
+       "source": "Sulselta.net",
+       "sourceUrl": "https://sulselta.net/bmkg-ingatkan-potensi-hujan-dan-angin-kencang-di-sulsel-hingga-16-november/",
+       "time": "14 Nov · 08.53 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "prabowo-tanwir",
+       "title": "Prabowo Dijadwalkan Hadiri Tanwir Muhammadiyah di Palu, Lanjut ke KTT ASEAN",
+       "summary": "Presiden Prabowo dijadwalkan menghadiri Tanwir dan Milad ke-114 Muhammadiyah di Palu pada Sabtu 14 November 2026, lalu bertolak ke Manila untuk KTT ASEAN 15–17 November 2026 dan KTT APEC ke-33 di Shenzhen 18–19 November 2026.",
+       "category": "Nasional",
+       "source": "Fakta Kalbar",
+       "sourceUrl": "https://faktakalbar.id/berita/prabowo-dijadwalkan-hadiri-tanwir-muhammadiyah-di-palu-lanjut-ke-ktt-asean",
+       "time": "14 Nov · 10.35 WITA",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pramono-sungai",
+       "title": "Pramono Percepat Normalisasi Sungai untuk Cegah Banjir Jakarta",
+       "summary": "Gubernur DKI Jakarta Pramono Anung mempercepat normalisasi sungai (Ciliwung, Kali Angke, Kali Krukut, Cakung Lama), pembangunan embung, dan pengerukan sedimentasi menjelang puncak musim hujan Desember 2026–Februari 2027.",
+       "category": "Nasional",
+       "source": "Lensa Hukum",
+       "sourceUrl": "https://lensahukum.co.id/pramono-antisipasi-banjir-jakarta",
+       "time": "14 Nov · 10.53 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "longsor-garut",
+       "title": "Longsor Banjarwangi Garut Ancam Enam Rumah, BPBD Bahas Penguatan Tebing 50 Meter",
+       "summary": "Tebing ambrol di Kampung Genteng, Desa Tanjungjaya, Banjarwangi, Garut, pada Kamis dini hari 12 November 2026 mengancam enam rumah yang berjarak sekitar dua meter dari titik longsor; tidak ada korban jiwa, dan BMKG memasukkan Banjarwangi dalam daftar waspada hujan lebat 14 November.",
+       "category": "Nasional",
+       "source": "Lintas Priangan",
+       "sourceUrl": "https://lintaspriangan.com/priangan-timur/berita-garut/longsor-banjarwangi-garut-berita-garut-141126/",
+       "time": "14 Nov · 08.28 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pegasus",
+       "title": "Pakar Siber Sebut Pegasus Dipakai Sadap Prabowo, Dana Judol Ikut Disorot",
+       "summary": "Pakar keamanan siber Ibnu Dwi Cahyo menduga penyadapan terhadap Presiden Prabowo melibatkan spyware Pegasus (NSO Group) dengan kemampuan zero-click, dan mengaitkan biaya pengadaannya dengan dugaan aliran dana judi online — hubungan pendanaan itu sendiri belum dapat dipastikan.",
+       "category": "Teknologi",
+       "source": "Maklumat.id",
+       "sourceUrl": "https://maklumat.id/pakar-siber-sebut-pegasus-dipakai-sadap-prabowo-dana-judol-ikut-disorot/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "xlsmart-5g",
+       "title": "5G XLSMART Kini Jangkau 94% Wilayah Lombok, Dukung Pariwisata dan UMKM",
+       "summary": "XLSMART memperluas 5G di Pulau Lombok dengan pendekatan Blanket Coverage hingga sekitar 94% wilayah; secara nasional 5G XLSMART mencapai 80 kota/kabupaten dengan lebih dari 265.000 BTS, termasuk 15.000 BTS 5G.",
+       "category": "Teknologi",
+       "source": "Youngster.id",
+       "sourceUrl": "https://youngster.id/headline/digital-business/5g-xlsmart-kini-jangkau-94-wilayah-lombok-dukung-pariwisata-dan-umkm/",
+       "time": "14 Nov · 09.02 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "chip-merah-putih",
+       "title": "Indonesia Kembangkan Chip Merah Putih, Ini Detailnya",
+       "summary": "Proyek Chip Merah Putih (Perum Peruri dan ITB) menghasilkan prototipe chip keamanan 32-bit teknologi 130nm untuk paspor elektronik, diperkenalkan di KSTI 2026 di ITS Surabaya pada 11 November; Mendiktisaintek menargetkan kemandirian chip identitas nasional pada 2027–2028.",
+       "category": "Teknologi",
+       "source": "LHA Geek",
+       "sourceUrl": "https://www.lhageek.com/2026/11/7194/indonesia-kembangkan-chip-merah-putih",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "tik-tumbuh",
+       "title": "Kuartal III-2026, Sektor TIK Indonesia Tumbuh 7,13%",
+       "summary": "BPS mencatat sektor informasi dan komunikasi tumbuh 7,13% pada kuartal III-2026, menempati peringkat ketiga laju pertumbuhan sektoral; sektor ini menyerap sekitar 1,07 juta tenaga kerja (0,73% dari total pekerja).",
+       "category": "Teknologi",
+       "source": "InfoDigital",
+       "sourceUrl": "https://infodigital.co.id/telko/read/4367/kuartal-iii-2026-sektor-tik-indonesia-tumbuh-713",
+       "time": "14 Nov · 12.00 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "microsoft-365",
+       "title": "Microsoft Pulihkan Layanan 365 Setelah Gangguan Global",
+       "summary": "Setelah gangguan global selama dua hari yang melumpuhkan Outlook, Teams, dan Copilot di 74 negara/wilayah, Microsoft menyatakan sebagian besar layanan Microsoft 365 mulai beroperasi kembali; gangguan pertama terdeteksi Kamis siang waktu AS.",
+       "category": "Teknologi",
+       "source": "BSI News",
+       "sourceUrl": "https://bsinews.id/microsoft-pulihkan-layanan-365-setelah-gangguan-global",
+       "time": "14 Nov · 09.32 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "timnas-u17-kamboja",
+       "title": "Timnas Indonesia U-17 vs Kamboja Sore Ini, Garuda Muda Bidik Kemenangan Kedua",
+       "summary": "Timnas Indonesia U-17 menghadapi Kamboja pada laga sore ini dengan target kemenangan kedua. Garuda Muda memburu hasil positif untuk menjaga momentum di fase grup.",
+       "category": "Olahraga",
+       "source": "inforiau.co",
+       "sourceUrl": "https://www.inforiau.co/timnas-indonesia-u-17-vs-kamboja-sore-ini-garuda-muda-bidik-kemenangan-kedua-jelang-duel-penentu-lawan-afghanistan-17195",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "taekwondo-ciracas",
+       "title": "CNN Indonesia Taekwondo Championship 3 Dibuka di GOR Ciracas",
+       "summary": "Kejuaraan CNN Indonesia Taekwondo Championship 3 resmi dibuka di GOR Ciracas, mempertemukan para atlet taekwondo dari berbagai daerah.",
+       "category": "Olahraga",
+       "source": "terkini24.com",
+       "sourceUrl": "https://terkini24.com/utama/cnn-indonesia-taekwondo-championship-3-dibuka-di-gor-ciracas-fokus-pada-pembentukan-karakter-atlet-muda/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "persebaya-u16-psm",
+       "title": "Dua Gol Babak Pertama Antar Persebaya U-16 Taklukkan PSM Makassar",
+       "summary": "Persebaya U-16 menaklukkan PSM Makassar berkat dua gol yang tercipta di babak pertama; keunggulan awal itu bertahan hingga laga usai.",
+       "category": "Olahraga",
+       "source": "persebaya.id",
+       "sourceUrl": "https://www.persebaya.id/r/4259/dua-gol-babak-pertama-antar-persebaya-u-16-taklukkan-psm-makassar",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "rugby-porprov-jabar",
+       "title": "12 Kontingen Bertarung di Cigugur, Rugby Porprov XV Jabar 2026 Dimulai",
+       "summary": "Cabang olahraga rugby pada Porprov XV Jawa Barat 2026 resmi dimulai di Cigugur, diikuti 12 kontingen yang bertarung memperebutkan medali.",
+       "category": "Olahraga",
+       "source": "tuberkit.com",
+       "sourceUrl": "https://tuberkit.com/2026/11/14/12-kontingen-bertarung-di-cigugur-rugby-porprov-xv-jabar-2026-resmi-dimulai-hari-ini/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kickboxing-sumbar",
+       "title": "Atlet Kickboxing Sumbar Raih 4 Emas, 6 Perak, 8 Perunggu di Kejurnas",
+       "summary": "Atlet kickboxing Sumatera Barat meraih 4 medali emas, 6 perak, dan 8 perunggu pada Kejuaraan Nasional kickboxing.",
+       "category": "Olahraga",
+       "source": "sumbarpost.id",
+       "sourceUrl": "https://sumbarpost.id/atlet-kickboxing-sumbar-raih-4-emas6-perak-dan-8-perunggu-di-kejurnas/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "hari-diabetes-sedunia-2026",
+       "title": "Hari Diabetes Sedunia 2026: Kelola Diabetes Lewat Penurunan Berat Badan Berkualitas",
+       "summary": "Dalam rangka Hari Diabetes Sedunia 14 November 2026, Novo Indonesia bersama Kemenkes RI dan Perkeni menekankan pencegahan, deteksi dini, dan penurunan berat badan berkualitas — mengurangi lemak viseral sambil mempertahankan massa otot. Indonesia peringkat ke-5 dunia dengan 20,4 juta orang dewasa hidup dengan diabetes pada 2024, dan sekitar 73,2% di antaranya belum terdiagnosis.",
+       "category": "Kesehatan",
+       "source": "benang.id",
+       "sourceUrl": "https://benang.id/hari-diabetes-sedunia-2026-novo-indonesia-ahli-kesehatan-dorong-pengelolaan-diabetes-lebih-menyeluruh-melalui-penurunan-berat-badan-berkualitas/",
+       "time": "14 Nov · 09.03 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "hkn-62-gorontalo",
+       "title": "HKN ke-62, Pemkab Gorontalo Gaungkan Gerakan 1.000 Pemeriksaan dan 1.000 Kepedulian",
+       "summary": "Pemerintah Kabupaten Gorontalo memperingati Hari Kesehatan Nasional (HKN) ke-62 dengan Gerakan 1.000 Pemeriksaan dan 1.000 Kepedulian di Menara Limboto, lewat Car Free Day bertema \"Sehat untuk Semua\". Rangkaian meliputi jalan sehat, senam bersama, pemeriksaan kesehatan gratis, serta penyerahan 62 paket sembako Baznas kepada pasien TBC.",
+       "category": "Kesehatan",
+       "source": "gorontalo.newsline.id",
+       "sourceUrl": "https://gorontalo.newsline.id/hkn-ke-62-pemkab-gorontalo-gaungkan-gerakan-1-000-pemeriksaan-dan-1-000-kepedulian/",
+       "time": "14 Nov · 11.22 WITA",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "stunting-lembata-111",
+       "title": "Stunting Lembata Naik Jadi 11,1 Persen, Bupati Desak 1.060 Tenaga Kesehatan Berinovasi",
+       "summary": "Angka stunting di Kabupaten Lembata meningkat menjadi 11,1 persen per Oktober 2026, dari 10,6 persen pada Desember 2025. Bupati Lembata P. Kanisius Tuaq meminta 1.060 tenaga kesehatan meningkatkan inovasi dan memperkuat pencegahan stunting saat memperingati HKN ke-62, sekaligus memperkuat edukasi dan pendampingan masyarakat.",
+       "category": "Kesehatan",
+       "source": "bidikntt.com",
+       "sourceUrl": "https://www.bidikntt.com/2026/11/stunting-lembata-naik-jadi-111-persen.html",
+       "time": "14 Nov · 10.49 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "covid-pj21-belum-di-indonesia",
+       "title": "Apa Itu Virus Covid-19 PJ.2.1? Varian Baru Dideteksi Sejumlah Negara",
+       "summary": "Subvarian Covid-19 PJ.2.1 — turunan Omicron dari garis keturunan JN.1 yang pertama teridentifikasi di Ontario, Kanada, pada 2 Mei 2026 — sudah terdeteksi di AS, Singapura, Australia, dan sejumlah negara Eropa. Kementerian Kesehatan memastikan subvarian ini belum ditemukan di Indonesia hingga 13 November 2026.",
+       "category": "Kesehatan",
+       "source": "arasvara.id",
+       "sourceUrl": "https://arasvara.id/news/2026/11/14/apa-itu-virus-covid-19-pj21-varian-baru-dideteksi-sejumlah-negara",
+       "time": "14 Nov · 11.08 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pasukan-putih-dki-586",
+       "title": "Perkuat Layanan Kesehatan Kota Global, Pemprov DKI Siagakan 586 Pasukan Putih",
+       "summary": "Wakil Gubernur DKI Jakarta Rano Karno membuka rangkaian peringatan HKN ke-62 Dinas Kesehatan DKI di Blok M Hub, dengan menegaskan kesehatan sebagai tulang punggung Jakarta sebagai kota global. Layanan medis Jakarta ditopang 197 rumah sakit, 44 puskesmas, 292 puskesmas pembantu, dan 3.311 klinik, serta 586 personel Pasukan Putih untuk pendampingan langsung ke warga.",
+       "category": "Kesehatan",
+       "source": "jakrev.com",
+       "sourceUrl": "https://jakrev.com/megapolitan/perkuat-layanan-kesehatan-kota-global-pemprov-dki-siagakan-586-pasukan-putih/",
+       "time": "14 Nov · 08.07 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "festival-topeng-dunia-solo",
+       "title": "Topeng 8 Negara Berkumpul di Solo: Festival Topeng Dunia 2026 Dimulai",
+       "summary": "International Mask Festival (IMF) 2026 digelar di Pendhapi Gede Balai Kota Surakarta pada 13–14 November 2026, memasuki tahun ke-13 penyelenggaraan. Festival bertema \"Topeng Bumi, Satu Dunia\" ini mempertemukan seniman topeng dari delapan negara dengan seniman dari berbagai daerah di Indonesia, lewat pertunjukan tari topeng, konferensi, pameran seni, workshop, dan bazar UMKM.",
+       "category": "Budaya",
+       "source": "garudacitizen.com",
+       "sourceUrl": "https://www.garudacitizen.com/topeng-8-negara-berkumpul-di-solo-festival-topeng-dunia-2026-dimulai/",
+       "time": "14 Nov",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "abah-jamhari-maestro-cilegon",
+       "title": "Pesilat Lima Negara Usulkan Abah Jamhari Sakti sebagai Maestro Kebudayaan Kota Cilegon",
+       "summary": "Pembukaan Banten International Pencak Silat Heritage Week (BICSHAW) 2026 diawali kunjungan budaya ke Griye Budaye, kediaman Maestro Golok Pusaka Cilegon Abah Jamhari Sakti. Pesilat dan delegasi dari lima negara — Malaysia, Singapura, Italia, Belanda, dan Prancis — mengusulkan beliau sebagai Maestro Kebudayaan Kota Cilegon atas pengabdiannya menjaga warisan budaya daerah.",
+       "category": "Budaya",
+       "source": "langitcilegon.id",
+       "sourceUrl": "https://langitcilegon.id/pesilat-lima-negara-usulkan-abah-jamhari-sakti-sebagai-maestro-kebudayaan-kota-cilegon/",
+       "time": "14 Nov · 11.56 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "tumpek-landep-bali",
+       "title": "Tumpek Landep: Menajamkan Pikiran, Menyelaraskan Teknologi dan Kehidupan",
+       "summary": "Umat Hindu di Bali merayakan Hari Suci Tumpek Landep pada Sabtu, 14 November 2026, yang jatuh setiap 210 hari sekali menurut kalender Pawukon. Tradisi ini identik dengan upacara terhadap benda berbahan logam — keris, tombak, hingga kendaraan dan peralatan teknologi modern — sebagai ungkapan syukur, sekaligus ajakan menajamkan pikiran dan bercermin mengevaluasi diri.",
+       "category": "Budaya",
+       "source": "megantaranews.com",
+       "sourceUrl": "https://megantaranews.com/tumpek-landep-menajamkan-pikiran-menyelaraskan-teknologi-dan-kehidupa/",
+       "time": "14 Nov",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "lamsel-fest-2026",
+       "title": "Lamsel Fest 2026: Parade Budaya Lima Negara dan 2.470 Lentera Bidik Rekor MURI",
+       "summary": "Lamsel Fest 2026 — perayaan HUT ke-70 Kabupaten Lampung Selatan bertema \"Spirit of Krakatoa\" — mencapai puncaknya pada Sabtu (14/11/2026) lewat Parade Budaya yang memadukan tradisi lokal dengan pertunjukan seni internasional. Puncaknya adalah upaya pemecahan Rekor MURI lewat penyalaan 2.470 lentera yang melibatkan sekitar 2.500 peserta, disusul konser musik di Lapangan Korpri, Kalianda.",
+       "category": "Budaya",
+       "source": "lampungselatankab.go.id",
+       "sourceUrl": "https://lampungselatankab.go.id/web/2026/11/12/kado-hut-untuk-warga-pemkab-hadirkan-festival-yang-menggerakkan-ekonomi-lokal",
+       "time": "14 Nov",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "sinyal-radio-gj725a",
+       "title": "Sinyal Radio Misterius Terdeteksi dari Bintang GJ 725A, 11,5 Tahun Cahaya dari Bumi",
+       "summary": "Astronom menangkap sinyal radio tak biasa dari katai merah GJ 725A, sekitar 11,5 tahun cahaya dari Bumi, pada frekuensi sekitar 45 MHz. Sinyal itu bertahan selama satu jam pengamatan, lalu tidak muncul lagi, dan asal-usulnya masih misterius. Para peneliti mengajukan tiga penjelasan: aurora di planet gas raksasa yang belum ditemukan, aktivitas magnetik bintang itu sendiri, atau interaksi magnetik dengan planet berbatu GJ 725Ab.",
+       "category": "Sains",
+       "source": "Zamin.uz",
+       "sourceUrl": "https://zamin.uz/en/world/227122-scientists-detect-mysterious-radio-signal-from-a-star-11-5-light-years-from-earth.html",
+       "time": "14 Nov · 11.33 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bintang-runtuh-lubang-hitam",
+       "title": "Sebagian Bintang Masif Mungkin Runtuh Diam-Diam Menjadi Lubang Hitam Tanpa Ledakan",
+       "summary": "Sebagian bintang masif mungkin mengakhiri hidupnya dengan runtuh langsung menjadi lubang hitam, tanpa ledakan supernova yang spektakuler seperti yang selama ini diperkirakan. Tim dari Caltech menganalisis gelombang gravitasi ratusan penggabungan lubang hitam dan menemukan pola massa yang mendukung gagasan ini — lubang hitam sekitar 10 kali massa Matahari sangat umum, sementara yang bermassa 12–16 kali Matahari justru langka.",
+       "category": "Sains",
+       "source": "Knowridge",
+       "sourceUrl": "https://knowridge.com/2026/11/some-massive-stars-may-quietly-collapse-into-black-holes-without-exploding/",
+       "time": "14 Nov · 08.18 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "sensor-elektrokimia-unpad",
+       "title": "Dosen Unpad Kembangkan Sensor Elektrokimia untuk Deteksi Penyakit",
+       "summary": "Dosen Departemen Kimia Analitik FMIPA Universitas Padjadjaran, Irkham, mengembangkan sensor elektrokimia sebagai alternatif pemeriksaan kesehatan yang lebih mudah diakses masyarakat. Riset ini mencakup deteksi penyakit infeksius seperti chikungunya dan tuberkulosis, serta pengujian kandungan pangan, dengan biosensor berbasis CRISPR untuk mengenali materi genetik secara spesifik.",
+       "category": "Sains",
+       "source": "Viv.co.id",
+       "sourceUrl": "https://www.viv.co.id/read/255870/teknologi-sensor-elektrokimia-unpad-untuk-pemeriksaan-medis-dan-pangan",
+       "time": "14 Nov · 08.22 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pelajar-palangka-wyiia",
+       "title": "Lima Pelajar Palangka Raya Raih Perak di WYIIA 2026 Berkat Sampo Daun Bunga Sepatu",
+       "summary": "Lima pelajar Kota Palangka Raya meraih medali perak (Juara 2) kategori Life Sciences pada kompetisi inovasi internasional World Youth Invention and Innovation Award (WYIIA) 2026. Inovasi mereka memanfaatkan daun bunga sepatu sebagai bahan dasar sampo alami yang ramah lingkungan, memakai sumber daya alam di sekitar mereka lewat pendekatan penelitian ilmiah.",
+       "category": "Sains",
+       "source": "BSI News",
+       "sourceUrl": "https://bsinews.id/pelajar-palangka-raya-raih-perak-wyiia",
+       "time": "14 Nov · 12.06 WIB",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kericuhan-demo-ugm-dpr-dorong-tgpf",
+       "title": "Kericuhan Demo di UGM, DPR Dorong Pembentukan TGPF",
+       "summary": "Wakil Ketua Komisi X DPR MY Esti Wijayati mendorong pembentukan TGPF independen dan verifikasi bersama UGM-polisi terkait dugaan pemakaian gas air mata dan penangkapan acak saat demo ricuh di Bundaran UGM pada 10 November; Polda DIY sempat menahan 157 orang dan 154 orang sudah dipulangkan.",
+       "category": "Politik",
+       "source": "Politik Indonesia",
+       "sourceUrl": "https://www.politikindonesia.id/kericuhan-demo-di-ugm-dpr-dorong-pembentukan-tgpf",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "pnbp-rp5518-triliun-tembus-120-persen-target-apbn",
+       "title": "Performa Ngejreng 120%, Setoran PNBP Mentereng Rp551,8 T",
+       "summary": "Realisasi PNBP hingga 31 Oktober 2026 mencapai Rp551,8 triliun atau 120,2 persen dari target APBN Rp459,2 triliun, naik 37 persen year on year, ditopang setoran SDA Rp256,1 triliun dan pendapatan BLU Rp107,7 triliun.",
+       "category": "Ekonomi",
+       "source": "ValidNews",
+       "sourceUrl": "https://validnews.id/ekonomi/2026/11/14/performa-ngejreng-120-setoran-pnbp-mentereng-rp5518-t-134300912",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "bkpm-126-proyek-investasi-mangkrak-perizinan-lahan",
+       "title": "BKPM Identifies 126 Stalled Investment Projects, with Permits and Land as Key Obstacles",
+       "summary": "BKPM memetakan 126 proyek investasi di berbagai daerah yang mangkrak dan belum beroperasi, terutama karena perizinan dan ketersediaan lahan; pemerintah memperkuat Investment Desk dan menetapkan batas waktu layanan untuk 287 jenis izin usaha.",
+       "category": "Ekonomi",
+       "source": "Jawawa",
+       "sourceUrl": "https://jawawa.id/newsitem/bkpm-identifies-126-stalled-investment-projects-with-permits-and-land-as-key-obstacles-1794639049",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "airlangga-subsidi-bbm-aman-hingga-akhir-2026",
+       "title": "Airlangga Pastikan Subsidi BBM Aman hingga Akhir 2026",
+       "summary": "Menko Perekonomian Airlangga Hartarto memastikan anggaran subsidi BBM mencukupi hingga akhir 2026 meski rupiah melemah ke Rp18.239 per dolar AS dan harga minyak dunia 92-93 dolar AS per barel; harga BBM subsidi dipastikan tidak naik sampai 31 Desember 2026.",
+       "category": "Ekonomi",
+       "source": "FaktaKalbar",
+       "sourceUrl": "https://faktakalbar.id/berita/airlangga-pastikan-subsidi-bbm-aman-hingga-akhir-2026",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kpk-telusuri-dugaan-kickback-pengadaan-bnpb",
+       "title": "Dana Bencana Diduga Jadi Ladang Kickback, KPK Telusuri Pengadaan BNPB",
+       "summary": "KPK mendalami dugaan kickback dalam pengadaan Dana Siap Pakai BNPB 2024-2026 senilai sekitar Rp148 miliar, setelah memeriksa saksi ASN, mantan pejabat BNPB, dan pihak swasta pada 9-12 November; perkara bermula dari OTT 13 Oktober 2026 dengan lima tersangka.",
+       "category": "Hukum",
+       "source": "UrbanNews",
+       "sourceUrl": "https://www.urbannews.id/2026/11/14/dana-bencana-diduga-jadi-ladang-kickback-kpk-telusuri-pengadaan-bnpb/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "muak-tiga-dugaan-korupsi-lutim-batik-videotron-desa-mandiri",
+       "title": "MUAK Ungkap Perkembangan Tiga Dugaan Korupsi di Lutim",
+       "summary": "Aliansi MUAK menyoroti tiga dugaan korupsi di Luwu Timur: pengadaan Seragam Batik Juara dan Videotron Kominfo di tahap penyelidikan, serta Program Desa Mandiri di tahap penyidikan dengan indikasi kerugian negara sekitar Rp1,7 miliar.",
+       "category": "Hukum",
+       "source": "MaliliPos",
+       "sourceUrl": "https://malilipos.com/hukum/korupsi/muak-ungkap-perkembangan-tiga-dugaan-korupsi-di-lutim?page&name=muak-ungkap-perkembangan-tiga-dugaan-korupsi-di-lutim&category_name=hukum/korupsi",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kejari-aceh-selatan-cabut-perwalian-ayah-perkosa-anak",
+       "title": "Kejari Aceh Selatan Cabut Perwalian Ayah Perkosa Anak Kandung",
+       "summary": "Mahkamah Syar'iyah Tapaktuan mengabulkan permohonan Jaksa Pengacara Negara Kejari Aceh Selatan untuk mencabut hak perwalian ayah berinisial SK (56) atas anak kandungnya yang menjadi korban pemerkosaan; SK sebelumnya divonis 200 bulan penjara dan pengasuhan diserahkan kepada ibu korban.",
+       "category": "Hukum",
+       "source": "InfoRakyat",
+       "sourceUrl": "https://inforakyat.co/ayah-perkosa-anak-kandung-kejari-aceh-selatan-berhasil-mencabut-status-perwalian-di-mahkamah-syariyah.html",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "prabowo-beasiswa-penuh-anak-relawan-karhutla-gugur",
+       "title": "Prabowo Siapkan Beasiswa Penuh bagi Anak Relawan Karhutla yang Gugur",
+       "summary": "Presiden Prabowo mengarahkan pemberian beasiswa pendidikan hingga jenjang tertinggi bagi anak-anak petugas dan relawan yang gugur saat menangani karhutla, disertai santunan bagi keluarga yang ditinggalkan. Arahan disampaikan Menko PMK Sugiono seusai penyerahan tanda kehormatan Bintang Jasa di Istana Bogor, Jumat (13/11/2026).",
+       "category": "Nasional",
+       "source": "Channel9.id",
+       "sourceUrl": "https://channel9.id/prabowo-siapkan-beasiswa-penuh-bagi-anak-relawan-karhutla-yang-gugur/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "weps-awards-2026-teknologi-inklusif-emtek-pingtar",
+       "title": "WEPs Awards 2026 Soroti Teknologi Inklusif, EMTEK dan Pingtar Dorong Pemberdayaan Perempuan",
+       "summary": "WEPs Awards 2026 Indonesia dari UN Women membuka kategori baru Technology & AI for Gender Equality. EMTEK meraih First Runner-up lewat aplikasi PUJAAN untuk pemberdayaan ekonomi perempuan, sementara Pingtar meraih Second Runner-up lewat edukasi pencegahan pelecehan berbasis WhatsApp yang menjangkau lebih dari 42.000 pekerja.",
+       "category": "Teknologi",
+       "source": "Fem Indonesia",
+       "sourceUrl": "https://www.femindonesia.com/weps-awards-2026-soroti-teknologi-inklusif-emtek-dan-pingtar-dorong-pemberdayaan-perempuan/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "indonesia-asean-segera-tandatangani-kesepakatan-ekonomi-digital",
+       "title": "Indonesia Ambil Peran Strategis, ASEAN Segera Tandatangani Kesepakatan Ekonomi Digital",
+       "summary": "Indonesia mendorong integrasi ekonomi digital Asia Tenggara lewat ASEAN Digital Economy Framework Agreement (DEFA) yang segera ditandatangani 11 negara anggota ASEAN. Menko Perekonomian Airlangga Hartarto dijadwalkan bertolak ke Manila pada 14 November 2026 untuk penandatanganan kesepakatan tersebut.",
+       "category": "Teknologi",
+       "source": "Inilah Sukabumi",
+       "sourceUrl": "https://inilahsukabumi.com/ekonomi/indonesia-ambil-peran-strategis-asean-segera-tandatangani-kesepakatan-ekonomi-digital/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "harga-komputer-disdik-aceh-rp29-juta-tti-pertanyakan-selisih",
+       "title": "Harga Komputer Disdik Aceh Rp29 Juta, TTI Pertanyakan Selisih Rp15 Juta",
+       "summary": "Transparansi Tender Indonesia (TTI) menyoroti pengadaan komputer Dinas Pendidikan Aceh TA 2026 yang dikontrak Rp29 juta per unit, sementara perangkat diduga berspesifikasi serupa ditemukan seharga sekitar Rp14 juta di toko daring. TTI mendesak Kadisdik Aceh membuka dokumen pengadaan dan meminta Kejati Aceh menelaah prosesnya.",
+       "category": "Teknologi",
+       "source": "HabaTeras",
+       "sourceUrl": "https://www.habateras.com/news/harga-komputer-disdik-aceh-rp29-juta-tti-pertanyakan-selisih-rp15-juta/index.html",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "alwi-farhan-kalah-semifinal-kumamoto-masters-2026",
+       "title": "Alwi Farhan Kalah di Semifinal Kumamoto, Indonesia Tanpa Wakil di Final",
+       "summary": "Tunggal putra Indonesia Alwi Farhan kalah 12-21, 21-15, 11-21 dari Lakshya Sen (India) di semifinal Kumamoto Masters 2026, Sabtu (14/11/2026), setelah sempat bangkit di gim kedua. Kekalahan ini memastikan Indonesia tanpa wakil di final turnamen BWF World Tour Super 500 tersebut.",
+       "category": "Olahraga",
+       "source": "Bulatan Times",
+       "sourceUrl": "https://www.bulatantimes.com/sport/alwi-farhan-kalah-semifinal-kumamoto-masters-2026/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "erick-thohir-surat-malaysia-cabor-dicoret-sea-games-2027",
+       "title": "Erick Thohir Kirim Surat ke Malaysia soal Cabor Indonesia yang Dicoret dari SEA Games 2027",
+       "summary": "Menpora Erick Thohir mengirim surat resmi kepada Menpora Malaysia terkait pencoretan sejumlah cabang andalan Indonesia, termasuk panjat tebing dan dayung, dari SEA Games 2027. Langkah diplomasi ini ditempuh karena pencoretan tersebut dinilai berpotensi merugikan perolehan medali Indonesia.",
+       "category": "Olahraga",
+       "source": "InfoRiau",
+       "sourceUrl": "https://www.inforiau.co/erick-thohir-kirim-surat-ke-malaysia-soal-cabor-indonesia-yang-dicoret-dari-sea-games-2027-17297",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "persebaya-u-18-taklukkan-psm-makassar-2-0",
+       "title": "Persebaya U-18 Tampil Solid, PSM Makassar Ditaklukkan 2-0",
+       "summary": "Persebaya U-18 menang 2-0 atas PSM Makassar U-18 di Bosowa Sport Center, Sabtu (14/11), lewat gol M. Farhan pada menit ke-41 dan Alfredo Nararya di babak kedua. Hasil ini menjadi kemenangan ke-10 Persebaya U-18 di Grup C Elite Pro Academy (EPA) One 2026/2027.",
+       "category": "Olahraga",
+       "source": "Persebaya.id",
+       "sourceUrl": "https://www.persebaya.id/r/4260/persebaya-u-18-tampil-solid-psm-makassar-2-0",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "diduga-keracunan-mbg-12-siswa-sdn-karangrejo-blitar",
+       "title": "Diduga Keracunan Usai Santap MBG, 12 Siswa SDN II Karangrejo Garum Dilarikan ke Puskesmas",
+       "summary": "Sebanyak 12 siswa SDN II Karangrejo, Garum, Kabupaten Blitar diduga keracunan setelah menyantap makanan program Makan Bergizi Gratis pada Jumat (13/11/2026), dengan gejala mual, muntah, dan pusing. Seluruh siswa sudah diperbolehkan pulang dan menjalani rawat jalan, sementara penyebab pastinya masih menunggu hasil uji laboratorium sampel makanan.",
+       "category": "Kesehatan",
+       "source": "TagarJatim.id",
+       "sourceUrl": "https://tagarjatim.id/35493/diduga-keracunan-usai-santap-mbg-12-siswa-sdn-ii-karangrejo-garum-dilarikan-ke-puskesmas/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "ckg-pekerja-alih-daya-cirebon-percontohan-nasional",
+       "title": "CKG Sasar Pekerja Alih Daya, Kabupaten Cirebon Jadi Percontohan Nasional",
+       "summary": "Pemkab Cirebon bersama Kemenkes memperluas Cek Kesehatan Gratis (CKG) dengan menyasar pekerja alih daya lapangan, termasuk 1.040 pekerja proyek penggalian jaringan pipa anak usaha Pertamina. Pola layanan ini akan dijadikan percontohan nasional, dan secara nasional CKG telah menjangkau sekitar 119 juta orang sejak Januari hingga November 2026.",
+       "category": "Kesehatan",
+       "source": "Lintas Nusantara Net",
+       "sourceUrl": "https://www.lintasnusantara.net/2026/11/ckg-sasar-pekerja-alih-daya-kabupaten.html",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "puskesmas-kassi-kassi-jemput-bola-pemeriksaan-gratis",
+       "title": "Puskesmas Kassi-Kassi Jemput Bola, Pemeriksaan Kesehatan Gratis",
+       "summary": "UPT Puskesmas Kassi-Kassi, Bantaeng, menggelar Pemeriksaan Kesehatan Gratis dengan mendatangi langsung rumah warga Dusun Pico, Desa Nipa-Nipa, pada Sabtu (14/11/2026). Petugas menjangkau 18 rumah dengan 38 sasaran pemeriksaan dan menemukan antara lain dua warga hipertensi, tujuh balita, serta satu sasaran terkait tuberkulosis.",
+       "category": "Kesehatan",
+       "source": "Publikasi Online",
+       "sourceUrl": "https://publikasionline.id/2026/11/14/puskesmas-kassi-kassi-jemput-bola-pemeriksaan-kesehatan-gratis/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "festival-kalimantan-barat-2026-tmii",
+       "title": "IKKB Jabodetabek dan Pemprov Kalbar Sukses Gelar Festival Kalimantan Barat 2026 di TMII",
+       "summary": "Festival Kalimantan Barat 2026 digelar meriah di Anjungan Kalimantan Barat, TMII, Jakarta Timur, Sabtu (14/11/2026), menampilkan seni budaya tiga etnis Melayu, Dayak, dan Tionghoa, Festival Kriya dan Wastra, serta Festival Kuliner. Gubernur Kalbar Ria Norsan hadir dan menyerahkan Lifetime Achievement Award kepada Oesman Sapta Odang.",
+       "category": "Budaya",
+       "source": "Poskota",
+       "sourceUrl": "https://poskota.co/megapolitan/ikkb-jabodetabek-dan-pemprov-kalbar-sukses-gelar-festival-kalimantan-barat-2026-di-tmii/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "festival-pesisiran-2026-nadran-cirebon",
+       "title": "Festival Pesisiran 2026, Masyarakat Nelayan Kota Cirebon Gelar Pesta Laut Dan Nadran",
+       "summary": "Masyarakat nelayan Kota Cirebon menggelar Pesta Laut atau Pesta Nadran dalam Festival Pesisiran Kota Cirebon 2026 di halaman Gedung BAT, Sabtu (14/11/2026), diikuti nelayan dari tiga kelurahan pesisir. Tradisi syukur atas hasil laut ini turut dihadiri perwakilan empat keraton Cirebon.",
+       "category": "Budaya",
+       "source": "Kalimashada.com",
+       "sourceUrl": "https://kalimashada.com/berita/festival-pesisiran-2026-masyarakat-nelayan-kota-cirebon-gelar-pesta-laut-dan-nadran-warisan-budaya-lokal-yang-patut-dil",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "festival-seni-budaya-kan-pauh-ix-minangkabau",
+       "title": "Rawat Adat dan Budaya Minangkabau, KAN Pauh IX Gelar Festival Seni Budaya 2026",
+       "summary": "Kerapatan Adat Nagari (KAN) Pauh IX menggelar Festival Seni Budaya 2026 di Kuranji, Padang, Sabtu (14/11/2026), untuk pertama kalinya, dengan puluhan peserta dari sembilan tim ninik mamak. Peserta berlomba dalam pasambahan adat makan dan silat tradisi Minangkabau sebagai upaya mewariskan nilai adat kepada generasi muda.",
+       "category": "Budaya",
+       "source": "Sindotime",
+       "sourceUrl": "https://sindotime.com/rawat-adat-dan-budaya-minangkabau-kan-pauh-ix-gelar-festival-seni-budaya-2026-22116/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kajian-kelayakan-beton-instan-bisa",
+       "title": "Dosen Fakultas Teknik Unismuh Makassar Terlibat dalam Kajian Kelayakan Beton Instan BISA",
+       "summary": "Dosen Fakultas Teknik Unismuh Makassar, Muhammad Syarif, terlibat dalam pengkajian kelayakan produk Beton Instan BISA yang dikembangkan Universitas Bandar Lampung, bersama pakar dari empat perguruan tinggi dalam rangkaian KSTI 2026 di ITS Surabaya, 10–13 November 2026. Kajian menilai legalitas, teknis, mutu, dan potensi hilirisasi inovasi material konstruksi tersebut.",
+       "category": "Sains",
+       "source": "Berita Unismuh Makassar",
+       "sourceUrl": "https://news.unismuh.ac.id/2026/11/14/dosen-fakultas-teknik-unismuh-makassar-terlibat-dalam-kajian-kelayakan-beton-instan-bisa/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "kppti-ksti-2026-usai-cetak-biru-kampus",
+       "title": "KPPTI dan KSTI 2026 Usai, Cetak Biru Kampus Jangan Sekadar Omon-Omon",
+       "summary": "KPPTI 2026 di Unair dan KSTI 2026 di ITS Surabaya resmi ditutup Jumat (13/11/2026), menghasilkan rancangan Cetak Biru Perguruan Tinggi Berdampak 2045 dan puluhan MoU. KSTI 2026 memamerkan 567 produk inovasi, menarik 16.000–17.000 pengunjung, dan menghasilkan 38 kesepakatan kerja sama hilirisasi riset dengan mitra industri.",
+       "category": "Sains",
+       "source": "KalderaNews.com",
+       "sourceUrl": "https://www.kalderanews.com/2026/11/kppti-dan-ksti-2026-usai-cetak-biru-kampus-jangan-sekadar-omon-omon/",
+       "time": "14 Nov 2026",
+       "editionDate": "2026-11-14",
+       "editionLabel": "Tambahan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "label": "Jumat, 13 November 2026",
+   "editions": [
+    {
+     "label": "Tambahan",
+     "items": [
+      {
+       "slug": "pesta-budaya-melayu-deli-serdang",
+       "title": "Pesta Adat Budaya Melayu I Deli Serdang Dibuka: Pertama Kali Digelar di Percut",
+       "summary": "Pengurus Daerah Majelis Adat Budaya Melayu Indonesia (MABMI) Deli Serdang menggelar Gebyar Pesta Adat Budaya Melayu I pada 13–15 November 2026 di Desa Percut — pertama kalinya festival ini diselenggarakan dan direncanakan menjadi agenda tahunan. Festival ini menampilkan lomba dayung sampan, tari tradisional Melayu, busana Melayu, balas pantun, hingga stand UKM ala Melayu.",
+       "category": "Budaya",
+       "source": "ratanews.id",
+       "sourceUrl": "https://www.ratanews.id/pd-mabmi-deli-serdang-akan-gelar-gebyar-pesta-adat-budaya-melayu-di-percut/",
+       "time": "13 Nov",
+       "editionDate": "2026-11-13",
+       "editionLabel": "Tambahan"
+      },
+      {
+       "slug": "supernova-sn2026ahvu",
+       "title": "Supernova Muda SN 2026ahvu, Salah Satu yang Terdekat Sejak 2011",
+       "summary": "Supernova muda Tipe Ia SN 2026ahvu ditemukan di galaksi spiral NGC 1433, sekitar 50 juta tahun cahaya dari Bumi, setelah pertama kali terdeteksi sistem ATLAS pada 2 November 2026 dan dikonfirmasi lewat spektroskopi. Ini salah satu supernova Tipe Ia terdekat sejak SN 2011fe pada 2011, dan diperkirakan mencapai kecerahan maksimum antara 18–23 November.",
+       "category": "Sains",
+       "source": "Phys.org",
+       "sourceUrl": "https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html",
+       "time": "13 Nov · 23.20 WIB",
+       "editionDate": "2026-11-13",
+       "editionLabel": "Tambahan"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
