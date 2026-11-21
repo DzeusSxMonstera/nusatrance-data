@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-21T06:59:49+08:00",
- "edition": "pagi",
+ "updated": "2026-11-21T18:08:34+08:00",
+ "edition": "malam",
  "items": [
   {
-   "kategori": "Bencana",
-   "keyword": "BMKG hujan lebat",
-   "label": "Siaga 21 Nov · bibit siklon 96S di barat Bengkulu",
+   "kategori": "Entertainment",
+   "keyword": "Robert Pattinson James Bond",
+   "label": "Debut sebagai 007 di pemutaran The Odyssey, London 20 Nov",
    "rank": 1,
-   "topic": "BMKG: 12 Provinsi Siaga Hujan Lebat Hari Ini"
+   "topic": "Robert Pattinson James Bond Tampil Perdana di Publik"
+  },
+  {
+   "kategori": "Hukum",
+   "keyword": "TPPO Polda Metro",
+   "label": "16 korban perempuan dan anak · modus kerja Arab Saudi",
+   "rank": 2,
+   "topic": "Polda Metro Ungkap 6 Kasus TPPO, 11 Tersangka"
   },
   {
    "kategori": "Ekonomi",
-   "keyword": "UMP Lampung",
-   "label": "Lampung Rp3,28 jt · Kaltara Rp4.027.901",
-   "rank": 2,
-   "topic": "UMP Daerah: Lampung Naik 7,79%, NTT dan Kaltara Menyusul"
+   "keyword": "RAPP izin hutan",
+   "label": "Satgas PKH: sawit 18.362 ha · kembali dikuasai negara",
+   "rank": 3,
+   "topic": "Izin Hutan PT RAPP 338.536 Hektare Dicabut"
+  },
+  {
+   "kategori": "Sains",
+   "keyword": "UGM Antarktika",
+   "label": "Riset iklim 23 Nov–29 Des · satu-satunya kampus RI",
+   "rank": 4,
+   "topic": "Dua Peneliti UGM Berangkat ke Antarktika"
   },
   {
    "kategori": "Entertainment",
-   "keyword": "SCTV Awards",
-   "label": "Malam puncak 20 Nov · Asmara Gen Z sinetron terngetop",
-   "rank": 3,
-   "topic": "SCTV Awards 2026: Fattah Syach dan Aqeela Calista Menang"
+   "keyword": "Doh Kyung Soo",
+   "label": "Satu dari 34 event Jakarta hari ini",
+   "rank": 5,
+   "topic": "Doh Kyung Soo Gelar Konser DAY OFF di Istora Senayan"
+  },
+  {
+   "kategori": "Hukum",
+   "keyword": "KPK dana haji",
+   "label": "Kesaksian Gus Alex sebut Rp10 miliar",
+   "rank": 6,
+   "topic": "KPK Dalami Dugaan Aliran Dana Haji ke Komisi VIII DPR"
   },
   {
    "kategori": "Teknologi",
-   "keyword": "Redmi 17 5G",
-   "label": "Snapdragon 4 Gen 5 · baterai 7.500 mAh",
-   "rank": 4,
-   "topic": "Redmi 17 5G Resmi di Indonesia, Rp3,999 Juta"
+   "keyword": "NOTAM AI",
+   "label": "AI draf NOTAM standar ICAO · tutor AI Sokratik",
+   "rank": 7,
+   "topic": "NOTAM AI dan EduNusa Jadi Produk Unggulan KSTI 2026"
   },
   {
    "kategori": "Kesehatan",
    "keyword": "vaksin TB M72",
    "label": "Efikasi awal 54–57% · joint assessment dengan EMA",
-   "rank": 5,
+   "rank": 8,
    "topic": "BPOM Kaji Vaksin TB M72, Peluang Persetujuan Bersyarat"
   },
   {
    "kategori": "Sains",
    "keyword": "Alpha Monocerotid",
    "label": "Hujan meteor minor · kalah pamor dari Leonid",
-   "rank": 6,
+   "rank": 9,
    "topic": "Hujan Meteor Alpha Monocerotid Memuncak 21–22 November"
-  },
-  {
-   "kategori": "Peristiwa",
-   "keyword": "gempa Ruteng",
-   "label": "20.51 WIB · 57 km utara Ruteng · dirasakan II–III MMI",
-   "rank": 7,
-   "topic": "Gempa M3,6 Guncang Ruteng, Manggarai"
   },
   {
    "kategori": "Olahraga",
    "keyword": "Arema PSS",
    "label": "Pekan ke-10 · Arema naik ke peringkat 11",
-   "rank": 8,
-   "topic": "Arema FC Bantai PSS Sleman 3-0"
-  },
-  {
-   "kategori": "Olahraga",
-   "keyword": "Persija PSM",
-   "label": "Pekan ke-10 · Persija pimpin klasemen 21 poin",
-   "rank": 9,
-   "topic": "Persija vs PSM Makassar Hari Ini"
-  },
-  {
-   "kategori": "Olahraga",
-   "keyword": "Garudayaksa Madura",
-   "label": "Gol Jayro Jean 71' · Madura gagal ke puncak",
    "rank": 10,
-   "topic": "Garudayaksa Kalahkan Madura United 1-0"
+   "topic": "Arema FC Bantai PSS Sleman 3-0"
   }
  ]
 }
