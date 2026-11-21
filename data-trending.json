@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-21T18:08:34+08:00",
- "edition": "malam",
+ "updated": "2026-11-22T07:26:34+08:00",
+ "edition": "pagi",
  "items": [
   {
-   "kategori": "Entertainment",
-   "keyword": "Robert Pattinson James Bond",
-   "label": "Debut sebagai 007 di pemutaran The Odyssey, London 20 Nov",
+   "kategori": "Bencana",
+   "keyword": "BMKG hujan lebat 8 wilayah",
+   "label": "Aceh, Sumbar, Sumut, Banten, Jabar, Jateng, Jatim, Papua Selatan",
    "rank": 1,
-   "topic": "Robert Pattinson James Bond Tampil Perdana di Publik"
+   "topic": "BMKG: 8 Wilayah Hujan Lebat–Sangat Lebat Minggu Ini"
   },
   {
-   "kategori": "Hukum",
-   "keyword": "TPPO Polda Metro",
-   "label": "16 korban perempuan dan anak · modus kerja Arab Saudi",
+   "kategori": "Peristiwa",
+   "keyword": "Baduy mengungsi",
+   "label": "132 warga mengungsi · 21 rumah hangus · dibangun Desember",
    "rank": 2,
-   "topic": "Polda Metro Ungkap 6 Kasus TPPO, 11 Tersangka"
+   "topic": "Baduy: 132 Warga Mengungsi, Bantuan Darurat Disalurkan"
   },
   {
-   "kategori": "Ekonomi",
-   "keyword": "RAPP izin hutan",
-   "label": "Satgas PKH: sawit 18.362 ha · kembali dikuasai negara",
+   "kategori": "Olahraga",
+   "keyword": "Persib Bali United",
+   "label": "Big match pekan ke-10 · Minggu 19.00 WIB di GBLA",
    "rank": 3,
-   "topic": "Izin Hutan PT RAPP 338.536 Hektare Dicabut"
+   "topic": "Persib vs Bali United Malam Ini di GBLA"
   },
   {
-   "kategori": "Sains",
-   "keyword": "UGM Antarktika",
-   "label": "Riset iklim 23 Nov–29 Des · satu-satunya kampus RI",
+   "kategori": "Budaya",
+   "keyword": "Festival Bunaken",
+   "label": "Puncak di Pulau Bunaken · tanam mangrove · dayung SUP 10 km",
    "rank": 4,
-   "topic": "Dua Peneliti UGM Berangkat ke Antarktika"
-  },
-  {
-   "kategori": "Entertainment",
-   "keyword": "Doh Kyung Soo",
-   "label": "Satu dari 34 event Jakarta hari ini",
-   "rank": 5,
-   "topic": "Doh Kyung Soo Gelar Konser DAY OFF di Istora Senayan"
+   "topic": "Festival Bunaken 2026 Sukses Digelar"
   },
   {
    "kategori": "Hukum",
-   "keyword": "KPK dana haji",
-   "label": "Kesaksian Gus Alex sebut Rp10 miliar",
-   "rank": 6,
-   "topic": "KPK Dalami Dugaan Aliran Dana Haji ke Komisi VIII DPR"
-  },
-  {
-   "kategori": "Teknologi",
-   "keyword": "NOTAM AI",
-   "label": "AI draf NOTAM standar ICAO · tutor AI Sokratik",
-   "rank": 7,
-   "topic": "NOTAM AI dan EduNusa Jadi Produk Unggulan KSTI 2026"
-  },
-  {
-   "kategori": "Kesehatan",
-   "keyword": "vaksin TB M72",
-   "label": "Efikasi awal 54–57% · joint assessment dengan EMA",
-   "rank": 8,
-   "topic": "BPOM Kaji Vaksin TB M72, Peluang Persetujuan Bersyarat"
+   "keyword": "Korupsi KBS Surabaya",
+   "label": "4 tersangka ditahan · negara rugi Rp3,27 miliar",
+   "rank": 5,
+   "topic": "Kejati Jatim Tahan 4 Tersangka Korupsi KBS Surabaya"
   },
   {
    "kategori": "Sains",
    "keyword": "Alpha Monocerotid",
-   "label": "Hujan meteor minor · kalah pamor dari Leonid",
-   "rank": 9,
-   "topic": "Hujan Meteor Alpha Monocerotid Memuncak 21–22 November"
+   "label": "Puncak 22 November · 1–25 meteor per jam",
+   "rank": 6,
+   "topic": "Hujan Meteor Alpha Monocerotid Memuncak Malam Ini"
   },
   {
-   "kategori": "Olahraga",
-   "keyword": "Arema PSS",
-   "label": "Pekan ke-10 · Arema naik ke peringkat 11",
+   "kategori": "Entertainment",
+   "keyword": "D.O. EXO DAY OFF",
+   "label": "Hari kedua Minggu 15.00 WIB di Istora Senayan",
+   "rank": 7,
+   "topic": "D.O. EXO DAY OFF Hari Kedua di Istora"
+  },
+  {
+   "kategori": "Ekonomi",
+   "keyword": "BI Rate 6 persen",
+   "label": "BI naikkan suku bunga acuan 25 bps jadi 6%",
+   "rank": 8,
+   "topic": "BI Naikkan Suku Bunga Acuan Jadi 6 Persen"
+  },
+  {
+   "kategori": "Ekonomi",
+   "keyword": "OJK manipulasi saham",
+   "label": "10 kasus ditindak · pengembalian Rp23,77 miliar",
+   "rank": 9,
+   "topic": "OJK Tindak 10 Kasus Pelanggaran Pasar Modal"
+  },
+  {
+   "kategori": "Hukum",
+   "keyword": "UU Perampasan Aset disahkan",
+   "label": "Resmi disahkan DPR setelah 18 tahun",
    "rank": 10,
-   "topic": "Arema FC Bantai PSS Sleman 3-0"
+   "topic": "DPR Sahkan UU Perampasan Aset Jadi Undang-Undang"
   }
  ]
 }

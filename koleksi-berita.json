@@ -1,7 +1,150 @@
 {
- "generated": "2026-11-21T10:08:34",
- "total": 218,
+ "generated": "2026-11-21T23:26:34",
+ "total": 231,
  "items": [
+  {
+   "slug": "gempa-m72-laut-banda-maluku",
+   "title": "Gempa M7,2 Guncang Laut Banda, Maluku Barat Daya",
+   "summary": "BMKG mencatat gempa tektonik bermagnitudo 7,2 mengguncang Laut Banda, Maluku Barat Daya, pada Sabtu pukul 16.42 WIB. Analisis lanjutan memutakhirkan magnitudo menjadi 6,9 dengan kedalaman 156 kilometer. Guncangan terkuat V MMI dirasakan di Tiakur hingga membuat 12 pasien RSUD setempat dievakuasi ke halaman.",
+   "category": "Bencana",
+   "source": "BMKG",
+   "sourceUrl": "https://www.bmkg.go.id/gempabumi/20261121164454",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "pabrik-permen-fonusa-cikande-terbakar",
+   "title": "Pabrik Permen Fonusa Cikande Terbakar, 42 Karyawan Hilang Kontak",
+   "summary": "Kebakaran besar melanda pabrik permen PT Fonusa Agung Mulia di Kawasan Industri Pancatama, Cikande, Kabupaten Serang, Banten, pada Sabtu sekitar pukul 17.00 WIB. Empat pekerja mengalami luka ringan, sementara polisi menerima laporan 42 karyawan belum dapat dihubungi.",
+   "category": "Peristiwa",
+   "source": "BSI News",
+   "sourceUrl": "https://bsinews.id/kebakaran-pabrik-permen-cikande-putus-kontak-42-karyawan",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "bitcoin-rebound-60-ribu-dolar",
+   "title": "Bitcoin Bangkit ke Atas US$60.000",
+   "summary": "Bitcoin bangkit kembali ke atas 60.000 dolar Amerika pada Sabtu malam setelah sempat anjlok ke 55.130 dolar, level terendah sejak September 2024. Kenaikan 9 persen dari titik terendah itu terjadi setelah aksi jual menghapus 1,8 miliar dolar posisi leverage.",
+   "category": "Ekonomi",
+   "source": "CoinDesk",
+   "sourceUrl": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "ump-jabar-rp3-juta-naik-29-persen",
+   "title": "UMP Jabar Rp3 Juta, Naik 29,44 Persen",
+   "summary": "Gubernur Jawa Barat Dedi Mulyadi menetapkan upah minimum provinsi 2027 sebesar Rp3.000.000 per bulan, naik 29,44 persen dari Rp2.317.601 pada 2026. Kenaikan itu menjadi yang kedua tertinggi setelah Bali, yang melonjak 42,15 persen.",
+   "category": "Ekonomi",
+   "source": "Topik.id",
+   "sourceUrl": "https://www.topik.id/kenaikan-ump-2027-di-17-provinsi-bali-naik-4215-persen",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "guns-n-roses-guncang-gbk-22-ribu-penonton",
+   "title": "Guns N' Roses Guncang GBK, 22.000 Penonton",
+   "summary": "Guns N' Roses akhirnya kembali mengguncang Jakarta setelah delapan tahun, tampil di Stadion Madya Gelora Bung Karno pada Sabtu malam. Axl Rose membuka konser dengan Welcome to the Jungle. Sekitar 22.000 penonton ditargetkan hadir, termasuk sekitar 2.000 wisatawan mancanegara.",
+   "category": "Entertainment",
+   "source": "LimaPagi",
+   "sourceUrl": "https://www.limapagi.id/guns-n-roses-konser-jakarta",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "hong-kong-open-tiga-wakil-tersingkir",
+   "title": "Tiga Wakil RI Tersingkir di Semifinal Hong Kong Open",
+   "summary": "Indonesia hanya menyisakan satu wakil di final Hong Kong Open 2026 setelah tiga wakil lainnya tumbang di semifinal Sabtu. Moh Zaki Ubaidillah kalah rubber game 21-18, 15-21, 16-21 dari Kunlavut Vitidsarn dalam 71 menit.",
+   "category": "Olahraga",
+   "source": "Topik.id",
+   "sourceUrl": "https://www.topik.id/hasil-hong-kong-open-2026-ubed-kalah-tiga-gim-dari-kunlavut-di-semifinal",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "kunstkring-koleksi-seni-terancam",
+   "title": "Lukisan Raksasa Kunstkring Terancam Api",
+   "summary": "Kebakaran Tugu Kunstkring Paleis di Menteng ternyata mengancam koleksi seni bersejarah di dalamnya, termasuk lukisan raksasa The Fall of Java berukuran 9 x 4 meter tentang Pangeran Diponegoro. Penyebab kebakaran masih diperselisihkan.",
+   "category": "Budaya",
+   "source": "KilasRakyat",
+   "sourceUrl": "https://www.kilasrakyat.com/kebakaran-gedung-kunstkring-menteng",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "my-chemical-romance-jis-hari-ini",
+   "title": "My Chemical Romance Tutup Tur di JIS Hari Ini",
+   "summary": "My Chemical Romance menutup rangkaian tur Asia Tenggara mereka dengan konser di Jakarta International Stadium pada Minggu malam pukul 20.00 WIB. Band itu kembali ke Indonesia setelah 18 tahun, terakhir tampil pada 31 Januari 2008 di Jakarta Convention Center.",
+   "category": "Entertainment",
+   "source": "TVBangsa",
+   "sourceUrl": "https://www.tvbangsa.id/berita/promotor-my-chemical-romance-bakal-tampil-all-out-di-jakarta-282765dd",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "mpr-skenario-voting-dua-putaran",
+   "title": "MPR Siapkan Skenario Voting Dua Putaran Pilih Wapres",
+   "summary": "MPR menyiapkan skenario voting dua putaran untuk memilih wakil presiden; Dasco menyebut penentuan nama tetap hak prerogatif Presiden Prabowo. Mekanisme pemilihan dibahas — musyawarah atau voting, bila imbang bisa diserahkan ke Presiden.",
+   "category": "Politik",
+   "source": "KGNOW/Kompas TV",
+   "sourceUrl": "https://www.kgnow.com/watch/1969215/menanti-cawapres-pilihan-prabowo-voting-atau-musyawarah-di-mpr-kompas-siang",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "gus-alex-akui-terima-75-ribu-dolar",
+   "title": "Gus Alex Akui Terima US$75 Ribu dari Biro Haji",
+   "summary": "Gus Alex mengakui menerima US$75 ribu dari biro haji dalam sidang Jumat, sementara kuasa hukumnya menyebut dakwaan terima uang tak terbukti. KPK tetap mendalami nama-nama yang disebut dalam persidangan kasus kuota haji.",
+   "category": "Hukum",
+   "source": "Afu.id",
+   "sourceUrl": "https://afu.id/hukum-kriminal/kubu-gus-alex-sebut-dakwaan-terima-uang-tak-terbukti-ini-klaim-kuasa-hukum-dan-pengakuannya-di-sidang",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "sumenep-vaksinasi-dbd-anak",
+   "title": "Sumenep Vaksinasi DBD Anak: 1.000 Dosis untuk 500 Anak",
+   "summary": "Sumenep memperkuat perlindungan kesehatan anak lewat vaksinasi DBD sejak 12 November 2026; 1.000 dosis disiapkan untuk 500 anak. Sebanyak 483 kasus DBD tercatat hingga Oktober 2026 dengan 3 meninggal dunia di Sumenep.",
+   "category": "Kesehatan",
+   "source": "Pojok.co.id",
+   "sourceUrl": "https://www.pojok.co.id/berita/sumenep-perkuat-perlindungan-kesehatan-anak-melalui-vaksinasi-dbd",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "notam-ai-raih-innovation-award",
+   "title": "NOTAM AI Raih Indonesia Innovation Product Award di KSTI 2026",
+   "summary": "NOTAM AI, aplikasi AI penyusun draf NOTAM kolaborasi Telkom University dan AirNav, meraih peringkat ketiga kategori Discovery di KSTI 2026. Aplikasi ini mengubah pesan sehari-hari menjadi draf NOTAM standar ICAO.",
+   "category": "Teknologi",
+   "source": "Telkom University",
+   "sourceUrl": "https://telkomuniversity.ac.id/notam-ai-raih-indonesia-innovation-product-award-kategori-discovery-di-ksti-2026/",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "brin-prioritaskan-riset-satelit",
+   "title": "BRIN Prioritaskan Riset Satelit Mitigasi Bencana",
+   "summary": "BRIN memprioritaskan riset satelit untuk pemantauan bencana, laut, dan pangan, serta mengembangkan vaksin malaria. Sekitar 95% kasus malaria nasional terkonsentrasi di Papua.",
+   "category": "Sains",
+   "source": "Lapor.co.id (ANTARA)",
+   "sourceUrl": "https://lapor.co.id/berita/brin-prioritaskan-riset-satelit-untuk-mitigasi-bencana",
+   "time": "22 Nov 2026",
+   "editionDate": "2026-11-22",
+   "editionLabel": "Pagi"
+  },
   {
    "slug": "gta-vi-raup-379-miliar-sehari",
    "title": "GTA VI Raup US$3,79 Miliar dalam Sehari",

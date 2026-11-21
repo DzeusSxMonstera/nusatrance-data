@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T10:08:09",
+  "generated": "2026-11-21T23:25:27",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -29,6 +29,12 @@
           "source_slug": "ump-bali-melonjak-42-persen",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "ump-jabar-rp3-juta-naik-29-persen.jpg",
+          "source_slug": "ump-jabar-rp3-juta-naik-29-persen",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -43,7 +49,7 @@
           "file": "ekspose-makar-ditunda-pekan-depan.jpg",
           "source_slug": "ekspose-makar-ditunda-pekan-depan",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -58,7 +64,7 @@
           "file": "myanmar-sebut-putusan-icj-tak-adil.jpg",
           "source_slug": "myanmar-sebut-putusan-icj-tak-adil",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -99,6 +105,12 @@
           "source_slug": "bitcoin-jebol-bawah-60-ribu",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "bitcoin-rebound-60-ribu-dolar.jpg",
+          "source_slug": "bitcoin-rebound-60-ribu-dolar",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -114,7 +126,7 @@
           "file": "komdigi-tagih-penjelasan-google.jpg",
           "source_slug": "komdigi-tagih-penjelasan-google",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -165,6 +177,12 @@
           "source_slug": "guns-n-roses-guncang-gbk",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "guns-n-roses-guncang-gbk-22-ribu-penonton.jpg",
+          "source_slug": "guns-n-roses-guncang-gbk-22-ribu-penonton",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -181,7 +199,7 @@
           "file": "timnas-20261121.jpg",
           "source_slug": "timnas-u17-imbang-myanmar-juara-grup-a",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         },
         {
           "file": "timnas-u17-juara-grup-a.jpg",
@@ -202,7 +220,7 @@
           "file": "menkes-20261121.jpg",
           "source_slug": "menkes-budi-kandidat-dirjen-who",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -216,7 +234,7 @@
           "file": "perpusnas-20261121.jpg",
           "source_slug": "perpusnas-manuskrip-nusantara-bahan-bacaan-anak",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -231,7 +249,7 @@
           "file": "webb-20261121.jpg",
           "source_slug": "webb-rekam-bintang-raksasa-telan-pendamping-andromeda",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -245,7 +263,7 @@
           "file": "banjir-20261121.jpg",
           "source_slug": "banjir-longsor-terjang-8-daerah-pasaman-barat-terdampak",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -258,7 +276,7 @@
           "file": "bmkg-20261121.jpg",
           "source_slug": "bmkg-12-provinsi-berpotensi-hujan-lebat-21-november",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -272,7 +290,7 @@
           "file": "aqeela-20261121.jpg",
           "source_slug": "aqeela-calista-aktris-utama-sctv-awards-2026",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -285,7 +303,7 @@
           "file": "anthropic-20261121.jpg",
           "source_slug": "ipo-anthropic-rekor-dunia",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -298,7 +316,7 @@
           "file": "persib-20261121.jpg",
           "source_slug": "persib-bantai-shan-united-6-0",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -313,7 +331,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -326,7 +344,7 @@
           "file": "bunaken-20261121.jpg",
           "source_slug": "festival-bunaken-2026-dibuka-manado",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -341,7 +359,7 @@
           "file": "chip-20261121.jpg",
           "source_slug": "chip-merah-putih-peruri-itb-e-paspor",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -354,7 +372,7 @@
           "file": "bnpb-20261121.jpg",
           "source_slug": "bnpb-dua-pesawat-cegah-banjir-aceh",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -368,7 +386,7 @@
           "file": "ka-siantar-20261121.jpg",
           "source_slug": "ka-siantar-ekspres-tabrak-minibus-lokomotif-terbakar",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         },
         {
           "file": "ka-siantar-tabrak-angkot-1-tewas.jpg",
@@ -389,7 +407,7 @@
           "file": "sjafrie-20261121.jpg",
           "source_slug": "sjafrie-bantah-ganti-panglima",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -404,7 +422,7 @@
           "file": "perampasan-aset-20261121.jpg",
           "source_slug": "icw-adukan-puan-mkd",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -418,7 +436,7 @@
           "file": "film-20261121.jpg",
           "source_slug": "film-menang-untuk-kalah-tayang-bioskop",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -468,6 +486,12 @@
           "source_slug": "leo-daniel-final-hong-kong-open",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "hong-kong-open-tiga-wakil-tersingkir.jpg",
+          "source_slug": "hong-kong-open-tiga-wakil-tersingkir",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -480,7 +504,7 @@
           "file": "benteng-culture-fest-20261121.jpg",
           "source_slug": "benteng-culture-fest-2026-tangerang",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -494,6 +518,12 @@
           "source_slug": "gempa-m46-sukabumi-sabtu-dini-hari",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "gempa-m72-laut-banda-maluku.jpg",
+          "source_slug": "gempa-m72-laut-banda-maluku",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -506,7 +536,7 @@
           "file": "mpr-20261121.jpg",
           "source_slug": "mpr-verifikasi-cawapres-tim-36-orang",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -520,7 +550,7 @@
           "file": "oppo-20261121.jpg",
           "source_slug": "oppo-find-x10-resmi-indonesia",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -535,7 +565,7 @@
           "file": "meteor-20261121.jpg",
           "source_slug": "hujan-meteor-leonid-aktif-hingga-30-november",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -577,6 +607,58 @@
           "source_slug": "emas-antam-turun-lima-hari",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        }
+      ]
+    },
+    "Gus Alex": {
+      "aliases": [
+        "gus alex"
+      ],
+      "images": [
+        {
+          "file": "gus-alex-sidang-haji-20261122.jpg",
+          "source_slug": "gus-alex-akui-terima-75-ribu-dolar",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
+    },
+    "Vaksin DBD": {
+      "aliases": [
+        "vaksin dbd"
+      ],
+      "images": [
+        {
+          "file": "vaksinasi-dbd-sumenep-20261122.jpg",
+          "source_slug": "sumenep-vaksinasi-dbd-anak",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
+    },
+    "NOTAM AI": {
+      "aliases": [
+        "notam ai"
+      ],
+      "images": [
+        {
+          "file": "notam-ai-ksti-20261122.jpg",
+          "source_slug": "notam-ai-raih-innovation-award",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
+    },
+    "Satelit BRIN": {
+      "aliases": [
+        "satelit brin"
+      ],
+      "images": [
+        {
+          "file": "brin-satelit-20261122.jpg",
+          "source_slug": "brin-prioritaskan-riset-satelit",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     }
@@ -701,6 +783,46 @@
       "file": "emas-antam-turun-lima-hari.jpg",
       "title": "Emas Antam Turun 5 Hari, Buyback Anjlok Rp50.000",
       "first_used": "2026-11-21"
+    },
+    "gempa-m72-laut-banda-maluku": {
+      "file": "gempa-m72-laut-banda-maluku.jpg",
+      "title": "Gempa M7,2 Guncang Laut Banda, Maluku Barat Daya",
+      "first_used": "2026-11-22"
+    },
+    "pabrik-permen-fonusa-cikande-terbakar": {
+      "file": "pabrik-permen-fonusa-cikande-terbakar.jpg",
+      "title": "Pabrik Permen Fonusa Cikande Terbakar, 42 Karyawan Hilang Kontak",
+      "first_used": "2026-11-22"
+    },
+    "bitcoin-rebound-60-ribu-dolar": {
+      "file": "bitcoin-rebound-60-ribu-dolar.jpg",
+      "title": "Bitcoin Bangkit ke Atas US$60.000",
+      "first_used": "2026-11-22"
+    },
+    "ump-jabar-rp3-juta-naik-29-persen": {
+      "file": "ump-jabar-rp3-juta-naik-29-persen.jpg",
+      "title": "UMP Jabar Rp3 Juta, Naik 29,44 Persen",
+      "first_used": "2026-11-22"
+    },
+    "guns-n-roses-guncang-gbk-22-ribu-penonton": {
+      "file": "guns-n-roses-guncang-gbk-22-ribu-penonton.jpg",
+      "title": "Guns N' Roses Guncang GBK, 22.000 Penonton",
+      "first_used": "2026-11-22"
+    },
+    "hong-kong-open-tiga-wakil-tersingkir": {
+      "file": "hong-kong-open-tiga-wakil-tersingkir.jpg",
+      "title": "Tiga Wakil RI Tersingkir di Semifinal Hong Kong Open",
+      "first_used": "2026-11-22"
+    },
+    "kunstkring-koleksi-seni-terancam": {
+      "file": "kunstkring-koleksi-seni-terancam.jpg",
+      "title": "Lukisan Raksasa Kunstkring Terancam Api",
+      "first_used": "2026-11-22"
+    },
+    "my-chemical-romance-jis-hari-ini": {
+      "file": "my-chemical-romance-jis-hari-ini.jpg",
+      "title": "My Chemical Romance Tutup Tur di JIS Hari Ini",
+      "first_used": "2026-11-22"
     }
   }
 }
