@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T23:25:27",
+  "generated": "2026-11-22T10:22:55",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -33,6 +33,12 @@
         {
           "file": "ump-jabar-rp3-juta-naik-29-persen.jpg",
           "source_slug": "ump-jabar-rp3-juta-naik-29-persen",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        },
+        {
+          "file": "ump-2027-22-provinsi-sudah-tetapkan.jpg",
+          "source_slug": "ump-2027-22-provinsi-sudah-tetapkan",
           "first_used": "2026-11-22",
           "last_used": "2026-11-22"
         }
@@ -492,6 +498,12 @@
           "source_slug": "hong-kong-open-tiga-wakil-tersingkir",
           "first_used": "2026-11-22",
           "last_used": "2026-11-22"
+        },
+        {
+          "file": "leo-daniel-runner-up-hong-kong-open.jpg",
+          "source_slug": "leo-daniel-runner-up-hong-kong-open",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
         }
       ]
     },
@@ -661,6 +673,45 @@
           "last_used": "2026-11-22"
         }
       ]
+    },
+    "Green SM Bike": {
+      "aliases": [
+        "green sm bike"
+      ],
+      "images": [
+        {
+          "file": "green-sm-bike-20261122.jpg",
+          "source_slug": "green-sm-bike-berhenti-beroperasi",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
+    },
+    "Antarktika": {
+      "aliases": [
+        "antarktika"
+      ],
+      "images": [
+        {
+          "file": "ugm-antarktika-20261122.jpg",
+          "source_slug": "dua-peneliti-ugm-ke-antarktika",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
+    },
+    "Kebakaran": {
+      "aliases": [
+        "kebakaran"
+      ],
+      "images": [
+        {
+          "file": "kebakaran-pabrik-permen-cikande-tiga-tewas.jpg",
+          "source_slug": "kebakaran-pabrik-permen-cikande-tiga-tewas",
+          "first_used": "2026-11-22",
+          "last_used": "2026-11-22"
+        }
+      ]
     }
   },
   "by_slug": {
@@ -822,6 +873,46 @@
     "my-chemical-romance-jis-hari-ini": {
       "file": "my-chemical-romance-jis-hari-ini.jpg",
       "title": "My Chemical Romance Tutup Tur di JIS Hari Ini",
+      "first_used": "2026-11-22"
+    },
+    "kebakaran-pabrik-permen-cikande-tiga-tewas": {
+      "file": "kebakaran-pabrik-permen-cikande-tiga-tewas.jpg",
+      "title": "Kebakaran Pabrik Permen Cikande: 3 Tewas, 36 Masih Dicari",
+      "first_used": "2026-11-22"
+    },
+    "kapolri-mutasi-704-personel-enam-kapolda": {
+      "file": "kapolri-mutasi-704-personel-enam-kapolda.jpg",
+      "title": "Kapolri Mutasi 704 Personel, 6 Kapolda Baru",
+      "first_used": "2026-11-22"
+    },
+    "leo-daniel-runner-up-hong-kong-open": {
+      "file": "leo-daniel-runner-up-hong-kong-open.jpg",
+      "title": "Leo/Daniel Runner-Up Hong Kong Open 2026",
+      "first_used": "2026-11-22"
+    },
+    "prabowo-kumpulkan-ketum-bahas-cawapres": {
+      "file": "prabowo-kumpulkan-ketum-bahas-cawapres.jpg",
+      "title": "Prabowo Kumpulkan Ketum Parpol, Bahas Cawapres",
+      "first_used": "2026-11-22"
+    },
+    "ump-2027-22-provinsi-sudah-tetapkan": {
+      "file": "ump-2027-22-provinsi-sudah-tetapkan.jpg",
+      "title": "UMP 2027: 22 Provinsi Sudah Tetapkan",
+      "first_used": "2026-11-22"
+    },
+    "gus-alex-rp500-juta-total-politik": {
+      "file": "gus-alex-rp500-juta-total-politik.jpg",
+      "title": "Gus Alex: Rp500 Juta untuk Total Politik",
+      "first_used": "2026-11-22"
+    },
+    "marquez-crash-gelar-motogp-tertunda": {
+      "file": "marquez-crash-gelar-motogp-tertunda.jpg",
+      "title": "Marquez Crash, Gelar MotoGP Tertunda",
+      "first_used": "2026-11-22"
+    },
+    "mcr-guncang-jis-malam-ini": {
+      "file": "mcr-guncang-jis-malam-ini.jpg",
+      "title": "MCR Guncang JIS Malam Ini",
       "first_used": "2026-11-22"
     }
   }

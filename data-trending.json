@@ -1,55 +1,55 @@
 {
- "updated": "2026-11-22T07:26:34+08:00",
- "edition": "pagi",
+ "updated": "2026-11-22T18:26:01+08:00",
+ "edition": "malam",
  "items": [
-  {
-   "kategori": "Bencana",
-   "keyword": "BMKG hujan lebat 8 wilayah",
-   "label": "Aceh, Sumbar, Sumut, Banten, Jabar, Jateng, Jatim, Papua Selatan",
-   "rank": 1,
-   "topic": "BMKG: 8 Wilayah Hujan Lebat–Sangat Lebat Minggu Ini"
-  },
-  {
-   "kategori": "Peristiwa",
-   "keyword": "Baduy mengungsi",
-   "label": "132 warga mengungsi · 21 rumah hangus · dibangun Desember",
-   "rank": 2,
-   "topic": "Baduy: 132 Warga Mengungsi, Bantuan Darurat Disalurkan"
-  },
   {
    "kategori": "Olahraga",
    "keyword": "Persib Bali United",
    "label": "Big match pekan ke-10 · Minggu 19.00 WIB di GBLA",
-   "rank": 3,
+   "rank": 1,
    "topic": "Persib vs Bali United Malam Ini di GBLA"
   },
   {
-   "kategori": "Budaya",
-   "keyword": "Festival Bunaken",
-   "label": "Puncak di Pulau Bunaken · tanam mangrove · dayung SUP 10 km",
-   "rank": 4,
-   "topic": "Festival Bunaken 2026 Sukses Digelar"
+   "kategori": "Peristiwa",
+   "keyword": "Baduy mengungsi",
+   "label": "32 rumah rusak · 132 warga mengungsi · dibangun Desember",
+   "rank": 2,
+   "topic": "Baduy: 32 Rumah Rusak, 132 Warga Mengungsi"
   },
   {
-   "kategori": "Hukum",
-   "keyword": "Korupsi KBS Surabaya",
-   "label": "4 tersangka ditahan · negara rugi Rp3,27 miliar",
-   "rank": 5,
-   "topic": "Kejati Jatim Tahan 4 Tersangka Korupsi KBS Surabaya"
+   "kategori": "Entertainment",
+   "keyword": "Icha Yang Beijing",
+   "label": "Bintang tamu Global Variety Show · rekaman 22–24 November",
+   "rank": 3,
+   "topic": "Icha Yang Tampil di Beijing, Bintang Tamu Global Variety Show"
   },
   {
    "kategori": "Sains",
    "keyword": "Alpha Monocerotid",
    "label": "Puncak 22 November · 1–25 meteor per jam",
-   "rank": 6,
+   "rank": 4,
    "topic": "Hujan Meteor Alpha Monocerotid Memuncak Malam Ini"
   },
   {
    "kategori": "Entertainment",
    "keyword": "D.O. EXO DAY OFF",
    "label": "Hari kedua Minggu 15.00 WIB di Istora Senayan",
-   "rank": 7,
+   "rank": 5,
    "topic": "D.O. EXO DAY OFF Hari Kedua di Istora"
+  },
+  {
+   "kategori": "Budaya",
+   "keyword": "Festival Bunaken",
+   "label": "Puncak di Pulau Bunaken · tanam mangrove · dayung SUP 10 km",
+   "rank": 6,
+   "topic": "Festival Bunaken 2026 Sukses Digelar"
+  },
+  {
+   "kategori": "Hukum",
+   "keyword": "Korupsi KBS Surabaya",
+   "label": "4 tersangka ditahan · negara rugi Rp3,27 miliar",
+   "rank": 7,
+   "topic": "Kejati Jatim Tahan 4 Tersangka Korupsi KBS Surabaya"
   },
   {
    "kategori": "Ekonomi",
