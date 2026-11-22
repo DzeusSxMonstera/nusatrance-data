@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "source_note": "Artikel orisinal Redaksi NusaTrance. Bukan ringkasan berita. Ditulis dan diperiksa redaksi; angka dan klaim faktual hanya yang terverifikasi.",
   "articles": [
     {
@@ -333,6 +333,33 @@
       ],
       "readMinutes": 3,
       "_words": 414
+    },
+    {
+      "slug": "kendaraan-di-gta-6-cara-mendapatkan-menyimpan-menjual",
+      "title": "Kendaraan di GTA 6: Cara Mendapatkan, Menyimpan, dan Menjual Mobil",
+      "excerpt": "Leonida punya 557 kendaraan menurut catatan di dalam game: 277 model dasar dan 280 varian. Jumlah itu mencakup sedan, mobil otot, motor, perahu, sampai pesawat.",
+      "category": "Hobi",
+      "author": "Redaksi NusaTrance",
+      "date": "2026-11-23",
+      "dateLabel": "23 November 2026",
+      "tags": [
+        "GTA 6",
+        "Grand Theft Auto VI",
+        "kendaraan",
+        "mobil",
+        "panduan"
+      ],
+      "body": [
+        "Leonida punya 557 kendaraan menurut catatan di dalam game: 277 model dasar dan 280 varian. Jumlah itu mencakup sedan, mobil otot, motor, perahu, sampai pesawat. Yang berubah dari GTA 5 bukan jumlahnya, melainkan caranya. Mencuri mobil di GTA 6 tidak lagi sekadar membuka pintu lalu pergi.",
+        "Setiap mobil parkir punya tingkat keamanan. Mobil tua bisa dibuka dengan slim jim atau memecahkan kaca. Mobil modern kelas atas butuh key cloner, alat yang baru didapat di tengah Chapter 3 lewat misi Clonin' Keys, Makin' GS. Sebelum mencuri, pindai dulu mobilnya dengan aplikasi WAiNK di ponsel. Aplikasi itu menunjukkan harga mobil, jenis kunci, alarm, dan apakah ada pelacak. Mobil dengan pelacak canggih, seperti jet, langsung memberi empat bintang begitu dicuri.",
+        "Mobil curian bukan otomatis jadi milikmu. Supaya tetap ada, mobil itu harus didaftarkan. Pemain mulai dengan tiga slot kendaraan pribadi: satu untuk Jason, satu untuk Lucia, satu lagi. Ada 12 garasi di peta, dan mobil yang tidak didaftarkan akan hilang kalau ditinggal. Mobil yang ditinggalkan begitu saja berakhir di tempat penyitaan polisi, sementara mobil yang hancur bisa ditebus lewat aplikasi Scooter Bros. Aplikasi yang sama juga bisa memanggil mobil pribadi ke lokasimu dengan biaya.",
+        "Bahan bakar juga nyata di GTA 6. Mobil, motor, perahu, dan pesawat menghabiskan bensin. Ada 57 SPBU di Leonida untuk mengisi, dan SPBU juga bisa memperbaiki kerusakan. Bengkel modifikasi ada 14, Pay 'n' Spray ada 19. Pay 'n' Spray bukan cuma mengecat, tapi juga menilai dan mendaftarkan mobil. Mobil pertama Jason adalah Vapid Ganado tahun 70, pickup coupe yang terparkir di rumahnya di Key Lento.",
+        "Jenis kendaraannya bermacam-macam. Panduan mencatat 157 mobil dalam 277 model dasar, dari sedan dan muscle sampai SUV dan truk, plus 29 motor dan sepeda, 28 perahu, dan 16 pesawat. Ada juga 280 varian istimewa dengan gaya sendiri, seperti lowrider, hot rod, dan mobil balap jalanan. Mereknya fiksi tapi mudah dikenali: Grotti untuk Ferrari, Pegassi untuk Lamborghini, Pfister untuk Porsche.",
+        "Kalau tujuannya uang, ada tiga pembeli. Moses membeli mobil curian tanpa pelacak mulai Chapter 2, sekitar 1.000 dolar ke atas per mobil. Pay 'n' Spray membeli mobil dengan pelacak standar mulai Chapter 3, sekitar 4.000 dolar ke atas. Randy membayar paling besar, 30.000 dolar ke atas untuk 18 mobil sport di daftarnya, juga mulai Chapter 3. Karena itu, memindai dengan WAiNK sebelum mencuri menghemat waktu: mobil yang tidak bisa dijual tidak usah dibawa pulang.",
+        "Edisi Ultimate memberi beberapa kendaraan sejak awal, antara lain Grotti Cheetah 95, buggy Vapid Dominator 67, dan perahu Shitzu Squalo. Sisanya dicari sendiri di jalan, di air, dan di udara. Aturannya ringkas: pindai dulu, curi dengan alat yang tepat, daftarkan supaya tidak hilang, dan isi bensin sebelum tangki kosong."
+      ],
+      "readMinutes": 3,
+      "_words": 438
     }
   ]
 }
