@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-22T18:26:01+08:00",
- "edition": "malam",
+ "updated": "2026-11-23T06:33:35+08:00",
+ "edition": "pagi",
  "items": [
   {
-   "kategori": "Olahraga",
+   "topic": "Persib Comeback 2-1 atas Bali United",
+   "label": "Dua gol dalam 3 menit · Peralta kartu merah menit 86",
    "keyword": "Persib Bali United",
-   "label": "Big match pekan ke-10 · Minggu 19.00 WIB di GBLA",
-   "rank": 1,
-   "topic": "Persib vs Bali United Malam Ini di GBLA"
+   "kategori": "Olahraga",
+   "rank": 1
   },
   {
+   "topic": "Rupiah Rekor Terlemah Sepanjang Sejarah",
+   "label": "Rp18.270 per dolar · IHSG -3,71% sepekan",
+   "keyword": "Rupiah rekor terlemah",
+   "kategori": "Ekonomi",
+   "rank": 2
+  },
+  {
+   "topic": "FFI 2026: Ghost in the Cell Borong 5 Piala Citra",
+   "label": "Aming raih Piala Citra pertama · Para Perasuk film terbaik",
+   "keyword": "Ghost in the Cell",
+   "kategori": "Entertainment",
+   "rank": 3
+  },
+  {
+   "topic": "IEU-CEPA Diteken, 90,4% Tarif Ekspor 0%",
+   "label": "Diteken di Brussel · berlaku awal 2027 usai ratifikasi",
+   "keyword": "IEU-CEPA",
+   "kategori": "Politik",
+   "rank": 4
+  },
+  {
+   "topic": "Longsor Susulan Pejaten Timur Banjir 2 RT",
+   "label": "200 warga · 60 rumah terdampak · tanpa korban jiwa",
+   "keyword": "Pejaten Timur",
+   "kategori": "Bencana",
+   "rank": 5
+  },
+  {
+   "topic": "KPK Dalami Aliran Haji ke Komisi VIII",
+   "label": "Dugaan Rp10 miliar · asas praduga tak bersalah berlaku",
+   "keyword": "Komisi VIII",
+   "kategori": "Hukum",
+   "rank": 6
+  },
+  {
+   "topic": "BMW New i7 Meluncur di GAW 2026",
+   "label": "Rp3,76 miliar · jarak tempuh 728 km · 25 tahun BMW di RI",
+   "keyword": "BMW i7",
+   "kategori": "Teknologi",
+   "rank": 7
+  },
+  {
+   "topic": "BPOM Buka Peluang Izin Bersyarat Vaksin TB M72",
+   "label": "Efikasi 54–57% · produksi lokal Bio Farma 2029",
+   "keyword": "Vaksin TB M72",
+   "kategori": "Kesehatan",
+   "rank": 8
+  },
+  {
+   "topic": "Pikap Rem Blong di Cikidang, 1 Tewas",
+   "label": "Rombongan keluarga · 14 luka-luka · tikungan Letter S",
+   "keyword": "Cikidang",
    "kategori": "Peristiwa",
-   "keyword": "Baduy mengungsi",
-   "label": "32 rumah rusak · 132 warga mengungsi · dibangun Desember",
-   "rank": 2,
-   "topic": "Baduy: 32 Rumah Rusak, 132 Warga Mengungsi"
+   "rank": 9
   },
   {
-   "kategori": "Entertainment",
-   "keyword": "Icha Yang Beijing",
-   "label": "Bintang tamu Global Variety Show · rekaman 22–24 November",
-   "rank": 3,
-   "topic": "Icha Yang Tampil di Beijing, Bintang Tamu Global Variety Show"
-  },
-  {
-   "kategori": "Sains",
-   "keyword": "Alpha Monocerotid",
-   "label": "Puncak 22 November · 1–25 meteor per jam",
-   "rank": 4,
-   "topic": "Hujan Meteor Alpha Monocerotid Memuncak Malam Ini"
-  },
-  {
-   "kategori": "Entertainment",
-   "keyword": "D.O. EXO DAY OFF",
-   "label": "Hari kedua Minggu 15.00 WIB di Istora Senayan",
-   "rank": 5,
-   "topic": "D.O. EXO DAY OFF Hari Kedua di Istora"
-  },
-  {
-   "kategori": "Budaya",
-   "keyword": "Festival Bunaken",
-   "label": "Puncak di Pulau Bunaken · tanam mangrove · dayung SUP 10 km",
-   "rank": 6,
-   "topic": "Festival Bunaken 2026 Sukses Digelar"
-  },
-  {
-   "kategori": "Hukum",
-   "keyword": "Korupsi KBS Surabaya",
-   "label": "4 tersangka ditahan · negara rugi Rp3,27 miliar",
-   "rank": 7,
-   "topic": "Kejati Jatim Tahan 4 Tersangka Korupsi KBS Surabaya"
-  },
-  {
-   "kategori": "Ekonomi",
-   "keyword": "BI Rate 6 persen",
-   "label": "BI naikkan suku bunga acuan 25 bps jadi 6%",
-   "rank": 8,
-   "topic": "BI Naikkan Suku Bunga Acuan Jadi 6 Persen"
-  },
-  {
-   "kategori": "Ekonomi",
-   "keyword": "OJK manipulasi saham",
-   "label": "10 kasus ditindak · pengembalian Rp23,77 miliar",
-   "rank": 9,
-   "topic": "OJK Tindak 10 Kasus Pelanggaran Pasar Modal"
-  },
-  {
-   "kategori": "Hukum",
-   "keyword": "UU Perampasan Aset disahkan",
-   "label": "Resmi disahkan DPR setelah 18 tahun",
-   "rank": 10,
-   "topic": "DPR Sahkan UU Perampasan Aset Jadi Undang-Undang"
+   "topic": "Barcelona Menang 3-2 atas Villarreal",
+   "label": "La Liga · Minggu malam · tiga poin tandang",
+   "keyword": "Barcelona Villarreal",
+   "kategori": "Olahraga",
+   "rank": 10
   }
  ]
 }

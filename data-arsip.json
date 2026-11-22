@@ -1,7 +1,161 @@
 {
- "generated": "2026-11-22T10:26:01",
- "total": 244,
+ "generated": "2026-11-22T22:33:18",
+ "total": 257,
  "days": [
+  {
+   "date": "2026-11-23",
+   "label": "Senin, 23 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "cikande-24-kantong-jenazah",
+       "title": "24 Kantong Jenazah Dievakuasi dari Pabrik Permen Cikande",
+       "summary": "Tim gabungan mengevakuasi 24 kantong jenazah dari reruntuhan pabrik permen PT Fonusa Agung Mulia di Cikande hingga Minggu sore. Korban tewas yang terkonfirmasi resmi tetap tiga orang, sementara Basarnas mencatat 39 orang masih dicari dan identifikasi DNA diperkirakan 2–3 minggu.",
+       "category": "Bencana",
+       "source": "Cakrawala Media",
+       "sourceUrl": "https://cakrawala.media/24-kantong-jenazah-dievakuasi-pabrik-permen-cikande-identifikasi-dna-tiga-minggu/",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "marc-marquez-juara-dunia-motogp-2026",
+       "title": "Marc Marquez Kunci Gelar Juara Dunia MotoGP 2026",
+       "summary": "Marco Bezzecchi memenangi balapan utama MotoGP Portugal di Portimao, sementara Marc Marquez finis kedelapan dan hasil itu sudah cukup mengunci gelar juara dunia MotoGP 2026 — gelar kelas utama kedelapan yang menyamai rekor Giacomo Agostini.",
+       "category": "Olahraga",
+       "source": "MotoGP.com",
+       "sourceUrl": "https://www.motogp.com/id/news/2026/11/22/bezzecchi-doubles-up-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "prabowo-kumpulkan-elite-gerindra-hambalang",
+       "title": "Prabowo Kumpulkan Elite Gerindra di Hambalang",
+       "summary": "Presiden Prabowo mengumpulkan elite Partai Gerindra di Padepokan Garudayaksa, Hambalang, Minggu siang hingga pukul 18.00 WIB. Tidak ada keterangan resmi soal isi pembahasan, tiga hari menjelang tenggat penyerahan dua nama cawapres ke MPR pada 25 November.",
+       "category": "Politik",
+       "source": "Topik.id",
+       "sourceUrl": "https://www.topik.id/prabowo-kumpulkan-elite-gerindra-di-hambalang-bahas-cawapres-pengganti-gibran",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ump-2027-28-provinsi",
+       "title": "UMP 2027: 28 Provinsi Sudah Tetapkan",
+       "summary": "Hingga Minggu malam, 28 dari 38 provinsi sudah menetapkan upah minimum provinsi 2027 yang berlaku mulai 1 Januari 2027. DKI Jakarta tertinggi dengan Rp6.136.941, sementara Bali mencatat kenaikan terbesar 42,15 persen menjadi Rp4.559.287.",
+       "category": "Ekonomi",
+       "source": "Nusantara Terkini",
+       "sourceUrl": "http://nusantaraterkini.co/daftar-ump-2027-di-28-provinsi-dki-tertinggi",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "mcr-guncang-jis-18-tahun",
+       "title": "MCR Guncang JIS Setelah 18 Tahun",
+       "summary": "My Chemical Romance mengguncang Jakarta International Stadium pada Minggu malam lewat tur Long Live the Black Parade, kunjungan kedua mereka ke Indonesia setelah 2008. Band itu membawakan sebelas lagu album The Black Parade secara berurutan.",
+       "category": "Entertainment",
+       "source": "LimaPagi",
+       "sourceUrl": "https://www.limapagi.id/my-chemical-romance-konser-jakarta",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "liverpool-bantai-mu-4-0",
+       "title": "Liverpool Bantai Manchester United 4-0 di Anfield",
+       "summary": "Liverpool membantai Manchester United 4-0 di Anfield pada Minggu malam. Leny Yoro dikartu merah pada menit kedelapan, lalu gol Szoboszlai, Wirtz, Ngumoha, dan Munoz memastikan kemenangan telak. United tertahan di peringkat 19.",
+       "category": "Olahraga",
+       "source": "Reuters",
+       "sourceUrl": "https://www.reuters.com/sports/soccer/ten-man-united-hammered-4-0-by-liverpool-pochettino-debut-2026-11-22/",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bitcoin-rebound-55-300-dolar",
+       "title": "Bitcoin Rebound dari US$55.300",
+       "summary": "Bitcoin sempat jatuh ke sekitar 55.300 dolar Amerika pada Sabtu, level terendah sejak September 2024, lalu rebound lebih dari delapan persen dan kembali menembus 60.000 dolar pada Minggu, di tengah likuidasi posisi leverage senilai 2,67 miliar dolar.",
+       "category": "Ekonomi",
+       "source": "Kontan",
+       "sourceUrl": "https://id.tradingview.com/news/kontan:9be2f1c8387ea:0/",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "tuntutan-yaqut-30-november",
+       "title": "Tuntutan Yaqut Dibaca 30 November",
+       "summary": "Majelis Hakim Pengadilan Tipikor Jakarta Pusat menjadwalkan pembacaan tuntutan terhadap Yaqut Cholil Qoumas, Gus Alex, Ismail Adham, dan Asrul Azis Taba pada Senin 30 November 2026. Dakwaan jaksa menyebut kerugian negara Rp622,09 miliar.",
+       "category": "Hukum",
+       "source": "RCTI+",
+       "sourceUrl": "https://www.rctiplus.com/news/detail/nasional/5521689/sidang-tuntutan-gus-yaqut-terkait-perkara-kuota-haji-dijadwalkan-pada-30-november",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "fortuner-tabrak-truk-tol-pandaan-gempol",
+       "title": "Fortuner Tabrak Truk Berhenti di Tol Pandaan-Gempol, 6 Tewas",
+       "summary": "Toyota Fortuner diduga menabrak bagian belakang dump truk pengangkut pasir yang berhenti di bahu jalan karena pecah ban di KM 774.800/B, Minggu sekitar pukul 16.30 WIB, dan keenam penumpangnya tewas di lokasi.",
+       "category": "Peristiwa",
+       "source": "MediaKompeten",
+       "sourceUrl": "https://www.mediakompeten.co.id/tabrakan-fortuner-truk-tol-pandaan-gempol",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "byd-titan-7-dm-gaw-2026",
+       "title": "BYD Luncurkan SUV TiTAN 7 DM di GAW 2026",
+       "summary": "BYD resmi meluncurkan SUV BYD TiTAN 7 DM dengan teknologi Dual Mode di Gaikindo Auto Week 2026, ICE BSD City, dalam dua varian Premium Rp639 juta dan Performance Rp739 juta, bertenaga total 300 kW dan torsi 630 Nm.",
+       "category": "Teknologi",
+       "source": "MotorCarsAdventure",
+       "sourceUrl": "https://www.motorcarsadventure.com/2026/11/byd-titan-7-dm-resmi-meluncur-di.html",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kemenkes-ring-jantung-rsud-180",
+       "title": "Kemenkes: RSUD yang Mampu Pasang Ring Jantung Melonjak dari 40 menjadi 180",
+       "summary": "Kemampuan RSUD memasang stent/ring jantung naik dari sekitar 40 kabupaten/kota pada 2022 menjadi 180 rumah sakit berkat program pengampuan bersama RS Jantung Harapan Kita dan Kemendagri, disampaikan Kemenkes usai IICS 2026 di Jakarta Barat, Minggu.",
+       "category": "Kesehatan",
+       "source": "ChatNews (RRI)",
+       "sourceUrl": "https://chatnews.id/kemenkes-perluas-layanan-ring-jantung-rsud",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "ugm-peneliti-antarktika-2026",
+       "title": "Dua Peneliti UGM Berangkat ke Antarktika untuk Riset Perubahan Iklim",
+       "summary": "Nugroho Imam Setiawan dan Esti Handini dari FT UGM dijadwalkan bertugas 23 November hingga 29 Desember 2026 di Stasiun Riset Vernadsky milik Ukraina, berkolaborasi dengan BRIN dan NASC Ukraina untuk meneliti geologi dan perubahan iklim.",
+       "category": "Sains",
+       "source": "UGM",
+       "sourceUrl": "https://ugm.ac.id/id/berita/dua-peneliti-ugm-ikut-ekspedisi-riset-antarktika/",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "golok-day-festival-cilegon-2026",
+       "title": "Golok Day Festival 2026 di Cilegon, Golok Banten Dibidik ke Panggung Dunia",
+       "summary": "Festival Golok Day 2026 digelar Minggu di Kota Cilegon dengan pawai golok ribuan pendekar dari berbagai perguruan pencak silat; Wali Kota Robinsar menyiapkan insentif untuk 150 paguron, dan festival ini masuk agenda Karisma Event Nusantara.",
+       "category": "Budaya",
+       "source": "Sebarindo.com",
+       "sourceUrl": "https://sebarindo.com/advertorial/golok-day-festival-2026-pemkot-cilegon-dorong-pelestarian-budaya-hingga-mendunia/",
+       "time": "23 Nov 2026",
+       "editionDate": "2026-11-23",
+       "editionLabel": "Pagi"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "label": "Minggu, 22 November 2026",

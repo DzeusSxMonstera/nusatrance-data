@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T10:22:55",
+  "generated": "2026-11-22T22:31:14",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -41,6 +41,12 @@
           "source_slug": "ump-2027-22-provinsi-sudah-tetapkan",
           "first_used": "2026-11-22",
           "last_used": "2026-11-22"
+        },
+        {
+          "file": "ump-2027-28-provinsi.jpg",
+          "source_slug": "ump-2027-28-provinsi",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -55,7 +61,7 @@
           "file": "ekspose-makar-ditunda-pekan-depan.jpg",
           "source_slug": "ekspose-makar-ditunda-pekan-depan",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -117,6 +123,12 @@
           "source_slug": "bitcoin-rebound-60-ribu-dolar",
           "first_used": "2026-11-22",
           "last_used": "2026-11-22"
+        },
+        {
+          "file": "bitcoin-rebound-55-300-dolar.jpg",
+          "source_slug": "bitcoin-rebound-55-300-dolar",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -132,7 +144,7 @@
           "file": "komdigi-tagih-penjelasan-google.jpg",
           "source_slug": "komdigi-tagih-penjelasan-google",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -188,7 +200,7 @@
           "file": "guns-n-roses-guncang-gbk-22-ribu-penonton.jpg",
           "source_slug": "guns-n-roses-guncang-gbk-22-ribu-penonton",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -226,7 +238,7 @@
           "file": "menkes-20261121.jpg",
           "source_slug": "menkes-budi-kandidat-dirjen-who",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -240,7 +252,7 @@
           "file": "perpusnas-20261121.jpg",
           "source_slug": "perpusnas-manuskrip-nusantara-bahan-bacaan-anak",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -255,7 +267,7 @@
           "file": "webb-20261121.jpg",
           "source_slug": "webb-rekam-bintang-raksasa-telan-pendamping-andromeda",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -269,7 +281,7 @@
           "file": "banjir-20261121.jpg",
           "source_slug": "banjir-longsor-terjang-8-daerah-pasaman-barat-terdampak",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -282,7 +294,7 @@
           "file": "bmkg-20261121.jpg",
           "source_slug": "bmkg-12-provinsi-berpotensi-hujan-lebat-21-november",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -296,7 +308,7 @@
           "file": "aqeela-20261121.jpg",
           "source_slug": "aqeela-calista-aktris-utama-sctv-awards-2026",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -309,7 +321,7 @@
           "file": "anthropic-20261121.jpg",
           "source_slug": "ipo-anthropic-rekor-dunia",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -337,7 +349,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -350,7 +362,7 @@
           "file": "bunaken-20261121.jpg",
           "source_slug": "festival-bunaken-2026-dibuka-manado",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -365,7 +377,7 @@
           "file": "chip-20261121.jpg",
           "source_slug": "chip-merah-putih-peruri-itb-e-paspor",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -378,7 +390,7 @@
           "file": "bnpb-20261121.jpg",
           "source_slug": "bnpb-dua-pesawat-cegah-banjir-aceh",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -392,7 +404,7 @@
           "file": "ka-siantar-20261121.jpg",
           "source_slug": "ka-siantar-ekspres-tabrak-minibus-lokomotif-terbakar",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         },
         {
           "file": "ka-siantar-tabrak-angkot-1-tewas.jpg",
@@ -413,7 +425,7 @@
           "file": "sjafrie-20261121.jpg",
           "source_slug": "sjafrie-bantah-ganti-panglima",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -442,7 +454,7 @@
           "file": "film-20261121.jpg",
           "source_slug": "film-menang-untuk-kalah-tayang-bioskop",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -516,7 +528,7 @@
           "file": "benteng-culture-fest-20261121.jpg",
           "source_slug": "benteng-culture-fest-2026-tangerang",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -535,7 +547,7 @@
           "file": "gempa-m72-laut-banda-maluku.jpg",
           "source_slug": "gempa-m72-laut-banda-maluku",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -548,7 +560,7 @@
           "file": "mpr-20261121.jpg",
           "source_slug": "mpr-verifikasi-cawapres-tim-36-orang",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -562,7 +574,7 @@
           "file": "oppo-20261121.jpg",
           "source_slug": "oppo-find-x10-resmi-indonesia",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -577,7 +589,7 @@
           "file": "meteor-20261121.jpg",
           "source_slug": "hujan-meteor-leonid-aktif-hingga-30-november",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -709,7 +721,59 @@
           "file": "kebakaran-pabrik-permen-cikande-tiga-tewas.jpg",
           "source_slug": "kebakaran-pabrik-permen-cikande-tiga-tewas",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-22"
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Kecelakaan Tol": {
+      "aliases": [
+        "kecelakaan tol"
+      ],
+      "images": [
+        {
+          "file": "img/pool/fortuner-tol-pandaan-20261123.jpg",
+          "source_slug": "fortuner-tabrak-truk-tol-pandaan-gempol",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "BYD": {
+      "aliases": [
+        "byd"
+      ],
+      "images": [
+        {
+          "file": "img/pool/byd-titan-7-dm-20261123.jpg",
+          "source_slug": "byd-titan-7-dm-gaw-2026",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Ring Jantung": {
+      "aliases": [
+        "ring jantung"
+      ],
+      "images": [
+        {
+          "file": "img/pool/ring-jantung-rsud-20261123.jpg",
+          "source_slug": "kemenkes-ring-jantung-rsud-180",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Golok Day": {
+      "aliases": [
+        "golok day"
+      ],
+      "images": [
+        {
+          "file": "img/pool/golok-day-cilegon-20261123.jpg",
+          "source_slug": "golok-day-festival-cilegon-2026",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     }
@@ -914,6 +978,46 @@
       "file": "mcr-guncang-jis-malam-ini.jpg",
       "title": "MCR Guncang JIS Malam Ini",
       "first_used": "2026-11-22"
+    },
+    "cikande-24-kantong-jenazah": {
+      "file": "cikande-24-kantong-jenazah.jpg",
+      "title": "24 Kantong Jenazah Dievakuasi dari Pabrik Permen Cikande",
+      "first_used": "2026-11-23"
+    },
+    "marc-marquez-juara-dunia-motogp-2026": {
+      "file": "marc-marquez-juara-dunia-motogp-2026.jpg",
+      "title": "Marc Marquez Kunci Gelar Juara Dunia MotoGP 2026",
+      "first_used": "2026-11-23"
+    },
+    "prabowo-kumpulkan-elite-gerindra-hambalang": {
+      "file": "prabowo-kumpulkan-elite-gerindra-hambalang.jpg",
+      "title": "Prabowo Kumpulkan Elite Gerindra di Hambalang",
+      "first_used": "2026-11-23"
+    },
+    "ump-2027-28-provinsi": {
+      "file": "ump-2027-28-provinsi.jpg",
+      "title": "UMP 2027: 28 Provinsi Sudah Tetapkan",
+      "first_used": "2026-11-23"
+    },
+    "mcr-guncang-jis-18-tahun": {
+      "file": "mcr-guncang-jis-18-tahun.jpg",
+      "title": "MCR Guncang JIS Setelah 18 Tahun",
+      "first_used": "2026-11-23"
+    },
+    "liverpool-bantai-mu-4-0": {
+      "file": "liverpool-bantai-mu-4-0.jpg",
+      "title": "Liverpool Bantai Manchester United 4-0 di Anfield",
+      "first_used": "2026-11-23"
+    },
+    "bitcoin-rebound-55-300-dolar": {
+      "file": "bitcoin-rebound-55-300-dolar.jpg",
+      "title": "Bitcoin Rebound dari US$55.300",
+      "first_used": "2026-11-23"
+    },
+    "tuntutan-yaqut-30-november": {
+      "file": "tuntutan-yaqut-30-november.jpg",
+      "title": "Tuntutan Yaqut Dibaca 30 November",
+      "first_used": "2026-11-23"
     }
   }
 }
