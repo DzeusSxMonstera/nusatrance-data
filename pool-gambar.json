@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T22:31:14",
+  "generated": "2026-11-23T10:12:36",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -96,6 +96,12 @@
           "source_slug": "ihsg-anjlok-371-persen-sepekan",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "ihsg-rebound-5228-msci.jpg",
+          "source_slug": "ihsg-rebound-5228-msci",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -201,6 +207,12 @@
           "source_slug": "guns-n-roses-guncang-gbk-22-ribu-penonton",
           "first_used": "2026-11-22",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "bts-konser-tiga-hari-gbk-jakarta.jpg",
+          "source_slug": "bts-konser-tiga-hari-gbk-jakarta",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -282,6 +294,12 @@
           "source_slug": "banjir-longsor-terjang-8-daerah-pasaman-barat-terdampak",
           "first_used": "2026-11-21",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "longsor-jatiwaras-tasikmalaya-ibu-anak.jpg",
+          "source_slug": "longsor-jatiwaras-tasikmalaya-ibu-anak",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -294,6 +312,12 @@
           "file": "bmkg-20261121.jpg",
           "source_slug": "bmkg-12-provinsi-berpotensi-hujan-lebat-21-november",
           "first_used": "2026-11-21",
+          "last_used": "2026-11-23"
+        },
+        {
+          "file": "supermoon-24-november-banjir-rob.jpg",
+          "source_slug": "supermoon-24-november-banjir-rob",
+          "first_used": "2026-11-23",
           "last_used": "2026-11-23"
         }
       ]
@@ -561,6 +585,12 @@
           "source_slug": "mpr-verifikasi-cawapres-tim-36-orang",
           "first_used": "2026-11-21",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "prabowo-serahkan-dua-nama-cawapres-mpr.jpg",
+          "source_slug": "prabowo-serahkan-dua-nama-cawapres-mpr",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -630,7 +660,7 @@
           "file": "emas-antam-turun-lima-hari.jpg",
           "source_slug": "emas-antam-turun-lima-hari",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-21"
+          "last_used": "2026-11-23"
         }
       ]
     },
@@ -772,6 +802,58 @@
         {
           "file": "img/pool/golok-day-cilegon-20261123.jpg",
           "source_slug": "golok-day-festival-cilegon-2026",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Mendongeng": {
+      "aliases": [
+        "mendongeng"
+      ],
+      "images": [
+        {
+          "file": "img/pool/mendongeng-solo-rekor-muri-20261123.jpg",
+          "source_slug": "festival-mendongeng-solo-rekor-muri",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "iGEM": {
+      "aliases": [
+        "igem"
+      ],
+      "images": [
+        {
+          "file": "img/pool/igem-ui-itb-paris-20261123.jpg",
+          "source_slug": "tim-ui-itb-emas-igem-2026-paris",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Bea Cukai": {
+      "aliases": [
+        "bea cukai"
+      ],
+      "images": [
+        {
+          "file": "img/pool/kpk-eksekusi-bea-cukai-20261123.jpg",
+          "source_slug": "kpk-eksekusi-tiga-eks-bea-cukai",
+          "first_used": "2026-11-23",
+          "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "OCTA": {
+      "aliases": [
+        "octa"
+      ],
+      "images": [
+        {
+          "file": "img/pool/telkomsel-octa-20261123.jpg",
+          "source_slug": "telkomsel-luncurkan-octa-69-model-ai",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
         }
@@ -1017,6 +1099,46 @@
     "tuntutan-yaqut-30-november": {
       "file": "tuntutan-yaqut-30-november.jpg",
       "title": "Tuntutan Yaqut Dibaca 30 November",
+      "first_used": "2026-11-23"
+    },
+    "prabowo-serahkan-dua-nama-cawapres-mpr": {
+      "file": "prabowo-serahkan-dua-nama-cawapres-mpr.jpg",
+      "title": "Prabowo Serahkan Dua Nama Cawapres ke MPR",
+      "first_used": "2026-11-23"
+    },
+    "longsor-jatiwaras-tasikmalaya-ibu-anak": {
+      "file": "longsor-jatiwaras-tasikmalaya-ibu-anak.jpg",
+      "title": "Longsor Timpa Ibu-Anak di Tasikmalaya",
+      "first_used": "2026-11-23"
+    },
+    "kecelakaan-beruntun-sumedang-6-tewas": {
+      "file": "kecelakaan-beruntun-sumedang-6-tewas.jpg",
+      "title": "Kecelakaan Beruntun di Sumedang, 6 Tewas",
+      "first_used": "2026-11-23"
+    },
+    "bts-konser-tiga-hari-gbk-jakarta": {
+      "file": "bts-konser-tiga-hari-gbk-jakarta.jpg",
+      "title": "BTS Konser 3 Hari di Jakarta",
+      "first_used": "2026-11-23"
+    },
+    "ihsg-rebound-5228-msci": {
+      "file": "ihsg-rebound-5228-msci.jpg",
+      "title": "IHSG Rebound 1,59% ke 5.228",
+      "first_used": "2026-11-23"
+    },
+    "fifa-minta-pssi-usut-rusuh-sleman": {
+      "file": "fifa-minta-pssi-usut-rusuh-sleman.jpg",
+      "title": "FIFA Minta PSSI Usut Rusuh Sleman",
+      "first_used": "2026-11-23"
+    },
+    "megawati-mvp-hillstate-menang-3-0": {
+      "file": "megawati-mvp-hillstate-menang-3-0.jpg",
+      "title": "Megawati MVP, Hillstate Menang 3-0",
+      "first_used": "2026-11-23"
+    },
+    "supermoon-24-november-banjir-rob": {
+      "file": "supermoon-24-november-banjir-rob.jpg",
+      "title": "Supermoon Besok, BMKG Waspada Banjir Rob",
       "first_used": "2026-11-23"
     }
   }

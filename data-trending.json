@@ -1,74 +1,74 @@
 {
- "updated": "2026-11-23T06:33:35+08:00",
- "edition": "pagi",
+ "updated": "2026-11-23T18:12:36+08:00",
+ "edition": "malam",
  "items": [
   {
-   "topic": "Persib Comeback 2-1 atas Bali United",
-   "label": "Dua gol dalam 3 menit · Peralta kartu merah menit 86",
-   "keyword": "Persib Bali United",
-   "kategori": "Olahraga",
+   "topic": "IU World Tour 2027, Jakarta 2 Hari di JIS",
+   "label": "8–9 Mei 2027 · JIS · promotor iMe Indonesia",
+   "keyword": "IU World Tour",
+   "kategori": "Entertainment",
    "rank": 1
   },
   {
-   "topic": "Rupiah Rekor Terlemah Sepanjang Sejarah",
-   "label": "Rp18.270 per dolar · IHSG -3,71% sepekan",
-   "keyword": "Rupiah rekor terlemah",
+   "topic": "Rupiah Menguat ke Rp18.190 per Dolar",
+   "label": "Naik 70 poin · ditopang aliran SRBI >US$1 miliar",
+   "keyword": "Rupiah",
    "kategori": "Ekonomi",
    "rank": 2
   },
   {
-   "topic": "FFI 2026: Ghost in the Cell Borong 5 Piala Citra",
-   "label": "Aming raih Piala Citra pertama · Para Perasuk film terbaik",
-   "keyword": "Ghost in the Cell",
-   "kategori": "Entertainment",
+   "topic": "Fadia Arafiq Divonis 4 Tahun Penjara",
+   "label": "Lebih ringan dari tuntutan 5 tahun · denda Rp200 juta",
+   "keyword": "Fadia Arafiq",
+   "kategori": "Hukum",
    "rank": 3
   },
   {
-   "topic": "IEU-CEPA Diteken, 90,4% Tarif Ekspor 0%",
-   "label": "Diteken di Brussel · berlaku awal 2027 usai ratifikasi",
-   "keyword": "IEU-CEPA",
-   "kategori": "Politik",
+   "topic": "Gempa M5,4 Maluku Barat Daya, Susulan Gempa Besar",
+   "label": "14.36 WIB · 87 km timur laut · tak berpotensi tsunami",
+   "keyword": "Gempa M5,4",
+   "kategori": "Bencana",
    "rank": 4
   },
   {
-   "topic": "Longsor Susulan Pejaten Timur Banjir 2 RT",
-   "label": "200 warga · 60 rumah terdampak · tanpa korban jiwa",
-   "keyword": "Pejaten Timur",
-   "kategori": "Bencana",
+   "topic": "DBD di Singkawang Renggut 4 Nyawa",
+   "label": "3 di antaranya anak-anak · bangsal anak hampir penuh",
+   "keyword": "Singkawang",
+   "kategori": "Kesehatan",
    "rank": 5
   },
   {
-   "topic": "KPK Dalami Aliran Haji ke Komisi VIII",
-   "label": "Dugaan Rp10 miliar · asas praduga tak bersalah berlaku",
-   "keyword": "Komisi VIII",
-   "kategori": "Hukum",
+   "topic": "WhatsApp Naikkan Batas Grup jadi 1.500 Anggota",
+   "label": "Dari 1.024 · rollout bertahap sejak 19 November",
+   "keyword": "WhatsApp",
+   "kategori": "Teknologi",
    "rank": 6
   },
   {
-   "topic": "BMW New i7 Meluncur di GAW 2026",
-   "label": "Rp3,76 miliar · jarak tempuh 728 km · 25 tahun BMW di RI",
-   "keyword": "BMW i7",
-   "kategori": "Teknologi",
+   "topic": "Festival Budaya Melayu XIV Pontianak",
+   "label": "14 kontingen · 8 hari hingga 28 November",
+   "keyword": "Budaya Melayu",
+   "kategori": "Budaya",
    "rank": 7
   },
   {
-   "topic": "BPOM Buka Peluang Izin Bersyarat Vaksin TB M72",
-   "label": "Efikasi 54–57% · produksi lokal Bio Farma 2029",
-   "keyword": "Vaksin TB M72",
-   "kategori": "Kesehatan",
+   "topic": "Verstappen Menangi GP Las Vegas",
+   "label": "35 kali ganti pemimpin · 352 overtake",
+   "keyword": "Verstappen",
+   "kategori": "Olahraga",
    "rank": 8
   },
   {
-   "topic": "Pikap Rem Blong di Cikidang, 1 Tewas",
-   "label": "Rombongan keluarga · 14 luka-luka · tikungan Letter S",
-   "keyword": "Cikidang",
-   "kategori": "Peristiwa",
+   "topic": "Lomba Sihir Rayakan 5 Tahun Lewat Konser",
+   "label": "Konser Ujung Dunia · GBK Basketball Hall · 3.500 penonton",
+   "keyword": "Lomba Sihir",
+   "kategori": "Entertainment",
    "rank": 9
   },
   {
-   "topic": "Barcelona Menang 3-2 atas Villarreal",
-   "label": "La Liga · Minggu malam · tiga poin tandang",
-   "keyword": "Barcelona Villarreal",
+   "topic": "PSSI Cari Pelatih Baru Timnas U-23",
+   "label": "Herdman fokus tim senior · SEA Games 2027",
+   "keyword": "Timnas U-23",
    "kategori": "Olahraga",
    "rank": 10
   }
