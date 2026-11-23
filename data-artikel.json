@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "source_note": "Artikel orisinal Redaksi NusaTrance. Bukan ringkasan berita. Ditulis dan diperiksa redaksi; angka dan klaim faktual hanya yang terverifikasi.",
   "articles": [
     {
@@ -464,6 +464,33 @@
       ],
       "readMinutes": 3,
       "_words": 413
+    },
+    {
+      "slug": "mode-foto-di-gta-6-photo-studio",
+      "title": "Mode Foto di GTA 6: Cara Memakai Photo Studio",
+      "excerpt": "Leonida terlalu bagus untuk tidak difoto. Pantai di Keys, neon Vice City, sampai rawa Grassrivers semuanya layak diabadikan.",
+      "category": "Hobi",
+      "author": "Redaksi NusaTrance",
+      "date": "2026-11-24",
+      "dateLabel": "24 November 2026",
+      "tags": [
+        "GTA 6",
+        "Grand Theft Auto VI",
+        "mode foto",
+        "Photo Studio",
+        "panduan"
+      ],
+      "body": [
+        "Leonida terlalu bagus untuk tidak difoto. Pantai di Keys, neon Vice City, sampai rawa Grassrivers semuanya layak diabadikan. GTA 6 menyediakan Photo Studio, mode foto yang bisa dibuka hampir kapan saja, bahkan di tengah kejar-kejaran.",
+        "Membukanya gampang. Jeda game dengan tombol Options di PS5 atau Menu di Xbox, lalu pilih Photo Studio di menu jeda. Ada jalan pintas: tekan Square di PS5 atau X di Xbox setelah game dijeda. Mode ini tersedia sejak prolog Lucia, jadi tidak perlu menyelesaikan misi dulu. Karena game berhenti saat mode foto aktif, momen aksi bisa dibekukan lalu diatur pelan-pelan.",
+        "Isinya lima tab. Tab Camera mengatur kamera: gerak bebas, putar dan miring, naik turun, zoom, sudut pandang, rasio aspek dengan delapan pilihan, depth of field, aperture, dan tombol menyembunyikan karakter. Tab Effects mengatur warna dan cahaya: exposure, kontras, tint, bloom, dan grain. Tab Lighting bisa menambah sampai lima lapisan cahaya sendiri, lengkap dengan warna, ukuran, dan intensitas, termasuk preset lampu panggung dan kilat kamera. Tab Vehicle mengatur lampu kendaraan, dan tab Overlay berisi 17 filter, vignette, dan pemisah satu warna.",
+        "Ada batasnya. Photo Studio tidak bisa mengubah cuaca atau waktu. Jason dan Lucia tidak bisa diposisikan ulang atau diubah ekspresinya dari mode ini. Saat cutscene, mode foto tetap bisa dibuka tapi pengaturannya lebih terbatas. Kalau sudah selesai, tekan Triangle di PS5 atau Y di Xbox untuk menyembunyikan antarmuka, lalu simpan fotonya. Di PS5, foto masuk ke galeri media konsol.",
+        "Beberapa kebiasaan membantu. Nyalakan grid untuk komposisi, sembunyikan karakter kalau yang difoto pemandangan, dan pakai filter secukupnya supaya warna Leonida tetap terasa. Foto aksi paling bagus diambil di tengah kejadian: jeda game saat mobil melompat atau perahu memecah air, lalu atur kameranya.",
+        "Waktu terbaik memotret adalah pagi dan senja, saat cahaya Leonida paling hangat. Coba juga memotret dari dalam mobil dengan kaca yang memantulkan neon, atau dari atas gedung saat Vice City menyala. Foto yang disimpan bisa dilihat lagi di galeri ponsel dalam game, seperti foto dari kamera ponsel. Foto dari fitur tangkapan layar konsol tersimpan terpisah, di galeri media PS5 atau galeri tangkapan Xbox. Dua jalur ini sering tertukar, jadi ingat: foto Photo Studio hidup di dalam game, tangkapan layar konsol hidup di luar game.",
+        "Selain Photo Studio, ada kamera ponsel. Aplikasi Camera di ponsel Jason dan Lucia bisa memotret dan selfie, lengkap dengan pilihan pose dan ekspresi. Aplikasi Snapmatic di ponsel yang sama dipakai untuk melihat foto pemain lain dan menandai lokasinya di peta. Mode foto tidak mengubah permainan, tapi mengubah cara melihatnya."
+      ],
+      "readMinutes": 3,
+      "_words": 409
     }
   ]
 }
