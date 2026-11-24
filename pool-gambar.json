@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T10:32:25",
+  "generated": "2026-11-24T21:50:31",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -68,6 +68,12 @@
           "source_slug": "ekspose-makar-ditunda-pekan-depan",
           "first_used": "2026-11-20",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "brigjen-tedjo-dipecat-ptdh.jpg",
+          "source_slug": "brigjen-tedjo-dipecat-ptdh",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -114,6 +120,12 @@
           "source_slug": "ihsg-rebound-msci",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "ihsg-menguat-5241.jpg",
+          "source_slug": "ihsg-menguat-5241",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -192,6 +204,12 @@
           "source_slug": "prabowo-xi-sepakati-rp1600-triliun",
           "first_used": "2026-11-20",
           "last_used": "2026-11-20"
+        },
+        {
+          "file": "danantara-investasi-china-15-miliar.jpg",
+          "source_slug": "danantara-investasi-china-15-miliar",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -329,7 +347,7 @@
           "file": "longsor-tasikmalaya.jpg",
           "source_slug": "longsor-tasikmalaya",
           "first_used": "2026-11-24",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         },
         {
           "file": "bali-20-insiden-banjir-longsor.jpg",
@@ -354,7 +372,7 @@
           "file": "supermoon-24-november-banjir-rob.jpg",
           "source_slug": "supermoon-24-november-banjir-rob",
           "first_used": "2026-11-23",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -409,7 +427,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -464,7 +482,7 @@
           "file": "ka-siantar-20261121.jpg",
           "source_slug": "ka-siantar-ekspres-tabrak-minibus-lokomotif-terbakar",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         },
         {
           "file": "ka-siantar-tabrak-angkot-1-tewas.jpg",
@@ -607,7 +625,7 @@
           "file": "gempa-m72-laut-banda-maluku.jpg",
           "source_slug": "gempa-m72-laut-banda-maluku",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -633,6 +651,12 @@
           "source_slug": "mpr-undang-dua-cawapres",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "mpr-batal-cek-ijazah-sekolah.jpg",
+          "source_slug": "mpr-batal-cek-ijazah-sekolah",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -702,7 +726,7 @@
           "file": "emas-antam-turun-lima-hari.jpg",
           "source_slug": "emas-antam-turun-lima-hari",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -799,7 +823,7 @@
           "file": "kebakaran-pabrik-permen-cikande-tiga-tewas.jpg",
           "source_slug": "kebakaran-pabrik-permen-cikande-tiga-tewas",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -962,6 +986,58 @@
           "source_slug": "museum-ntt-pameran-alat-musik",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        }
+      ]
+    },
+    "Lim Ji Yeon": {
+      "aliases": [
+        "lim ji yeon"
+      ],
+      "images": [
+        {
+          "file": "img/pool/lim-ji-yeon-putus-20261125.jpg",
+          "source_slug": "lim-ji-yeon-lee-do-hyun-putus",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "PQC": {
+      "aliases": [
+        "pqc"
+      ],
+      "images": [
+        {
+          "file": "img/pool/kriptografi-kuantum-pqc-20261125.jpg",
+          "source_slug": "kriptografi-tahan-kuantum-pqc",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "Shenzhou": {
+      "aliases": [
+        "shenzhou"
+      ],
+      "images": [
+        {
+          "file": "img/pool/shenzhou-24-20261125.jpg",
+          "source_slug": "shenzhou-24-astronaut-pakistan",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "Keris": {
+      "aliases": [
+        "keris"
+      ],
+      "images": [
+        {
+          "file": "img/pool/festival-keris-trenggalek-20261125.jpg",
+          "source_slug": "festival-keris-trenggalek",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     }
@@ -1326,6 +1402,46 @@
       "file": "kanker-paru-44-juta-berisiko.jpg",
       "title": "4,4 Juta Warga Berisiko Kanker Paru",
       "first_used": "2026-11-24"
+    },
+    "brigjen-tedjo-dipecat-ptdh": {
+      "file": "brigjen-tedjo-dipecat-ptdh.jpg",
+      "title": "Brigjen Tedjo Dipecat Tidak Hormat Buntut Dugaan Makar",
+      "first_used": "2026-11-25"
+    },
+    "cikande-korban-pertama-teridentifikasi": {
+      "file": "cikande-korban-pertama-teridentifikasi.jpg",
+      "title": "Satu Korban Cikande Teridentifikasi, 30 Masih Hilang",
+      "first_used": "2026-11-25"
+    },
+    "mpr-batal-cek-ijazah-sekolah": {
+      "file": "mpr-batal-cek-ijazah-sekolah.jpg",
+      "title": "MPR Batal Cek Ijazah ke Sekolah, Panggil Kepala Sekolah",
+      "first_used": "2026-11-25"
+    },
+    "ihsg-menguat-5241": {
+      "file": "ihsg-menguat-5241.jpg",
+      "title": "IHSG Menguat 0,49% ke 5.241,59",
+      "first_used": "2026-11-25"
+    },
+    "danantara-investasi-china-15-miliar": {
+      "file": "danantara-investasi-china-15-miliar.jpg",
+      "title": "Danantara Kejar Investasi China US$15 Miliar",
+      "first_used": "2026-11-25"
+    },
+    "wali-kota-bekasi-diperiksa-kejagung": {
+      "file": "wali-kota-bekasi-diperiksa-kejagung.jpg",
+      "title": "Wali Kota Bekasi Diperiksa 8,5 Jam soal Dugaan Korupsi Migas",
+      "first_used": "2026-11-25"
+    },
+    "dbd-chikungunya-pontianak": {
+      "file": "dbd-chikungunya-pontianak.jpg",
+      "title": "DBD dan Chikungunya Penuhi RS Pontianak",
+      "first_used": "2026-11-25"
+    },
+    "persija-bantai-sumsel-7-0": {
+      "file": "persija-bantai-sumsel-7-0.jpg",
+      "title": "Persija Bantai Sumsel United 7-0",
+      "first_used": "2026-11-25"
     }
   }
 }
