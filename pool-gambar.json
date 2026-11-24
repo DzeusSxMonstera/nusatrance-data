@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T00:00:41",
+  "generated": "2026-11-24T10:32:25",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -231,6 +231,12 @@
           "source_slug": "iu-world-tour-jis",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "gnr-november-rain-hujan-gbk.jpg",
+          "source_slug": "gnr-november-rain-hujan-gbk",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -322,6 +328,12 @@
         {
           "file": "longsor-tasikmalaya.jpg",
           "source_slug": "longsor-tasikmalaya",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
+        },
+        {
+          "file": "bali-20-insiden-banjir-longsor.jpg",
+          "source_slug": "bali-20-insiden-banjir-longsor",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
         }
@@ -615,6 +627,12 @@
           "source_slug": "prabowo-serahkan-dua-nama-cawapres-mpr",
           "first_used": "2026-11-23",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "mpr-undang-dua-cawapres.jpg",
+          "source_slug": "mpr-undang-dua-cawapres",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -763,6 +781,12 @@
           "source_slug": "dua-peneliti-ugm-ke-antarktika",
           "first_used": "2026-11-22",
           "last_used": "2026-11-22"
+        },
+        {
+          "file": "ugm-antarktika-20261124.jpg",
+          "source_slug": "ugm-riset-antarktika",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -910,6 +934,32 @@
         {
           "file": "diabetes-24-juta.jpg",
           "source_slug": "diabetes-24-juta",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
+        }
+      ]
+    },
+    "WhatsApp": {
+      "aliases": [
+        "whatsapp"
+      ],
+      "images": [
+        {
+          "file": "whatsapp-ios-20261124.jpg",
+          "source_slug": "whatsapp-cabut-dukungan-ios-lawas",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
+        }
+      ]
+    },
+    "Museum": {
+      "aliases": [
+        "museum"
+      ],
+      "images": [
+        {
+          "file": "museum-ntt-alat-musik-20261124.jpg",
+          "source_slug": "museum-ntt-pameran-alat-musik",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
         }
@@ -1235,6 +1285,46 @@
     "ump-2027-33-provinsi": {
       "file": "ump-2027-33-provinsi.jpg",
       "title": "UMP 2027: 33 Provinsi Sudah Tetapkan",
+      "first_used": "2026-11-24"
+    },
+    "cikande-26-kantong-jenazah": {
+      "file": "cikande-26-kantong-jenazah.jpg",
+      "title": "26 Kantong Jenazah Cikande, Kasus Naik ke Penyidikan",
+      "first_used": "2026-11-24"
+    },
+    "mpr-undang-dua-cawapres": {
+      "file": "mpr-undang-dua-cawapres.jpg",
+      "title": "MPR Undang 2 Cawapres untuk Verifikasi Faktual",
+      "first_used": "2026-11-24"
+    },
+    "msci-bantah-kompromi": {
+      "file": "msci-bantah-kompromi.jpg",
+      "title": "MSCI Bantah Ada Kompromi soal Status Pasar Saham RI",
+      "first_used": "2026-11-24"
+    },
+    "gnr-november-rain-hujan-gbk": {
+      "file": "gnr-november-rain-hujan-gbk.jpg",
+      "title": "GNR Bawakan November Rain di Bawah Hujan GBK",
+      "first_used": "2026-11-24"
+    },
+    "julio-cesar-lempar-pemain-bali-united": {
+      "file": "julio-cesar-lempar-pemain-bali-united.jpg",
+      "title": "Julio Cesar Gendong dan Lempar Pemain Bali United",
+      "first_used": "2026-11-24"
+    },
+    "kpk-suap-audit-bpk-klaten": {
+      "file": "kpk-suap-audit-bpk-klaten.jpg",
+      "title": "KPK Dalami Dugaan Suap Penghapusan Temuan Audit BPK",
+      "first_used": "2026-11-24"
+    },
+    "bali-20-insiden-banjir-longsor": {
+      "file": "bali-20-insiden-banjir-longsor.jpg",
+      "title": "Bali: 20 Insiden Banjir dan Longsor, 2 Masih Hilang",
+      "first_used": "2026-11-24"
+    },
+    "kanker-paru-44-juta-berisiko": {
+      "file": "kanker-paru-44-juta-berisiko.jpg",
+      "title": "4,4 Juta Warga Berisiko Kanker Paru",
       "first_used": "2026-11-24"
     }
   }

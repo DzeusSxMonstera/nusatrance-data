@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-24T08:01:19+08:00",
- "edition": "pagi",
+ "updated": "2026-11-24T18:32:25+08:00",
+ "edition": "malam",
  "items": [
   {
-   "kategori": "Politik",
-   "keyword": "Paripurna Wapres",
-   "label": "Rapat gabungan MPR · hitung 14 hari kerja",
-   "rank": 1,
-   "topic": "Paripurna Wapres Mundur ke 11 Desember"
-  },
-  {
-   "kategori": "Hukum",
-   "keyword": "Bea Cukai Semarang",
-   "label": "Saksi dugaan selisih tarif cukai rokok · kerugian triliunan",
-   "rank": 2,
-   "topic": "KPK Periksa Kepala Bea Cukai Semarang"
-  },
-  {
-   "kategori": "Hukum",
-   "keyword": "Fadia Arafiq",
-   "label": "Denda Rp200 juta · uang pengganti Rp1,4 M",
-   "rank": 3,
-   "topic": "Bupati Pekalongan Divonis 4 Tahun"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "Kapuas Hulu",
-   "label": "11.113 KK · Kalbar siaga darurat hingga 31 Jan 2027",
-   "rank": 4,
-   "topic": "Banjir Kapuas Hulu: 28.875 Jiwa Terdampak"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "14 Bencana Sehari",
-   "label": "Banjir Aceh hingga gempa Talaud M5,4",
-   "rank": 5,
-   "topic": "BNPB: 14 Bencana dalam Sehari"
-  },
-  {
+   "topic": "Marsya Ditia Ungkap Dugaan Pelecehan Musisi",
+   "label": "Pengakuan kedua muncul · identitas pelaku belum terverifikasi",
+   "keyword": "Marsya Ditia",
    "kategori": "Entertainment",
-   "keyword": "MCR Tutup Tur",
-   "label": "The Black Parade · ditutup 'Helena'",
-   "rank": 6,
-   "topic": "MCR Tutup Tur Dunia di JIS"
+   "rank": 1
   },
   {
-   "kategori": "Entertainment",
-   "keyword": "Pengabdi Setan 3",
-   "label": "Joko Anwar · syuting di Prancis · tayang 2027",
-   "rank": 7,
-   "topic": "Pengabdi Setan 3: Origin Dibuka di Prancis 1518"
+   "topic": "Emas Antam Naik Tipis ke Rp2.507.000",
+   "label": "Rp2.507.000/gram · buyback +Rp15.000",
+   "keyword": "Emas Antam",
+   "kategori": "Ekonomi",
+   "rank": 2
   },
   {
+   "topic": "Nintendo Switch 2 Meluncur 10 Desember",
+   "label": "Pop-up store pertama · Rp9.999.000",
+   "keyword": "Nintendo Switch 2",
    "kategori": "Teknologi",
-   "keyword": "WhatsApp 1500",
-   "label": "Dari 1.024 · rollout bertahap",
-   "rank": 8,
-   "topic": "WhatsApp Naikkan Batas Grup jadi 1.500"
+   "rank": 3
   },
   {
-   "kategori": "Teknologi",
-   "keyword": "Google Kanal",
-   "label": "Komdigi tagih metodologi deteksi",
-   "rank": 9,
-   "topic": "Google Jawab soal 19.372 Kanal Ditutup"
-  },
-  {
+   "topic": "3 Wakil RI Lolos BWF World Tour Finals",
+   "label": "Alwi Farhan debut · Hangzhou 9–13 Desember",
+   "keyword": "BWF World Tour Finals",
    "kategori": "Olahraga",
-   "keyword": "PSSI U-23",
-   "label": "Herdman fokus tim senior · kalender 2027 padat",
-   "rank": 10,
-   "topic": "PSSI Cari Pelatih Baru Timnas U-23"
+   "rank": 4
+  },
+  {
+   "topic": "Kasus Fadia Arafiq Dikembangkan ke TPPU",
+   "label": "Sehari usai vonis 4 tahun · belum ada tersangka baru",
+   "keyword": "Fadia Arafiq",
+   "kategori": "Hukum",
+   "rank": 5
+  },
+  {
+   "topic": "Banjir Kalbar Meluas ke Sintang",
+   "label": "Kapuas Hulu 28.875 jiwa · Sintang 180 rumah terendam",
+   "keyword": "Kapuas Hulu",
+   "kategori": "Bencana",
+   "rank": 6
+  },
+  {
+   "topic": "Kebakaran Kabanjahe: 14 Bangunan Hangus",
+   "label": "Kerugian Rp700 juta · 3 damkar luka ringan",
+   "keyword": "Kabanjahe",
+   "kategori": "Peristiwa",
+   "rank": 7
+  },
+  {
+   "topic": "Lagu Pak Tua Toto Tewel Viral",
+   "label": "166 ribu views dalam <24 jam",
+   "keyword": "Pak Tua",
+   "kategori": "Entertainment",
+   "rank": 8
+  },
+  {
+   "topic": "DBD dan Chikungunya Banjiri RS Pontianak",
+   "label": "Pasien demam melonjak di RS Bhayangkara",
+   "keyword": "DBD Pontianak",
+   "kategori": "Kesehatan",
+   "rank": 9
+  },
+  {
+   "topic": "PKB Kawal Mandat 70% Hasil Tambang",
+   "label": "70% hasil tambang dikuasai negara",
+   "keyword": "PKB",
+   "kategori": "Politik",
+   "rank": 10
   }
  ]
 }
