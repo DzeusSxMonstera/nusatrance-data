@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "source_note": "Artikel orisinal Redaksi NusaTrance. Bukan ringkasan berita. Ditulis dan diperiksa redaksi; angka dan klaim faktual hanya yang terverifikasi.",
   "articles": [
     {
@@ -596,6 +596,34 @@
       ],
       "readMinutes": 3,
       "_words": 459
+    },
+    {
+      "slug": "mode-focus-di-gta-6-bertarung-menjelajah",
+      "title": "Mode Focus di GTA 6: Cara Memakainya untuk Bertarung dan Menjelajah",
+      "excerpt": "Focus adalah salah satu kemampuan paling berguna di GTA 6, dan juga salah satu yang paling sering diabaikan pemain baru. Kemampuan ini memperlambat waktu sesaat dan menyorot hal-hal penting di sekitarmu.",
+      "category": "Hobi",
+      "author": "Redaksi NusaTrance",
+      "date": "2026-11-25",
+      "dateLabel": "25 November 2026",
+      "tags": [
+        "GTA 6",
+        "Grand Theft Auto VI",
+        "Focus",
+        "panduan",
+        "pemula"
+      ],
+      "body": [
+        "Focus adalah salah satu kemampuan paling berguna di GTA 6, dan juga salah satu yang paling sering diabaikan pemain baru. Kemampuan ini memperlambat waktu sesaat dan menyorot hal-hal penting di sekitarmu. Dipakai di saat yang tepat, Focus menghemat peluru, menghemat waktu, dan menyelamatkanmu dari jebakan. Dipakai sembarangan, ia hanya membuatmu menunggu tanpa hasil.",
+        "Cara mengaktifkannya sederhana: tekan kedua analog stick secara bersamaan. Di tengah baku tembak, waktu melambat sehingga kamu bisa membidik titik lemah musuh atau kendaraan dengan tenang. Di luar pertarungan, Focus bekerja sebagai alat pemindai. Musuh ditandai warna merah, benda yang bisa dipakai ditandai warna kuning, dan uang tunai ditandai warna hijau. Warna-warna ini membantu saat kamu masuk ke tempat baru dan belum tahu apa yang bisa diambil.",
+        "Kegunaan Focus untuk menjelajah lebih luas dari sekadar bertarung. Kemampuan ini bisa menunjukkan kombinasi brankas, jejak hewan di alam liar, dan barang berharga yang tersembunyi di dalam bagasi mobil. Kalau kamu tipe pemain yang suka menggeledah setiap sudut Leonida, biasakan menyalakan Focus sebelum masuk ke lokasi baru. Sering kali ada satu-dua barang yang terlewat kalau hanya mengandalkan mata biasa.",
+        "Focus juga berguna saat berurusan dengan polisi. Kemampuan ini bisa membantu melihat posisi polisi lewat dinding, sehingga kamu bisa memilih jalur kabur sebelum mereka melihatmu. Digabung dengan kebiasaan mengganti pakaian dan kendaraan setelah aksi, Focus membuat pelarian jauh lebih terkendali.",
+        "Kemampuan ini bisa ditingkatkan. Focus naik lewat memancing, bermain biliar, dan tantangan di lapangan tembak. Berbeda dengan Health dan Stamina yang perlu dirawat terus lewat makan dan olahraga, peningkatan Focus bersifat permanen. Jadi waktu yang kamu habiskan untuk memancing dan berlatih menembak tidak terbuang. Untuk dorongan awal, ada trik kecil: beri makan ular peliharaan Jason yang bernama Dolores, lalu tonton sampai ia selesai makan.",
+        "Focus juga berhubungan dengan reputasi kriminalmu. Tembakan non-letal ke lutut, tangan, atau siku membangun reputasi Professional atau Hardened, sementara membunuh membangun reputasi Psychopath. Karena Focus memperlambat waktu untuk membidik titik lemah dengan tepat, kemampuan ini membantumu melumpuhkan musuh tanpa membunuh saat kamu ingin menjaga reputasi tetap bersih.",
+        "Biasakan mengaktifkan Focus di tempat aman dulu, misalnya di lapangan tembak, supaya jarimu hafal tombolnya sebelum misi yang menegangkan. Di sana kamu bisa berlatih membidik titik lemah tanpa tekanan, sekaligus menaikkan statistik Focus itu sendiri.",
+        "Latih Focus lewat aktivitas santai sebelum misi berat. Mainkan satu-dua ronde biliar, pergi memancing sebentar, atau selesaikan tantangan menembak. Begitu masuk misi yang sulit, kamu sudah punya cadangan Focus yang cukup. Jangan simpan kemampuan ini untuk \"nanti\" terus-menerus. Pakai saat perlu, isi ulang lewat aktivitas, dan Leonida terasa jauh lebih mudah dijelajahi."
+      ],
+      "readMinutes": 3,
+      "_words": 417
     }
   ]
 }
