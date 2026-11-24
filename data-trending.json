@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-23T18:12:36+08:00",
- "edition": "malam",
+ "updated": "2026-11-24T08:01:19+08:00",
+ "edition": "pagi",
  "items": [
   {
-   "topic": "IU World Tour 2027, Jakarta 2 Hari di JIS",
-   "label": "8–9 Mei 2027 · JIS · promotor iMe Indonesia",
-   "keyword": "IU World Tour",
-   "kategori": "Entertainment",
-   "rank": 1
+   "kategori": "Politik",
+   "keyword": "Paripurna Wapres",
+   "label": "Rapat gabungan MPR · hitung 14 hari kerja",
+   "rank": 1,
+   "topic": "Paripurna Wapres Mundur ke 11 Desember"
   },
   {
-   "topic": "Rupiah Menguat ke Rp18.190 per Dolar",
-   "label": "Naik 70 poin · ditopang aliran SRBI >US$1 miliar",
-   "keyword": "Rupiah",
-   "kategori": "Ekonomi",
-   "rank": 2
-  },
-  {
-   "topic": "Fadia Arafiq Divonis 4 Tahun Penjara",
-   "label": "Lebih ringan dari tuntutan 5 tahun · denda Rp200 juta",
-   "keyword": "Fadia Arafiq",
    "kategori": "Hukum",
-   "rank": 3
+   "keyword": "Bea Cukai Semarang",
+   "label": "Saksi dugaan selisih tarif cukai rokok · kerugian triliunan",
+   "rank": 2,
+   "topic": "KPK Periksa Kepala Bea Cukai Semarang"
   },
   {
-   "topic": "Gempa M5,4 Maluku Barat Daya, Susulan Gempa Besar",
-   "label": "14.36 WIB · 87 km timur laut · tak berpotensi tsunami",
-   "keyword": "Gempa M5,4",
+   "kategori": "Hukum",
+   "keyword": "Fadia Arafiq",
+   "label": "Denda Rp200 juta · uang pengganti Rp1,4 M",
+   "rank": 3,
+   "topic": "Bupati Pekalongan Divonis 4 Tahun"
+  },
+  {
    "kategori": "Bencana",
-   "rank": 4
+   "keyword": "Kapuas Hulu",
+   "label": "11.113 KK · Kalbar siaga darurat hingga 31 Jan 2027",
+   "rank": 4,
+   "topic": "Banjir Kapuas Hulu: 28.875 Jiwa Terdampak"
   },
   {
-   "topic": "DBD di Singkawang Renggut 4 Nyawa",
-   "label": "3 di antaranya anak-anak · bangsal anak hampir penuh",
-   "keyword": "Singkawang",
-   "kategori": "Kesehatan",
-   "rank": 5
+   "kategori": "Bencana",
+   "keyword": "14 Bencana Sehari",
+   "label": "Banjir Aceh hingga gempa Talaud M5,4",
+   "rank": 5,
+   "topic": "BNPB: 14 Bencana dalam Sehari"
   },
   {
-   "topic": "WhatsApp Naikkan Batas Grup jadi 1.500 Anggota",
-   "label": "Dari 1.024 · rollout bertahap sejak 19 November",
-   "keyword": "WhatsApp",
-   "kategori": "Teknologi",
-   "rank": 6
-  },
-  {
-   "topic": "Festival Budaya Melayu XIV Pontianak",
-   "label": "14 kontingen · 8 hari hingga 28 November",
-   "keyword": "Budaya Melayu",
-   "kategori": "Budaya",
-   "rank": 7
-  },
-  {
-   "topic": "Verstappen Menangi GP Las Vegas",
-   "label": "35 kali ganti pemimpin · 352 overtake",
-   "keyword": "Verstappen",
-   "kategori": "Olahraga",
-   "rank": 8
-  },
-  {
-   "topic": "Lomba Sihir Rayakan 5 Tahun Lewat Konser",
-   "label": "Konser Ujung Dunia · GBK Basketball Hall · 3.500 penonton",
-   "keyword": "Lomba Sihir",
    "kategori": "Entertainment",
-   "rank": 9
+   "keyword": "MCR Tutup Tur",
+   "label": "The Black Parade · ditutup 'Helena'",
+   "rank": 6,
+   "topic": "MCR Tutup Tur Dunia di JIS"
   },
   {
-   "topic": "PSSI Cari Pelatih Baru Timnas U-23",
-   "label": "Herdman fokus tim senior · SEA Games 2027",
-   "keyword": "Timnas U-23",
+   "kategori": "Entertainment",
+   "keyword": "Pengabdi Setan 3",
+   "label": "Joko Anwar · syuting di Prancis · tayang 2027",
+   "rank": 7,
+   "topic": "Pengabdi Setan 3: Origin Dibuka di Prancis 1518"
+  },
+  {
+   "kategori": "Teknologi",
+   "keyword": "WhatsApp 1500",
+   "label": "Dari 1.024 · rollout bertahap",
+   "rank": 8,
+   "topic": "WhatsApp Naikkan Batas Grup jadi 1.500"
+  },
+  {
+   "kategori": "Teknologi",
+   "keyword": "Google Kanal",
+   "label": "Komdigi tagih metodologi deteksi",
+   "rank": 9,
+   "topic": "Google Jawab soal 19.372 Kanal Ditutup"
+  },
+  {
    "kategori": "Olahraga",
-   "rank": 10
+   "keyword": "PSSI U-23",
+   "label": "Herdman fokus tim senior · kalender 2027 padat",
+   "rank": 10,
+   "topic": "PSSI Cari Pelatih Baru Timnas U-23"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:12:36",
+  "generated": "2026-11-24T00:00:41",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -47,6 +47,12 @@
           "source_slug": "ump-2027-28-provinsi",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "ump-2027-33-provinsi.jpg",
+          "source_slug": "ump-2027-33-provinsi",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -102,6 +108,12 @@
           "source_slug": "ihsg-rebound-5228-msci",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "ihsg-rebound-msci.jpg",
+          "source_slug": "ihsg-rebound-msci",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -213,6 +225,12 @@
           "source_slug": "bts-konser-tiga-hari-gbk-jakarta",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "iu-world-tour-jis.jpg",
+          "source_slug": "iu-world-tour-jis",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -250,7 +268,7 @@
           "file": "menkes-20261121.jpg",
           "source_slug": "menkes-budi-kandidat-dirjen-who",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -264,7 +282,7 @@
           "file": "perpusnas-20261121.jpg",
           "source_slug": "perpusnas-manuskrip-nusantara-bahan-bacaan-anak",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -279,7 +297,7 @@
           "file": "webb-20261121.jpg",
           "source_slug": "webb-rekam-bintang-raksasa-telan-pendamping-andromeda",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -300,6 +318,12 @@
           "source_slug": "longsor-jatiwaras-tasikmalaya-ibu-anak",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "longsor-tasikmalaya.jpg",
+          "source_slug": "longsor-tasikmalaya",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -318,7 +342,7 @@
           "file": "supermoon-24-november-banjir-rob.jpg",
           "source_slug": "supermoon-24-november-banjir-rob",
           "first_used": "2026-11-23",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -373,7 +397,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -428,7 +452,7 @@
           "file": "ka-siantar-20261121.jpg",
           "source_slug": "ka-siantar-ekspres-tabrak-minibus-lokomotif-terbakar",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         },
         {
           "file": "ka-siantar-tabrak-angkot-1-tewas.jpg",
@@ -552,7 +576,7 @@
           "file": "benteng-culture-fest-20261121.jpg",
           "source_slug": "benteng-culture-fest-2026-tangerang",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -571,7 +595,7 @@
           "file": "gempa-m72-laut-banda-maluku.jpg",
           "source_slug": "gempa-m72-laut-banda-maluku",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -590,7 +614,7 @@
           "file": "prabowo-serahkan-dua-nama-cawapres-mpr.jpg",
           "source_slug": "prabowo-serahkan-dua-nama-cawapres-mpr",
           "first_used": "2026-11-23",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -604,7 +628,7 @@
           "file": "oppo-20261121.jpg",
           "source_slug": "oppo-find-x10-resmi-indonesia",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -619,7 +643,7 @@
           "file": "meteor-20261121.jpg",
           "source_slug": "hujan-meteor-leonid-aktif-hingga-30-november",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -660,7 +684,7 @@
           "file": "emas-antam-turun-lima-hari.jpg",
           "source_slug": "emas-antam-turun-lima-hari",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -751,7 +775,7 @@
           "file": "kebakaran-pabrik-permen-cikande-tiga-tewas.jpg",
           "source_slug": "kebakaran-pabrik-permen-cikande-tiga-tewas",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -843,6 +867,12 @@
           "source_slug": "kpk-eksekusi-tiga-eks-bea-cukai",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        },
+        {
+          "file": "img/pool/kpk-eksekusi-bea-cukai-20261124.jpg",
+          "source_slug": "kpk-eksekusi-tiga-eks-bea-cukai",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     },
@@ -856,6 +886,32 @@
           "source_slug": "telkomsel-luncurkan-octa-69-model-ai",
           "first_used": "2026-11-23",
           "last_used": "2026-11-23"
+        }
+      ]
+    },
+    "Supermoon": {
+      "aliases": [
+        "supermoon"
+      ],
+      "images": [
+        {
+          "file": "img/pool/supermoon-rob-20261124.jpg",
+          "source_slug": "supermoon-24-november-banjir-rob",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
+        }
+      ]
+    },
+    "Diabetes": {
+      "aliases": [
+        "diabetes"
+      ],
+      "images": [
+        {
+          "file": "diabetes-24-juta.jpg",
+          "source_slug": "diabetes-24-juta",
+          "first_used": "2026-11-24",
+          "last_used": "2026-11-24"
         }
       ]
     }
@@ -1140,6 +1196,46 @@
       "file": "supermoon-24-november-banjir-rob.jpg",
       "title": "Supermoon Besok, BMKG Waspada Banjir Rob",
       "first_used": "2026-11-23"
+    },
+    "prabowo-ajukan-amran-sugiono": {
+      "file": "prabowo-ajukan-amran-sugiono.jpg",
+      "title": "Prabowo Ajukan Amran & Sugiono Jadi Cawapres",
+      "first_used": "2026-11-24"
+    },
+    "cikande-24-tewas": {
+      "file": "cikande-24-tewas.jpg",
+      "title": "24 Tewas di Pabrik Permen Cikande",
+      "first_used": "2026-11-24"
+    },
+    "ihsg-rebound-msci": {
+      "file": "ihsg-rebound-msci.jpg",
+      "title": "IHSG Rebound 1,35% Usai Kabar Dialog MSCI",
+      "first_used": "2026-11-24"
+    },
+    "longsor-tasikmalaya": {
+      "file": "longsor-tasikmalaya.jpg",
+      "title": "Longsor Tasikmalaya: 1 Tewas, 1 Selamat",
+      "first_used": "2026-11-24"
+    },
+    "iu-world-tour-jis": {
+      "file": "iu-world-tour-jis.jpg",
+      "title": "IU World Tour 2027, Konser 2 Hari di JIS",
+      "first_used": "2026-11-24"
+    },
+    "telkomsel-octa": {
+      "file": "telkomsel-octa.jpg",
+      "title": "Telkomsel Luncurkan OCTA, 69 Model AI",
+      "first_used": "2026-11-24"
+    },
+    "diabetes-24-juta": {
+      "file": "diabetes-24-juta.jpg",
+      "title": "24,9 Juta Penduduk Hidup dengan Diabetes",
+      "first_used": "2026-11-24"
+    },
+    "ump-2027-33-provinsi": {
+      "file": "ump-2027-33-provinsi.jpg",
+      "title": "UMP 2027: 33 Provinsi Sudah Tetapkan",
+      "first_used": "2026-11-24"
     }
   }
 }

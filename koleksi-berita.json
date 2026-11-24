@@ -1,7 +1,117 @@
 {
- "generated": "2026-11-23T10:12:36",
- "total": 270,
+ "generated": "2026-11-24T00:01:19",
+ "total": 280,
  "items": [
+  {
+   "slug": "prabowo-ajukan-amran-sugiono",
+   "title": "Prabowo Ajukan Amran & Sugiono Jadi Cawapres",
+   "summary": "Presiden Prabowo Subianto menyerahkan surat usulan dua nama calon wakil presiden — Menteri Pertanian Andi Amran Sulaiman dan Menko PMK Sugiono — ke Ketua MPR Ahmad Muzani, Senin sore sekitar pukul 16.48 WIB, tepat di hari tenggat. Tim verifikasi MPR langsung rapat pleno Senin malam; paripurna pemilihan dan pelantikan dijadwalkan Jumat 11 Desember 2026.",
+   "category": "Politik",
+   "source": "Bloomberg Technoz",
+   "sourceUrl": "https://www.bloombergtechnoz.com/detail-foto/1778/prabowo-serahkan-surat-ajukan-amran-sugiono-sebagai-cawapres",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "cikande-24-tewas",
+   "title": "24 Tewas di Pabrik Permen Cikande",
+   "summary": "Korban tewas kebakaran pabrik permen PT Fonusa Agung Mulia di Cikande yang terkonfirmasi resmi naik menjadi 24 orang hingga Senin. Sebanyak 26 kantong jenazah telah dievakuasi, sekitar 30 pekerja masih dicari, dan identifikasi DNA diperkirakan 2–3 minggu karena jenazah sulit dikenali.",
+   "category": "Peristiwa",
+   "source": "Mediacorp/CNA",
+   "sourceUrl": "https://berita.mediacorp.sg/dunia/kebakaran-kilang-di-indonesia-ragut-24-nyawa-sekitar-30-masih-hilang-1089446",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "ihsg-rebound-msci",
+   "title": "IHSG Rebound 1,35% Usai Kabar Dialog MSCI",
+   "summary": "IHSG ditutup menguat 1,35 persen ke 5.215,85 pada Senin, penguatan terbaik di bursa Asia, setelah sempat terperosok ke 5.077 di pagi hari. Pemicunya kabar telekonferensi Presiden Prabowo dengan CEO MSCI Henry Fernandez; status Indonesia masih dalam konsultasi hingga 30 April 2027.",
+   "category": "Ekonomi",
+   "source": "Bloomberg Technoz",
+   "sourceUrl": "https://www.bloombergtechnoz.com/detail-news/128646/ihsg-ditutup-menguat-1-35-terbaik-di-bursa-asia/2",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "longsor-tasikmalaya",
+   "title": "Longsor Tasikmalaya: 1 Tewas, 1 Selamat",
+   "summary": "Longsor menimbun rumah pasangan suami istri di Jatiwaras, Tasikmalaya, Senin pagi saat tebing 20 meter ambrol. Dayah, 65 tahun, ditemukan meninggal setelah sekitar tujuh jam tertimbun, sementara suaminya Yaman selamat; operasi SAR ditutup pukul 14.03 WIB.",
+   "category": "Bencana",
+   "source": "Posbekasi",
+   "sourceUrl": "https://posbekasi.com/2026/11/23/operasi-sar-longsor-tasikmalaya-ditutup-bnpb-catat-bencana/",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "iu-world-tour-jis",
+   "title": "IU World Tour 2027, Konser 2 Hari di JIS",
+   "summary": "Penyanyi Korea Selatan IU mengumumkan World Tour 2027 dan Jakarta kebagian dua hari konser, 8–9 Mei 2027, di Jakarta International Stadium. Jakarta menjadi penutup putaran pertama tur yang dibuka di Bangkok pada 16–17 Januari 2027.",
+   "category": "Entertainment",
+   "source": "Fimela",
+   "sourceUrl": "https://www.fimela.com/entertainment/read/8340701/iu-umumkan-jadwal-world-tour-2027-jakarta-kebagian-2-hari-konser",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "telkomsel-octa",
+   "title": "Telkomsel Luncurkan OCTA, 69 Model AI",
+   "summary": "Telkomsel meluncurkan OCTA, layanan satu saldo untuk mengakses 69 model kecerdasan buatan dari berbagai penyedia, Senin di Jakarta. Paket Rp100.000, Rp250.000, dan Rp500.000 sudah termasuk bonus kuota 500 MB selama 30 hari.",
+   "category": "Teknologi",
+   "source": "Selular.ID",
+   "sourceUrl": "https://selular.id/2026/11/pelanggan-telkomsel-kini-bisa-akses-69-model-ai-melalui-octa/",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "diabetes-24-juta",
+   "title": "24,9 Juta Penduduk Hidup dengan Diabetes",
+   "summary": "Kementerian Kesehatan mencatat sekitar 24,9 juta penduduk Indonesia hidup dengan diabetes, prevalensi 11,7 persen pada usia 15 tahun ke atas, dan sekitar 20 juta di antaranya diperkirakan belum terdiagnosis. Data disampaikan Wamenkes Dante di Jakarta Diabetes Meeting 2026, Minggu.",
+   "category": "Kesehatan",
+   "source": "Kemenkes",
+   "sourceUrl": "https://kemkes.go.id/id/kemenkes-perkuat-deteksi-dini-diabetes-dorong-penanganan-hingga-pasien-terkendali",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "ump-2027-33-provinsi",
+   "title": "UMP 2027: 33 Provinsi Sudah Tetapkan",
+   "summary": "Hingga Senin, 32 hingga 33 provinsi sudah menetapkan upah minimum provinsi 2027, naik dari 28 provinsi pada Minggu malam, dan berlaku mulai 1 Januari 2027. DKI Jakarta tertinggi Rp6.136.941, sementara Bali mencatat kenaikan tertinggi 42,15 persen.",
+   "category": "Ekonomi",
+   "source": "Bloomberg Technoz",
+   "sourceUrl": "https://www.bloombergtechnoz.com/detail-news/128572/daftar-terbaru-ump-2027-di-33-provinsi-bali-naik-tertinggi-42/2",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "yogyakarta-international-challenge-2026",
+   "title": "Indonesia Juara Umum Yogyakarta International Challenge 2026",
+   "summary": "Indonesia juara umum Polytron Yogyakarta International Challenge 2026 dengan tiga gelar dan empat runner-up di GOR Amongrogo, Minggu; gelar diraih Rizky Akbar di tunggal putra, Lanny/Ester di ganda putri, dan Al Farizi/Jessica di ganda campuran.",
+   "category": "Olahraga",
+   "source": "Topik.id",
+   "sourceUrl": "https://www.topik.id/indonesia-dominasi-polytron-yogyakarta-international-challenge-2026-raih-tiga-gelar-dan-empat-runner-up",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
+  {
+   "slug": "fksm-ambon-2026",
+   "title": "FKSM 2026 di Ambon: 66 Seniman Ramaikan Museum Siwalima",
+   "summary": "Festival Komunitas Seni Media 2026 Kementerian Kebudayaan digelar di Museum Siwalima, Ambon, 21–27 November dengan tema 'Layar ka Lau–Siar ka Dara', menghadirkan instalasi interaktif, pertunjukan silang-media, dan lokakarya.",
+   "category": "Budaya",
+   "source": "Beranda Maluku",
+   "sourceUrl": "https://www.berandamaluku.com/fksm-upaya-kementerian-kebudayaan-perkuat-pelestarian-ekosistem-seni-nusantara/",
+   "time": "24 Nov 2026",
+   "editionDate": "2026-11-24",
+   "editionLabel": "Pagi"
+  },
   {
    "slug": "prabowo-serahkan-dua-nama-cawapres-mpr",
    "title": "Prabowo Serahkan Dua Nama Cawapres ke MPR",
