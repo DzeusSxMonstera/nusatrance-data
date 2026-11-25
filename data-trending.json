@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-25T05:54:14+08:00",
- "edition": "pagi",
+ "updated": "2026-11-25T20:07:33+08:00",
+ "edition": "malam",
  "items": [
   {
-   "kategori": "Hukum",
-   "keyword": "Klaten",
-   "label": "KPK periksa 13 saksi Klaten soal dugaan suap hapus temuan audit BPK",
-   "rank": 1,
-   "topic": "KPK Periksa 13 Saksi Klaten"
-  },
-  {
-   "kategori": "Politik",
-   "keyword": "Dasco",
-   "label": "Prabowo bertemu empat mata dengan Dasco selama dua jam di Istana Merdeka",
-   "rank": 2,
-   "topic": "Prabowo-Dasco Bertemu 2 Jam"
-  },
-  {
+   "topic": "Demo Hari Guru di Jakarta",
+   "label": "Demo Hari Guru di Jakarta",
+   "keyword": "Hari Guru",
    "kategori": "Peristiwa",
-   "keyword": "Tambora",
-   "label": "BPBD catat 75 bangunan hangus, 100 KK terdampak di Tambora",
-   "rank": 3,
-   "topic": "Kebakaran Tambora: 75 Bangunan Hangus"
+   "rank": 1
   },
   {
-   "kategori": "Teknologi",
-   "keyword": "PQC",
-   "label": "Pemerintah dan Telkom siapkan kriptografi tahan kuantum",
-   "rank": 4,
-   "topic": "Kriptografi Tahan Kuantum (PQC)"
+   "topic": "Tarif Baru Trump untuk 16 Mitra Dagang",
+   "label": "Tarif Baru Trump",
+   "keyword": "tarif Trump",
+   "kategori": "Ekonomi",
+   "rank": 2
   },
   {
-   "kategori": "Bencana",
-   "keyword": "Nanga Masau",
-   "label": "Banjir di Nanga Masau, Sintang, rendam sekitar 180 rumah",
-   "rank": 5,
-   "topic": "Banjir Nanga Masau Rendam 180 Rumah"
-  },
-  {
-   "kategori": "Kesehatan",
-   "keyword": "HIV",
-   "label": "88 kasus baru HIV ditemukan di Pangkalpinang menjelang Hari AIDS Sedunia",
-   "rank": 6,
-   "topic": "88 Kasus Baru HIV di Pangkalpinang"
-  },
-  {
+   "topic": "Real Madrid Puncaki Klasemen Liga Champions",
+   "label": "Real Madrid Puncaki Klasemen",
+   "keyword": "Liga Champions",
    "kategori": "Olahraga",
-   "keyword": "BWF",
-   "label": "Tiga wakil Indonesia siap tempur di Hangzhou",
-   "rank": 7,
-   "topic": "Undangan BWF World Tour Finals Terbit"
+   "rank": 3
   },
   {
+   "topic": "Trailer Film Zona Merah Rilis",
+   "label": "Trailer Film Zona Merah",
+   "keyword": "Zona Merah",
    "kategori": "Entertainment",
-   "keyword": "Kahitna",
-   "label": "Kahitna disebut telat padahal sudah standby sejak sebelum pukul 20.00",
-   "rank": 8,
-   "topic": "Kahitna Balikpapan: Hedi Yunus Murka"
+   "rank": 4
   },
   {
-   "kategori": "Peristiwa",
-   "keyword": "TAA",
-   "label": "Polisi olah TKP tabrakan beruntun Sumedang dengan teknologi TAA",
-   "rank": 9,
-   "topic": "Sumedang: Olah TKP dengan Teknologi TAA"
+   "topic": "Angklung Bandung Gema di Bangkok",
+   "label": "Angklung Gema di Bangkok",
+   "keyword": "Angklung Bangkok",
+   "kategori": "Budaya",
+   "rank": 5
   },
   {
+   "topic": "Sidang Etik Slamet Uliandi Ditunda",
+   "label": "Sidang Etik Slamet Ditunda",
+   "keyword": "Slamet Uliandi",
    "kategori": "Politik",
+   "rank": 6
+  },
+  {
+   "topic": "Panja RUU Pidana Mati Dibentuk",
+   "label": "Panja RUU Pidana Mati",
    "keyword": "pidana mati",
-   "label": "Komisi III DPR serahkan 266 DIM RUU tata cara pelaksanaan pidana mati",
-   "rank": 10,
-   "topic": "266 DIM RUU Pidana Mati"
+   "kategori": "Politik",
+   "rank": 7
+  },
+  {
+   "topic": "Insentif Guru Non-ASN Diusulkan Naik Rp1 Juta",
+   "label": "Insentif Guru Naik Rp1 Juta",
+   "keyword": "insentif guru",
+   "kategori": "Ekonomi",
+   "rank": 8
+  },
+  {
+   "topic": "Quasar Tertua Dun Aonghasa Ditemukan",
+   "label": "Quasar Tertua Ditemukan",
+   "keyword": "Dun Aonghasa",
+   "kategori": "Sains",
+   "rank": 9
+  },
+  {
+   "topic": "Penyidikan Baru BGN untuk MBG",
+   "label": "Penyidikan Baru BGN",
+   "keyword": "BGN",
+   "kategori": "Hukum",
+   "rank": 10
   }
  ]
 }

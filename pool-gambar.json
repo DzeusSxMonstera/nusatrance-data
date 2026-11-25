@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T21:50:31",
+  "generated": "2026-11-25T12:07:33",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -354,6 +354,12 @@
           "source_slug": "bali-20-insiden-banjir-longsor",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "banjir-riau-18640-jiwa.jpg",
+          "source_slug": "banjir-riau-18640-jiwa",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -413,6 +419,12 @@
           "source_slug": "persib-bantai-shan-united-6-0",
           "first_used": "2026-11-21",
           "last_used": "2026-11-22"
+        },
+        {
+          "file": "persib-vs-fc-seoul-acl-two.jpg",
+          "source_slug": "persib-vs-fc-seoul-acl-two",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -657,6 +669,12 @@
           "source_slug": "mpr-batal-cek-ijazah-sekolah",
           "first_used": "2026-11-25",
           "last_used": "2026-11-25"
+        },
+        {
+          "file": "amran-sugiono-lolos-verifikasi-mpr.jpg",
+          "source_slug": "amran-sugiono-lolos-verifikasi-mpr",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -726,6 +744,12 @@
           "file": "emas-antam-turun-lima-hari.jpg",
           "source_slug": "emas-antam-turun-lima-hari",
           "first_used": "2026-11-21",
+          "last_used": "2026-11-25"
+        },
+        {
+          "file": "penambang-bogor-terjebak-tambang-ilegal.jpg",
+          "source_slug": "penambang-bogor-terjebak-tambang-ilegal",
+          "first_used": "2026-11-25",
           "last_used": "2026-11-25"
         }
       ]
@@ -960,6 +984,12 @@
           "source_slug": "diabetes-24-juta",
           "first_used": "2026-11-24",
           "last_used": "2026-11-24"
+        },
+        {
+          "file": "diabetes-20-juta-belum-terdiagnosis.jpg",
+          "source_slug": "diabetes-20-juta-belum-terdiagnosis",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
         }
       ]
     },
@@ -1036,6 +1066,58 @@
         {
           "file": "img/pool/festival-keris-trenggalek-20261125.jpg",
           "source_slug": "festival-keris-trenggalek",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "TOTO": {
+      "aliases": [
+        "toto"
+      ],
+      "images": [
+        {
+          "file": "img/pool/toto-konser-jakarta-20261125.jpg",
+          "source_slug": "toto-konser-jakarta",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "FFI": {
+      "aliases": [
+        "ffi"
+      ],
+      "images": [
+        {
+          "file": "img/pool/ffi-kemenbud-kritik-20261125.jpg",
+          "source_slug": "ffi-kemenbud-kritik",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "Telkom BRIN": {
+      "aliases": [
+        "telkom brin"
+      ],
+      "images": [
+        {
+          "file": "img/pool/telkom-brin-satelit-20261125.jpg",
+          "source_slug": "telkom-brin-satelit-ai-kuantum",
+          "first_used": "2026-11-25",
+          "last_used": "2026-11-25"
+        }
+      ]
+    },
+    "Pertamina gas": {
+      "aliases": [
+        "pertamina gas"
+      ],
+      "images": [
+        {
+          "file": "img/pool/pertamina-gas-jabar-20261125.jpg",
+          "source_slug": "pertamina-gas-jabar",
           "first_used": "2026-11-25",
           "last_used": "2026-11-25"
         }
@@ -1441,6 +1523,46 @@
     "persija-bantai-sumsel-7-0": {
       "file": "persija-bantai-sumsel-7-0.jpg",
       "title": "Persija Bantai Sumsel United 7-0",
+      "first_used": "2026-11-25"
+    },
+    "rupiah-rekor-terendah-rp18319": {
+      "file": "rupiah-rekor-terendah-rp18319.jpg",
+      "title": "Rupiah Pecah Rekor Terendah Sepanjang Sejarah, Rp18.319 per Dolar AS",
+      "first_used": "2026-11-25"
+    },
+    "penambang-bogor-terjebak-tambang-ilegal": {
+      "file": "penambang-bogor-terjebak-tambang-ilegal.jpg",
+      "title": "26 Penambang Diduga Terjebak di Lubang Tambang Emas Ilegal Bogor",
+      "first_used": "2026-11-25"
+    },
+    "cpns-2026-154052-formasi": {
+      "file": "cpns-2026-154052-formasi.jpg",
+      "title": "Pemerintah Buka 154.052 Formasi CPNS 2026, Daftar Mulai 27 November",
+      "first_used": "2026-11-25"
+    },
+    "riza-chalid-jurist-tan-in-absentia": {
+      "file": "riza-chalid-jurist-tan-in-absentia.jpg",
+      "title": "Kejagung Siapkan Sidang In Absentia Riza Chalid dan Jurist Tan",
+      "first_used": "2026-11-25"
+    },
+    "amran-sugiono-lolos-verifikasi-mpr": {
+      "file": "amran-sugiono-lolos-verifikasi-mpr.jpg",
+      "title": "Amran dan Sugiono Lolos Verifikasi Pajak dan Kewarganegaraan MPR",
+      "first_used": "2026-11-25"
+    },
+    "persib-vs-fc-seoul-acl-two": {
+      "file": "persib-vs-fc-seoul-acl-two.jpg",
+      "title": "Persib Jamu FC Seoul Malam Ini, Satu Poin Cukup Kunci Juara Grup E",
+      "first_used": "2026-11-25"
+    },
+    "diabetes-20-juta-belum-terdiagnosis": {
+      "file": "diabetes-20-juta-belum-terdiagnosis.jpg",
+      "title": "20 Juta Penderita Diabetes di Indonesia Diperkirakan Belum Terdiagnosis",
+      "first_used": "2026-11-25"
+    },
+    "banjir-riau-18640-jiwa": {
+      "file": "banjir-riau-18640-jiwa.jpg",
+      "title": "Banjir Riau Meluas ke Lima Daerah, 18.640 Jiwa Terdampak",
       "first_used": "2026-11-25"
     }
   }
