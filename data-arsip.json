@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T22:28:34",
- "total": 328,
+ "generated": "2026-11-26T10:42:00",
+ "total": 339,
  "days": [
   {
    "date": "2026-11-26",
@@ -140,6 +140,132 @@
        "time": "26 Nov 2026",
        "editionDate": "2026-11-26",
        "editionLabel": "Pagi"
+      }
+     ]
+    },
+    {
+     "label": "Malam",
+     "items": [
+      {
+       "slug": "listyo-tolak-hadir-sidang-etik-ditunda",
+       "title": "Listyo Sigit Tolak Hadiri Sidang Etik, KKEP Tunda ke Senin 30 November",
+       "summary": "Mantan Kapolri Jenderal Listyo Sigit Prabowo menolak menghadiri sidang Komisi Kode Etik Polri di Mabes Polri, Kamis pagi, lewat berita acara penolakan yang ditandatanganinya sendiri. Majelis lima Komjen yang dipimpin Hendro Pandowo menunda sidang dan menjadwalkan pemanggilan kedua pada Senin, 30 November; Listyo berstatus tersangka dugaan penyadapan ilegal dan makar dengan ancaman pemecatan tidak hormat.",
+       "category": "Hukum",
+       "source": "AFU.id",
+       "sourceUrl": "https://afu.id/hukum-kriminal/eks-kapolri-jenderal-listyo-sigit-tolak-hadiri-sidang-etik-kasus-makar-tak-jadi-berhadapan-dengan-lima-jenderal-bintang-tiga",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "prabowo-pemusnahan-narkoba-601-7-ton",
+       "title": "Prabowo Pimpin Pemusnahan 601,7 Ton Narkoba, Negara Selamatkan Rp285 Triliun",
+       "summary": "Presiden Prabowo Subianto memimpin pemusnahan barang bukti narkotika seberat 601,7 ton di Lapangan Bhayangkara, Mabes Polri, Kamis siang — akumulasi pengungkapan Polri dan BNN selama satu tahun, senilai Rp61,689 triliun, dengan nilai penyelamatan yang dihitung mencapai Rp285 triliun. Prabowo memberi tiga instruksi: berantas narkoba, hentikan penyelundupan, dan berantas judi online.",
+       "category": "Peristiwa",
+       "source": "LensaHukum",
+       "sourceUrl": "https://lensahukum.co.id/prabowo-pemusnahan-narkoba-mabes-polri",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "tambang-emas-ilegal-bogor-16-tewas",
+       "title": "Korban Tewas Tambang Emas Ilegal Bogor Bertambah Jadi 16",
+       "summary": "Korban tewas tragedi tambang emas ilegal di Gunung Butak, Nanggung, Kabupaten Bogor, bertambah menjadi 16 orang pada Kamis pagi. Sebanyak 26 penambang terjebak setelah air Sungai Ciseureuh meluap dan membanjiri dua lubang galian sejak Senin malam; 11 orang berhasil menyelamatkan diri, sementara evakuasi terhambat lubang sempit sedalam sekitar 100 meter yang masih tergenang air.",
+       "category": "Bencana",
+       "source": "NTV News",
+       "sourceUrl": "https://www.ntvnews.id/news/01127782/13-orang-tewas-tragedi-longsor-penambangan-emas-ilegal-di-bogor",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "mekari-diretas-malware-gaji-tertunda",
+       "title": "Mekari Diretas Malware, Layanan Down, Gaji Karyawan Tertunda",
+       "summary": "PT Mid Solusi Nusantara (Mekari) mengonfirmasi sistemnya diserang pihak eksternal sejak Rabu pagi, dan layanan Talenta, Jurnal, Qontak, Sign, serta Flex dimatikan sementara untuk mencegah pergerakan data. Dampak terbesar menimpa payroll: pencairan gaji karyawan sejumlah perusahaan klien tertunda di akhir bulan, sementara pemulihan bertahap ditargetkan selesai Jumat, 27 November.",
+       "category": "Teknologi",
+       "source": "NTV News",
+       "sourceUrl": "https://www.ntvnews.id/news/01127836/mekari-down-akibat-serangan-siber-ini-penyebab-dan-update-klarifikasi-terbaru",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "ihsg-5242-rupiah-rp18-345",
+       "title": "IHSG Ditutup Menguat ke 5.242,17, Rupiah Cetak Rekor Terlemah Baru Rp18.345",
+       "summary": "IHSG berbalik menguat 0,86 persen ke level 5.242,17 pada penutupan Kamis, sehari setelah anjlok ke 5.197,61, dengan saham energi dan bahan baku sebagai penopang dan nilai transaksi Rp7,71 triliun. Rupiah justru makin terpuruk dan ditutup di rekor terlemah baru Rp18.345 per dolar AS, tertekan ekspektasi kenaikan suku bunga The Fed dan dolar AS yang bertahan kuat.",
+       "category": "Ekonomi",
+       "source": "Vibizmedia",
+       "sourceUrl": "https://www.vibizmedia.com/index.php/2026/11/26/rekor-terlemah-baru-rupiah-kamis-ditutup-tergelincir-ke-level-rp18-345-usd/",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "tasikmalaya-95-kejadian-bencana",
+       "title": "Tasikmalaya Dikepung 95 Kejadian Bencana, 1 Warga Meninggal dan Culamega Terisolasi",
+       "summary": "Pemerintah Kabupaten Tasikmalaya mencatat 95 kejadian banjir dan longsor hingga Rabu, dengan satu warga Jatiwaras meninggal tertimbun longsor dan satu luka-luka; status tanggap darurat bencana berlaku 14 hari hingga 29 November. Kecamatan Culamega masih terisolasi karena jalan tertutup material longsor, dan Jembatan Cibeureum sepanjang 180 meter retak serta dikhawatirkan amblas.",
+       "category": "Bencana",
+       "source": "Informasi.com",
+       "sourceUrl": "https://informasi.com/lokal/infrms-30251/95-bencana-terjadi-di-tasikmalaya-pemkab-tetapkan-status-tanggap-darurat-14-hari",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "lille-2-1-bayern-verdonk",
+       "title": "Lille 2-1 Bayern Munchen: Calvin Verdonk Bantu Kalahkan Raksasa Jerman",
+       "summary": "Lille menang 2-1 atas Bayern Munchen di Stade Pierre-Mauroy, Kamis dini hari WIB, dan memberi Bayern kekalahan pertama musim ini di semua kompetisi. Bayern unggul dulu lewat sundulan Upamecano menit ke-15, lalu Lille membalikkan keadaan lewat gol Ayase Ueda dan gol bunuh diri Pavlovic; bek Timnas Indonesia Calvin Verdonk memperkuat Lille dalam kemenangan bersejarah ini.",
+       "category": "Olahraga",
+       "source": "AFU.id",
+       "sourceUrl": "https://afu.id/olahraga/rekap-hasil-dan-klasemen-terbaru-liga-champions-20262027-madrid-tak-terbendung-psg-dan-mu-tertahan-verdonk-kalahkan-munchen",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "findi-artika-disawer-tak-pantas",
+       "title": "Findi Artika Syok Disawer Tak Pantas di Kondangan Lampung Tengah",
+       "summary": "Juara Bintang Pantura 6 Findi Artika mengunggah video insiden saat manggung di Lampung Tengah, Rabu 25 November: seorang pria meletakkan uang saweran di bagian dadanya. Findi menyebutnya pelecehan, menegaskan tidak memberi toleransi, dan menyerahkan penanganannya ke pihak berwenang; belum ada laporan polisi yang terkonfirmasi.",
+       "category": "Entertainment",
+       "source": "KapanLagi.com",
+       "sourceUrl": "https://www.kapanlagi.com/dangdut/penyanyi-dangdut-findi-artika-syok-disawer-tak-pantas-di-kondangan-952a227f3a.html",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "festival-candi-jago-malang",
+       "title": "Festival Candi Jago di Malang Hidupkan Lagi Kisah Relief Kuno",
+       "summary": "Kementerian Kebudayaan menggelar Festival Candi Jago 'Reksa Jinalayapura' di Lapangan Ledoksari, Tumpang, Kabupaten Malang, Kamis 26 November 2026, dengan Menteri Kebudayaan Fadli Zon hadir langsung. Rangkaian festival — ekshibisi wayang godong, tari, musik etnik, dan wayang topeng Malangan — merawat ajaran moral dari kisah-kisah yang terukir pada relief Candi Jago.",
+       "category": "Budaya",
+       "source": "ANTARA Foto",
+       "sourceUrl": "https://www.antarafoto.com/id/view/2915319/festival-candi-jago-di-malang",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "influenza-1527-kasus-2026",
+       "title": "Kemenkes: Influenza Naik, 1.527 Kasus Positif Sepanjang 2026",
+       "summary": "Surveilans Kemenkes mencatat 1.527 kasus influenza positif sepanjang 2026 hingga akhir September — sekitar 17 persen dari 8.757 spesimen yang diperiksa — terbanyak di DKI Jakarta, Jawa Barat, dan Banten. Virus dominan adalah influenza A H1N1, bukan 'super flu'; Kemenkes mengimbau masyarakat tidak panic buying Oseltamivir.",
+       "category": "Kesehatan",
+       "source": "IDNPos",
+       "sourceUrl": "https://idnpos.co.id/kenaikan-kasus-influenza-kemenkes-2026",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
+      },
+      {
+       "slug": "undip-pertamina-tracer-nano-carbon",
+       "title": "Undip dan Pertamina Kembangkan Tracer Nano Carbon untuk Dongkrak Minyak Lapangan Tua",
+       "summary": "Tim Universitas Diponegoro bersama PT Pertamina EP Rantau Field mengembangkan teknologi tracer dan waterflooding berbasis nano carbon untuk menjaga produksi minyak dari lapangan tua di Aceh Tamiang. Nano carbon berpendar saat disinari, tidak radioaktif, dan dapat melacak aliran reservoir serta membantu melepaskan minyak yang menempel pada pori batuan.",
+       "category": "Sains",
+       "source": "Undip.ac.id",
+       "sourceUrl": "https://undip.ac.id/post/60604/riset-nano-carbon-undip-pertamina-ep-rantau-field-minyak-lapangan-tua.html",
+       "time": "26 Nov 2026",
+       "editionDate": "2026-11-26",
+       "editionLabel": "Malam"
       }
      ]
     }

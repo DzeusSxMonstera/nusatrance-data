@@ -1,76 +1,76 @@
 {
- "updated": "2026-11-26T06:28:34+08:00",
- "edition": "pagi",
+ "updated": "2026-11-26T18:42:00+08:00",
+ "edition": "malam",
  "items": [
   {
+   "topic": "NasDem dan PAN Dukung Sugiono Jadi Wapres",
+   "label": "Gerindra klaim NasDem dan PAN bulat dukung Sugiono jadi wapres",
+   "keyword": "NasDem PAN",
    "kategori": "Politik",
-   "keyword": "Munaslub Golkar",
-   "label": "Idrus Marham: prediksi Munaslub Golkar 'sangat-sangat jauh, tidak realistis'",
-   "rank": 1,
-   "topic": "Isu Munaslub Golkar 29 November Dibantah"
+   "rank": 1
   },
   {
+   "topic": "KPK Selidiki Cukai, Penyidikan Djarum Bisa Meluas",
+   "label": "KPK selidiki dugaan penyimpangan tarif cukai, penyidikan Djarum bisa meluas",
+   "keyword": "Cukai Djarum",
    "kategori": "Hukum",
-   "keyword": "TPPU nikel",
-   "label": "Arif Kurniawan dan PT BSJ Tbk jadi tersangka TPPU tambang nikel Sultra",
-   "rank": 2,
-   "topic": "TPPU Nikel Sultra: Arif Kurniawan Tersangka"
+   "rank": 2
   },
   {
+   "topic": "Demo Bela Andri Darmawan di Kendari Ricuh",
+   "label": "Demo bela Andri Darmawan di Kendari ricuh, massa bentrok dengan polisi",
+   "keyword": "Demo Kendari",
    "kategori": "Peristiwa",
-   "keyword": "Kecelakaan Sumedang",
-   "label": "Sopir truk maut Sumedang ditahan; Kapolda Jabar jenguk korban selamat",
-   "rank": 3,
-   "topic": "Kecelakaan Maut Sumedang"
+   "rank": 3
   },
   {
-   "kategori": "Bencana",
-   "keyword": "BMKG hujan lebat",
-   "label": "BMKG: 12 provinsi berpotensi hujan lebat hingga sangat lebat hari ini",
-   "rank": 4,
-   "topic": "BMKG: 12 Provinsi Hujan Lebat"
-  },
-  {
-   "kategori": "Kesehatan",
-   "keyword": "DBD Tidore",
-   "label": "KLB DBD Tidore: 350 pasien, 2 meninggal, Pemkot bentuk Satgas",
-   "rank": 5,
-   "topic": "KLB DBD Tidore: 350 Pasien"
-  },
-  {
-   "kategori": "Sains",
-   "keyword": "LUPEX",
-   "label": "JAXA pamerkan robot penjelajah Bulan LUPEX, Jepang-India cari air di kutub selatan",
-   "rank": 6,
-   "topic": "Robot Bulan LUPEX Dipamerkan JAXA"
-  },
-  {
-   "kategori": "Bencana",
-   "keyword": "Banjir Riau",
-   "label": "Banjir Riau meluas ke lima daerah, 18.640 jiwa terdampak",
-   "rank": 7,
-   "topic": "Banjir Riau Meluas, 18.640 Jiwa Terdampak"
-  },
-  {
+   "topic": "Lima Film Indonesia Tayang Hari Ini di Bioskop",
+   "label": "Empat film horor Indonesia tayang serentak hari ini di bioskop",
+   "keyword": "Film horor Indonesia",
    "kategori": "Entertainment",
-   "keyword": "Spotify Wrapped",
-   "label": "Spotify Wrapped Live Indonesia 2026 hadirkan 21 penampil, 3 Desember",
-   "rank": 8,
-   "topic": "Spotify Wrapped Live Indonesia 2026"
+   "rank": 4
   },
   {
-   "kategori": "Teknologi",
-   "keyword": "Infinix XPAD",
-   "label": "Infinix XPAD 30 meluncur, tablet AI pelajar mulai Rp3,299 juta",
-   "rank": 9,
-   "topic": "Infinix XPAD 30 Meluncur"
+   "topic": "Nunung Siap Jalani Mastektomi Sepulang Umrah",
+   "label": "Nunung siap jalani mastektomi sepulang umrah, kanker kambuh",
+   "keyword": "Nunung",
+   "kategori": "Entertainment",
+   "rank": 5
   },
   {
-   "kategori": "Teknologi",
-   "keyword": "penipuan digital",
-   "label": "Komdigi tangani 67.578 konten penipuan digital, ratusan ribu aduan masuk",
-   "rank": 10,
-   "topic": "Komdigi Tangani 67.578 Konten Penipuan"
+   "topic": "Tim Verifikasi MPR: Ijazah SMA Amran dan Sugiono Dinyatakan Sah",
+   "label": "Tim Verifikasi MPR: ijazah SMA Amran dan Sugiono sah, LHKPN cocok",
+   "keyword": "Ijazah cawapres",
+   "kategori": "Politik",
+   "rank": 6
+  },
+  {
+   "topic": "Real Madrid Bantai PSV 5-1",
+   "label": "Real Madrid bantai PSV 5-1, sapu bersih 15 poin fase liga",
+   "keyword": "Real Madrid",
+   "kategori": "Olahraga",
+   "rank": 7
+  },
+  {
+   "topic": "Prabowo Terima Sekjen OECD Cormann",
+   "label": "Prabowo terima Sekjen OECD, aksesi Indonesia progres 80 persen",
+   "keyword": "OECD",
+   "kategori": "Politik",
+   "rank": 8
+  },
+  {
+   "topic": "Kutim Pecahkan Rekor MURI Lewat Poster Budaya Pelajar",
+   "label": "Kutim pecahkan rekor MURI lewat 350 poster budaya pelajar",
+   "keyword": "Rekor MURI Kutim",
+   "kategori": "Budaya",
+   "rank": 9
+  },
+  {
+   "topic": "Harga Emas Antam Naik Tipis ke Rp2.501.000 per Gram",
+   "label": "Emas Antam Rp2.501.000 per gram, buyback melonjak Rp20.000",
+   "keyword": "Harga emas Antam",
+   "kategori": "Ekonomi",
+   "rank": 10
   }
  ]
 }

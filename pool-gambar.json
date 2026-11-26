@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T22:28:13",
+  "generated": "2026-11-26T10:41:49",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -126,6 +126,12 @@
           "source_slug": "ihsg-menguat-5241",
           "first_used": "2026-11-25",
           "last_used": "2026-11-25"
+        },
+        {
+          "file": "ihsg-5242-rupiah-rp18-345.jpg",
+          "source_slug": "ihsg-5242-rupiah-rp18-345",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
         }
       ]
     },
@@ -687,6 +693,12 @@
           "source_slug": "amran-sugiono-lolos-verifikasi-mpr",
           "first_used": "2026-11-25",
           "last_used": "2026-11-25"
+        },
+        {
+          "file": "amran-sugiono-tes-kesehatan-rspad.jpg",
+          "source_slug": "amran-sugiono-tes-kesehatan-rspad",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
         }
       ]
     },
@@ -762,6 +774,12 @@
           "file": "penambang-bogor-terjebak-tambang-ilegal.jpg",
           "source_slug": "penambang-bogor-terjebak-tambang-ilegal",
           "first_used": "2026-11-25",
+          "last_used": "2026-11-26"
+        },
+        {
+          "file": "tambang-emas-ilegal-bogor-16-tewas.jpg",
+          "source_slug": "tambang-emas-ilegal-bogor-16-tewas",
+          "first_used": "2026-11-26",
           "last_used": "2026-11-26"
         }
       ]
@@ -1188,6 +1206,58 @@
         {
           "file": "wayang-kulit-banjar-20261126.jpg",
           "source_slug": "pameran-wayang-kulit-banjar",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
+        }
+      ]
+    },
+    "Findi Artika": {
+      "aliases": [
+        "findi artika"
+      ],
+      "images": [
+        {
+          "file": "findi-artika-20261126.jpg",
+          "source_slug": "findi-artika-disawer-tak-pantas",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
+        }
+      ]
+    },
+    "Candi Jago": {
+      "aliases": [
+        "candi jago"
+      ],
+      "images": [
+        {
+          "file": "candi-jago-20261126.jpg",
+          "source_slug": "festival-candi-jago-malang",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
+        }
+      ]
+    },
+    "Influenza": {
+      "aliases": [
+        "influenza"
+      ],
+      "images": [
+        {
+          "file": "influenza-20261126.jpg",
+          "source_slug": "influenza-1527-kasus-2026",
+          "first_used": "2026-11-26",
+          "last_used": "2026-11-26"
+        }
+      ]
+    },
+    "Tracer Nano Carbon": {
+      "aliases": [
+        "tracer nano carbon"
+      ],
+      "images": [
+        {
+          "file": "tracer-nano-carbon-20261126.jpg",
+          "source_slug": "undip-pertamina-tracer-nano-carbon",
           "first_used": "2026-11-26",
           "last_used": "2026-11-26"
         }
@@ -1668,6 +1738,46 @@
     "longsor-culamega-2-713-kk": {
       "file": "longsor-culamega-2-713-kk.jpg",
       "title": "Longsor Culamega Isolasi 2.713 KK",
+      "first_used": "2026-11-26"
+    },
+    "listyo-tolak-hadir-sidang-etik-ditunda": {
+      "file": "listyo-tolak-hadir-sidang-etik-ditunda.jpg",
+      "title": "Listyo Sigit Tolak Hadiri Sidang Etik, KKEP Tunda ke Senin 30 November",
+      "first_used": "2026-11-26"
+    },
+    "prabowo-pemusnahan-narkoba-601-7-ton": {
+      "file": "prabowo-pemusnahan-narkoba-601-7-ton.jpg",
+      "title": "Prabowo Pimpin Pemusnahan 601,7 Ton Narkoba, Negara Selamatkan Rp285 Triliun",
+      "first_used": "2026-11-26"
+    },
+    "tambang-emas-ilegal-bogor-16-tewas": {
+      "file": "tambang-emas-ilegal-bogor-16-tewas.jpg",
+      "title": "Korban Tewas Tambang Emas Ilegal Bogor Bertambah Jadi 16",
+      "first_used": "2026-11-26"
+    },
+    "mekari-diretas-malware-gaji-tertunda": {
+      "file": "mekari-diretas-malware-gaji-tertunda.jpg",
+      "title": "Mekari Diretas Malware, Layanan Down, Gaji Karyawan Tertunda",
+      "first_used": "2026-11-26"
+    },
+    "amran-sugiono-tes-kesehatan-rspad": {
+      "file": "amran-sugiono-tes-kesehatan-rspad.jpg",
+      "title": "Amran dan Sugiono Tuntaskan Tes Kesehatan di RSPAD, Hasil Diserahkan ke MPR Sore Ini",
+      "first_used": "2026-11-26"
+    },
+    "ihsg-5242-rupiah-rp18-345": {
+      "file": "ihsg-5242-rupiah-rp18-345.jpg",
+      "title": "IHSG Ditutup Menguat ke 5.242,17, Rupiah Cetak Rekor Terlemah Baru Rp18.345",
+      "first_used": "2026-11-26"
+    },
+    "tasikmalaya-95-kejadian-bencana": {
+      "file": "tasikmalaya-95-kejadian-bencana.jpg",
+      "title": "Tasikmalaya Dikepung 95 Kejadian Bencana, 1 Warga Meninggal dan Culamega Terisolasi",
+      "first_used": "2026-11-26"
+    },
+    "lille-2-1-bayern-verdonk": {
+      "file": "lille-2-1-bayern-verdonk.jpg",
+      "title": "Lille 2-1 Bayern Munchen: Calvin Verdonk Bantu Kalahkan Raksasa Jerman",
       "first_used": "2026-11-26"
     }
   }
