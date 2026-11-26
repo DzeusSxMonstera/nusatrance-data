@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T10:41:49",
+  "generated": "2026-11-26T21:51:53",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -180,7 +180,7 @@
           "file": "komdigi-tagih-penjelasan-google.jpg",
           "source_slug": "komdigi-tagih-penjelasan-google",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-23"
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -284,6 +284,12 @@
           "source_slug": "timnas-u17-juara-grup-a",
           "first_used": "2026-11-21",
           "last_used": "2026-11-21"
+        },
+        {
+          "file": "4-timnas-lolos-piala-asia-2027.jpg",
+          "source_slug": "4-timnas-lolos-piala-asia-2027",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -372,6 +378,12 @@
           "source_slug": "longsor-culamega-2-713-kk",
           "first_used": "2026-11-26",
           "last_used": "2026-11-26"
+        },
+        {
+          "file": "banjir-kapuas-hulu-37238-jiwa.jpg",
+          "source_slug": "banjir-kapuas-hulu-37238-jiwa",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -457,7 +469,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-26"
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -699,6 +711,12 @@
           "source_slug": "amran-sugiono-tes-kesehatan-rspad",
           "first_used": "2026-11-26",
           "last_used": "2026-11-26"
+        },
+        {
+          "file": "tes-kesehatan-cawapres-diserahkan-mpr.jpg",
+          "source_slug": "tes-kesehatan-cawapres-diserahkan-mpr",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -780,7 +798,7 @@
           "file": "tambang-emas-ilegal-bogor-16-tewas.jpg",
           "source_slug": "tambang-emas-ilegal-bogor-16-tewas",
           "first_used": "2026-11-26",
-          "last_used": "2026-11-26"
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -1260,6 +1278,45 @@
           "source_slug": "undip-pertamina-tracer-nano-carbon",
           "first_used": "2026-11-26",
           "last_used": "2026-11-26"
+        }
+      ]
+    },
+    "BBM subsidi": {
+      "aliases": [
+        "bbm subsidi"
+      ],
+      "images": [
+        {
+          "file": "img/pool/bbm-subsidi-20261127.jpg",
+          "source_slug": "prabowo-tangkap-pencuri-bbm-subsidi",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
+        }
+      ]
+    },
+    "Festival Musikal": {
+      "aliases": [
+        "festival musikal"
+      ],
+      "images": [
+        {
+          "file": "img/pool/festival-musikal-20261127.jpg",
+          "source_slug": "festival-musikal-indonesia-2026",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
+        }
+      ]
+    },
+    "Padang Lamun": {
+      "aliases": [
+        "padang lamun"
+      ],
+      "images": [
+        {
+          "file": "img/pool/lamun-brin-20261127.jpg",
+          "source_slug": "brin-padang-lamun-redam-gelombang-60",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
         }
       ]
     }
@@ -1779,6 +1836,46 @@
       "file": "lille-2-1-bayern-verdonk.jpg",
       "title": "Lille 2-1 Bayern Munchen: Calvin Verdonk Bantu Kalahkan Raksasa Jerman",
       "first_used": "2026-11-26"
+    },
+    "prabowo-ancam-konglomerat-nakal": {
+      "file": "prabowo-ancam-konglomerat-nakal.jpg",
+      "title": "Prabowo Ancam Konglomerat Nakal: 'Saya Punya Kapolri Baru'",
+      "first_used": "2026-11-27"
+    },
+    "tes-kesehatan-cawapres-diserahkan-mpr": {
+      "file": "tes-kesehatan-cawapres-diserahkan-mpr.jpg",
+      "title": "Hasil Tes Kesehatan Cawapres Diserahkan ke MPR",
+      "first_used": "2026-11-27"
+    },
+    "listyo-tak-penuhi-syarat-mundur": {
+      "file": "listyo-tak-penuhi-syarat-mundur.jpg",
+      "title": "Listyo Sigit Tak Penuhi Syarat Mengundurkan Diri",
+      "first_used": "2026-11-27"
+    },
+    "banjir-kapuas-hulu-37238-jiwa": {
+      "file": "banjir-kapuas-hulu-37238-jiwa.jpg",
+      "title": "Banjir Kapuas Hulu: 37.238 Jiwa Terdampak",
+      "first_used": "2026-11-27"
+    },
+    "syahrini-comeback-tiket-rp35-juta": {
+      "file": "syahrini-comeback-tiket-rp35-juta.jpg",
+      "title": "Syahrini Comeback, Tiket Rp35 Juta Ludes",
+      "first_used": "2026-11-27"
+    },
+    "4-timnas-lolos-piala-asia-2027": {
+      "file": "4-timnas-lolos-piala-asia-2027.jpg",
+      "title": "4 Timnas Lolos Piala Asia 2027, Satu-satunya di Asia Tenggara",
+      "first_used": "2026-11-27"
+    },
+    "ojol-diduga-sundul-petugas-dishub": {
+      "file": "ojol-diduga-sundul-petugas-dishub.jpg",
+      "title": "Ojol Diduga Sundul Petugas Dishub di Cakung",
+      "first_used": "2026-11-27"
+    },
+    "3-wakil-ri-bwf-world-tour-finals": {
+      "file": "3-wakil-ri-bwf-world-tour-finals.jpg",
+      "title": "3 Wakil RI ke BWF World Tour Finals 2026",
+      "first_used": "2026-11-27"
     }
   }
 }
