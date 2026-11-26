@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "source_note": "Artikel orisinal Redaksi NusaTrance. Bukan ringkasan berita. Ditulis dan diperiksa redaksi; angka dan klaim faktual hanya yang terverifikasi.",
   "articles": [
     {
@@ -864,6 +864,34 @@
       ],
       "readMinutes": 3,
       "_words": 465
+    },
+    {
+      "slug": "hal-yang-perlu-diketahui-orang-tua-sebelum-anak-memainkan-gta-6",
+      "title": "Hal yang Perlu Diketahui Orang Tua Sebelum Anak Memainkan GTA 6",
+      "excerpt": "Grand Theft Auto VI rilis 19 November 2026 untuk PlayStation 5 dan Xbox Series X|S, mengikuti kisah Lucia dan Jason di Vice City, negara bagian Leonida. Game ini ramai dibicarakan anak-anak dan remaja, dan banyak orang tua bertanya apakah anak mereka boleh memainkannya.",
+      "category": "Hobi",
+      "author": "Redaksi NusaTrance",
+      "date": "2026-11-27",
+      "dateLabel": "27 November 2026",
+      "tags": [
+        "GTA 6",
+        "Grand Theft Auto VI",
+        "orang tua",
+        "rating",
+        "PS5",
+        "Xbox",
+        "panduan"
+      ],
+      "body": [
+        "Grand Theft Auto VI rilis 19 November 2026 untuk PlayStation 5 dan Xbox Series X|S, mengikuti kisah Lucia dan Jason di Vice City, negara bagian Leonida. Game ini ramai dibicarakan anak-anak dan remaja, dan banyak orang tua bertanya apakah anak mereka boleh memainkannya. Jawaban singkatnya adalah game ini dibuat untuk orang dewasa, dan rating resminya jelas. Sebelum memutuskan, ada beberapa hal yang patut diketahui.",
+        "Di Amerika Serikat dan Kanada, lembaga ESRB memberi GTA 6 rating M for Mature 17+, artinya kontennya dinilai cocok untuk usia 17 tahun ke atas. Di Eropa, PEGI memberi rating 18. ESRB mencantumkan tujuh penanda konten: Blood and Gore, Intense Violence, Mature Humor, Nudity, Strong Language, Strong Sexual Content, dan Use of Drugs and Alcohol, ditambah penanda In-Game Purchases. Artinya game ini berisi kekerasan grafis, adegan seksual, ketelanjangan, bahasa kasar, serta penggunaan narkoba dan alkohol. Ini bukan sekadar label formalitas. Ringkasan ESRB menyebut misi yang melibatkan pencurian mobil, perampokan, dan distribusi narkoba, jadi isinya memang tidak ditujukan untuk anak.",
+        "Hal yang sering disalahpahami adalah soal filter isi. Konsol PS5 dan Xbox tidak bisa mematikan adegan tertentu di dalam GTA 6. Tidak ada pengaturan yang menghapus ketelanjangan, menyensor bahasa kasar, atau melunakkan kekerasan sambil membiarkan sisa game tetap berjalan. Kontrol orang tua bekerja pada level seluruh game. Kalau akun anak disetel di bawah rating M, game tidak akan bisa dibuka sama sekali. Kalau game diizinkan, semua isi di dalamnya ikut terbuka. Jadi pilihannya hanya dua, izinkan sepenuhnya atau blokir sepenuhnya.",
+        "Di PS5, langkah pertama adalah membuat akun anak sendiri di dalam keluarga PlayStation dengan tanggal lahir yang benar. Lalu buka Settings, Family and Parental Controls, Family Management, pilih akun anak, dan atur Age level for games and apps di bawah 17. Anak yang mencoba membuka game akan melihat layar blokir dan bisa mengirim permintaan izin kepada orang tua. Di menu yang sama, atur juga batas waktu bermain harian dan batas belanja bulanan. Batas belanja di PS5 secara bawaan bernilai nol, sehingga anak tidak bisa membeli apa pun tanpa izin orang tua.",
+        "Di Xbox Series X|S, anak perlu akun Microsoft sendiri di dalam grup keluarga Xbox. Buka aplikasi Xbox Family Settings di ponsel, pilih akun anak, masuk ke Content restrictions, lalu aktifkan filter usia di bawah 17. Jalur yang sama tersedia di konsol lewat Profile and system, Settings, Account, Family settings, lalu Manage family members. Aktifkan juga Ask to Buy di bagian Spending, supaya setiap pembelian, termasuk pembelian di dalam game, harus disetujui orang tua lebih dulu. Satu hal yang perlu diingat, bila memberi pengecualian lewat konsol, pilih Just this once, karena pilihan Always bersifat permanen dan tidak bisa dicabut.",
+        "Selain pengaturan teknis, ada baiknya orang tua menonton cuplikan gameplay asli sebelum memutuskan, lalu membicarakan isi game dengan anak. Jelaskan kenapa rating 17+ ada di sana, bukan sekadar melarang tanpa alasan. Kalau anak sudah berusia 17 tahun ke atas dan diizinkan bermain, tetap tetapkan batas waktu bermain dan aturan belanja, karena harga game edisi Standard 79,99 dolar AS dan pembelian di dalam game bisa menambah biaya. Keputusan akhirnya ada di tangan orang tua, tetapi keputusan yang diambil setelah memahami isi game selalu lebih baik daripada keputusan yang diambil dari rasa penasaran semata."
+      ],
+      "readMinutes": 3,
+      "_words": 524
     }
   ]
 }
