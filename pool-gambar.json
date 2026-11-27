@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T10:20:14",
+  "generated": "2026-11-27T21:57:03",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -74,6 +74,12 @@
           "source_slug": "brigjen-tedjo-dipecat-ptdh",
           "first_used": "2026-11-25",
           "last_used": "2026-11-25"
+        },
+        {
+          "file": "budi-arie-diperiksa-bareskrim-9-jam-makar.jpg",
+          "source_slug": "budi-arie-diperiksa-bareskrim-9-jam-makar",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
         }
       ]
     },
@@ -186,7 +192,7 @@
           "file": "komdigi-tagih-penjelasan-google.jpg",
           "source_slug": "komdigi-tagih-penjelasan-google",
           "first_used": "2026-11-20",
-          "last_used": "2026-11-27"
+          "last_used": "2026-11-28"
         }
       ]
     },
@@ -260,7 +266,7 @@
           "file": "iu-world-tour-jis.jpg",
           "source_slug": "iu-world-tour-jis",
           "first_used": "2026-11-24",
-          "last_used": "2026-11-27"
+          "last_used": "2026-11-28"
         },
         {
           "file": "gnr-november-rain-hujan-gbk.jpg",
@@ -389,7 +395,7 @@
           "file": "banjir-kapuas-hulu-37238-jiwa.jpg",
           "source_slug": "banjir-kapuas-hulu-37238-jiwa",
           "first_used": "2026-11-27",
-          "last_used": "2026-11-27"
+          "last_used": "2026-11-28"
         },
         {
           "file": "banjir-citarum-19798-jiwa.jpg",
@@ -481,7 +487,7 @@
           "file": "ckg-20261121.jpg",
           "source_slug": "cek-kesehatan-gratis-114-juta-warga",
           "first_used": "2026-11-21",
-          "last_used": "2026-11-27"
+          "last_used": "2026-11-28"
         }
       ]
     },
@@ -679,7 +685,7 @@
           "file": "gempa-m72-laut-banda-maluku.jpg",
           "source_slug": "gempa-m72-laut-banda-maluku",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-27"
+          "last_used": "2026-11-28"
         }
       ]
     },
@@ -1357,6 +1363,84 @@
           "last_used": "2026-11-27"
         }
       ]
+    },
+    "Bakom": {
+      "aliases": [
+        "bakom"
+      ],
+      "images": [
+        {
+          "file": "img/pool/bakom-pecat-ulta-levenia-haarp-20261128.jpg",
+          "source_slug": "bakom-pecat-ulta-levenia-haarp",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "Joyland": {
+      "aliases": [
+        "joyland"
+      ],
+      "images": [
+        {
+          "file": "img/pool/joyland-sessions-2026-20261128.jpg",
+          "source_slug": "joyland-sessions-2026-slowdive-caribou",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "Telkom AI": {
+      "aliases": [
+        "telkom ai"
+      ],
+      "images": [
+        {
+          "file": "img/pool/telkom-ai-media-intelligence-20261128.jpg",
+          "source_slug": "telkom-ai-media-intelligence",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "Musim Hujan": {
+      "aliases": [
+        "musim hujan"
+      ],
+      "images": [
+        {
+          "file": "img/pool/kemenkes-musim-hujan-20261128.jpg",
+          "source_slug": "kemenkes-4-penyakit-musim-hujan",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "Festival Pasca": {
+      "aliases": [
+        "festival pasca"
+      ],
+      "images": [
+        {
+          "file": "img/pool/festival-pasca-isi-solo-20261128.jpg",
+          "source_slug": "festival-pasca-3-isi-solo",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "Semburan Api": {
+      "aliases": [
+        "semburan api"
+      ],
+      "images": [
+        {
+          "file": "img/pool/semburan-api-bangkalan-20261128.jpg",
+          "source_slug": "semburan-api-sumur-bor-bangkalan",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
     }
   },
   "by_slug": {
@@ -1954,6 +2038,46 @@
       "file": "whatsapp-pesan-terjadwal.jpg",
       "title": "WhatsApp Rilis Fitur Pesan Terjadwal",
       "first_used": "2026-11-27"
+    },
+    "prabowo-ptbi-ekonomi-tumbuh-di-sawah": {
+      "file": "prabowo-ptbi-ekonomi-tumbuh-di-sawah.jpg",
+      "title": "Prabowo di PTBI: Ekonomi Harus Tumbuh di Sawah, Bukan di Atas Kertas",
+      "first_used": "2026-11-28"
+    },
+    "bareskrim-bongkar-saham-dssa-rp16-triliun": {
+      "file": "bareskrim-bongkar-saham-dssa-rp16-triliun.jpg",
+      "title": "Bareskrim Bongkar Penggorengan Saham DSSA, Kerugian Rp16 Triliun",
+      "first_used": "2026-11-28"
+    },
+    "basarnas-tutup-pencarian-tambang-pongkor": {
+      "file": "basarnas-tutup-pencarian-tambang-pongkor.jpg",
+      "title": "Basarnas Tutup Pencarian Tambang Pongkor: 14 Masih Hilang, Total 27",
+      "first_used": "2026-11-28"
+    },
+    "pendaftaran-cpns-2026-154052-formasi": {
+      "file": "pendaftaran-cpns-2026-154052-formasi.jpg",
+      "title": "Pendaftaran CPNS 2026 Dibuka: 154.052 Formasi, 3 Juta Pelamar Diperkirakan",
+      "first_used": "2026-11-28"
+    },
+    "budi-arie-diperiksa-bareskrim-9-jam-makar": {
+      "file": "budi-arie-diperiksa-bareskrim-9-jam-makar.jpg",
+      "title": "Budi Arie Diperiksa Bareskrim 9 Jam soal Dugaan Makar",
+      "first_used": "2026-11-28"
+    },
+    "92-wni-diselamatkan-dari-sindikat-noida": {
+      "file": "92-wni-diselamatkan-dari-sindikat-noida.jpg",
+      "title": "92 WNI Diselamatkan dari Sindikat Penipuan Siber di Noida, India",
+      "first_used": "2026-11-28"
+    },
+    "syed-modi-6-wakil-indonesia-semifinal": {
+      "file": "syed-modi-6-wakil-indonesia-semifinal.jpg",
+      "title": "Syed Modi: 6 Wakil Indonesia ke Semifinal, 2 Tiket Final Terkunci",
+      "first_used": "2026-11-28"
+    },
+    "tarif-as-18-persen-bisa-naik-25-persen": {
+      "file": "tarif-as-18-persen-bisa-naik-25-persen.jpg",
+      "title": "Tarif AS: 18% Bila Negosiasi Berhasil, Bisa 25% Bila Gagal",
+      "first_used": "2026-11-28"
     }
   }
 }

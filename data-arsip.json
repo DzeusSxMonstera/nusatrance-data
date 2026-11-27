@@ -1,7 +1,172 @@
 {
- "generated": "2026-11-27T10:20:26",
- "total": 364,
+ "generated": "2026-11-27T21:57:35",
+ "total": 378,
  "days": [
+  {
+   "date": "2026-11-28",
+   "label": "Sabtu, 28 November 2026",
+   "editions": [
+    {
+     "label": "Pagi",
+     "items": [
+      {
+       "slug": "prabowo-ptbi-ekonomi-tumbuh-di-sawah",
+       "title": "Prabowo di PTBI: Ekonomi Harus Tumbuh di Sawah, Bukan di Atas Kertas",
+       "summary": "Presiden Prabowo Subianto memberi arahan keras di Pertemuan Tahunan Bank Indonesia (PTBI) 2026 di Jakarta, Jumat malam. Ia meminta Bank Indonesia menjaga kepentingan bangsa meski independen, dan bank-bank Himbara turun ke sawah serta nelayan karena kreditnya selama ini “itu-itu saja”. Prabowo menargetkan pertumbuhan ekonomi 7–8 persen bila tata kelola bersih. Bank Indonesia sendiri memproyeksikan pertumbuhan 4,9–5,7 persen pada 2026 dan 5,2–6,0 persen pada 2027.",
+       "category": "Ekonomi",
+       "source": "Bloomberg Technoz",
+       "sourceUrl": "https://www.bloombergtechnoz.com/detail-news/129141/prabowo-sentil-independensi-bi-harus-jaga-kepentingan-bangsa",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bareskrim-bongkar-saham-dssa-rp16-triliun",
+       "title": "Bareskrim Bongkar Penggorengan Saham DSSA, Kerugian Rp16 Triliun",
+       "summary": "Bareskrim Polri membongkar dugaan manipulasi perdagangan saham PT Dian Swastatika Sentosa Tbk (DSSA). Tiga tersangka ditetapkan, satu di antaranya berinisial R ditangkap dan rumahnya di Kembangan, Jakarta Barat, digeledah Jumat. Harga saham diduga digoreng dari Rp29.000 menjadi Rp90.000 dalam 34 hari bursa lewat perdagangan semu oleh 11 pihak. Kerugian ditaksir sekitar Rp16 triliun, sementara OJK sebelumnya menjatuhkan sanksi administratif Rp1,52 triliun.",
+       "category": "Hukum",
+       "source": "ABC News Indonesia",
+       "sourceUrl": "https://www.abcnews.co.id/bareskrim-tangkap-tersangka-kasus-dssa",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "basarnas-tutup-pencarian-tambang-pongkor",
+       "title": "Basarnas Tutup Pencarian Tambang Pongkor: 14 Masih Hilang, Total 27",
+       "summary": "Basarnas resmi menutup operasi pencarian penambang emas ilegal di Pongkor, Bogor, Jumat pukul 20.00 WIB. Sebanyak 14 penambang masih hilang di dalam lubang sedalam sekitar 100 meter, dan total korban naik dari 26 menjadi 27 setelah satu keluarga lagi melapor. Sebanyak 13 jenazah sudah teridentifikasi dan diserahkan ke keluarga. Polisi menetapkan dua tersangka penambangan ilegal dan memburu pemodalnya.",
+       "category": "Bencana",
+       "source": "Cakrawala Media",
+       "sourceUrl": "https://cakrawala.media/basarnas-closes-pongkor-mine-search-14-miners-still-missing/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "pendaftaran-cpns-2026-154052-formasi",
+       "title": "Pendaftaran CPNS 2026 Dibuka: 154.052 Formasi, 3 Juta Pelamar Diperkirakan",
+       "summary": "Pendaftaran seleksi CPNS 2026 resmi dibuka Jumat lewat portal SSCASN BKN hingga 15 Desember 2026. Total 154.052 formasi disiapkan untuk instansi pusat — pembukaan pertama setelah tahun sebelumnya tidak ada penerimaan CPNS. Formasi terbesar: kehutanan 70.000, dosen dan tenaga kependidikan 26.614, serta hukum dan peradilan 19.016. BKN memperkirakan pelamar mencapai 3 juta orang dan mengingatkan pendaftaran gratis serta waspada penipuan.",
+       "category": "Peristiwa",
+       "source": "Setneg.go.id",
+       "sourceUrl": "https://www.setneg.go.id/baca/index/seleksi_cpns_2026_dibuka_27_november_pemerintah_siapkan_154052_formasi",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "budi-arie-diperiksa-bareskrim-9-jam-makar",
+       "title": "Budi Arie Diperiksa Bareskrim 9 Jam soal Dugaan Makar",
+       "summary": "Ketua Umum Projo Budi Arie Setiadi diperiksa Bareskrim Polri sebagai saksi selama sekitar sembilan jam, Jumat, dalam perkara dugaan makar yang menjerat mantan Kapolri Listyo Sigit Prabowo dan kawan-kawan. Ia dicecar 42 pertanyaan dan mengaku hanya mengenal Listyo di antara enam tersangka. Budi Arie menegaskan video analisanya yang viral tidak ada kaitannya dengan makar. Ia berstatus saksi, bukan tersangka.",
+       "category": "Hukum",
+       "source": "Binadow",
+       "sourceUrl": "https://binadow.com/2026/11/27/budi-arie-diperiksa-9-jam/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "92-wni-diselamatkan-dari-sindikat-noida",
+       "title": "92 WNI Diselamatkan dari Sindikat Penipuan Siber di Noida, India",
+       "summary": "Kepolisian Delhi, India, menyelamatkan 164 warga asing — termasuk 92 WNI dan 72 warga Malaysia — dari dugaan sindikat perdagangan manusia dan penipuan siber di Noida. Para korban diduga disekap dan dipaksa menjalankan penipuan investasi online dengan identitas palsu. Polisi menyita 355 ponsel, 168 komputer, dan 174 paspor. Satu orang ditangkap, sementara dua terduga pentolan masih buron.",
+       "category": "Peristiwa",
+       "source": "LensaHukum",
+       "sourceUrl": "https://lensahukum.co.id/polisi-india-selamatkan-92-wni",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "syed-modi-6-wakil-indonesia-semifinal",
+       "title": "Syed Modi: 6 Wakil Indonesia ke Semifinal, 2 Tiket Final Terkunci",
+       "summary": "Enam wakil Indonesia melaju ke semifinal Syed Modi India International 2026 di Lucknow, Jumat. Dua partai semifinal sesama Indonesia — tunggal putra dan ganda campuran — memastikan dua tiket final. Semifinal digelar Sabtu mulai pukul 12.00 WIB dan final Minggu. Ganda putra Raymond Indra dan Nikolaus Joaquin serta ganda putri Isyana Syahira Meida dan Rinjani juga lolos. Turnamen ini berhadiah 250 ribu dolar AS.",
+       "category": "Olahraga",
+       "source": "Berita Prioritas",
+       "sourceUrl": "https://beritaprioritas.com/enam-wakil-indonesia-tembus-semifinal-syed-modi-2026/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "tarif-as-18-persen-bisa-naik-25-persen",
+       "title": "Tarif AS: 18% Bila Negosiasi Berhasil, Bisa 25% Bila Gagal",
+       "summary": "Menko Perekonomian Airlangga Hartarto menegaskan tarif tertinggi Amerika Serikat untuk Indonesia adalah 18 persen — membantah spekulasi 28 persen — dalam konferensi pers Jumat. Namun perwakilan dagang AS menyebut tarif bisa naik ke 25 persen bila perundingan tidak memuaskan. Usulan tarif ini hasil penyelidikan Pasal 301 soal kelebihan kapasitas produksi. Negara terdampak boleh menyampaikan tanggapan hingga 5 Januari 2027.",
+       "category": "Ekonomi",
+       "source": "Bloomberg Technoz",
+       "sourceUrl": "https://www.bloombergtechnoz.com/detail-news/129142/ri-terancam-tarif-as-18-airlangga-singgung-tarif-negara-asean",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "bakom-pecat-ulta-levenia-haarp",
+       "title": "Bakom RI Pecat Ulta Levenia Buntut Pernyataan soal Proyek HAARP",
+       "summary": "Badan Komunikasi Pemerintah (Bakom) RI resmi memberhentikan Ulta Levenia Nababan dari jabatan Tenaga Profesional, terhitung 1 November 2026, setelah polemik pernyataannya yang mengaitkan erupsi gunung api dengan proyek HAARP AS. Kepala Bakom Syahganda Nainggolan menegaskan segala pernyataan Ulta bukan lagi tanggung jawab Bakom.",
+       "category": "Politik",
+       "source": "Newest Indonesia",
+       "sourceUrl": "https://newestindonesia.co.id/berita/nasional/ulta-levenia-resmi-dipecat-dari-bakom-ri-imbas-pernyataan-kontroversial-soal-proyek-haarp/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "joyland-sessions-2026-slowdive-caribou",
+       "title": "Joyland Sessions 2026: Slowdive & Caribou Debut di Indonesia",
+       "summary": "Joyland Sessions 2026 di GBK City Park, 28-29 November, menghadirkan Slowdive dan Caribou yang tampil perdana di Indonesia, bersama Ichiko Aoba, Efek Rumah Kaca, Float, dan Mondo Gascaro. Tiket dua hari mulai Rp738.000; di akhir pekan yang sama ada Ancol Sunset Sound dan Kings of Convenience.",
+       "category": "Entertainment",
+       "source": "Nasional News",
+       "sourceUrl": "https://nasional.news/akhir-pekan-jakarta-joyland-sessions-hingga-ancol-sunset/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "telkom-ai-media-intelligence",
+       "title": "Telkom Luncurkan AI Media Intelligence untuk Pantau Opini Publik",
+       "summary": "Telkom Indonesia menghadirkan AI Media Intelligence, fitur analitik berbasis AI di platform BigBox yang memantau dan menganalisis opini publik dari media sosial dan media daring. Fitur utamanya: analisis sentimen, analisis demografi, serta generator wawasan dan laporan; diperkenalkan 26 November 2026 di Jakarta. (Satu sumber — status SEBAGIAN.)",
+       "category": "Teknologi",
+       "source": "Selular.id",
+       "sourceUrl": "https://selular.id/2026/11/telkom-perkuat-analisis-opini-publik-lewat-ai-media-intelligence/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "kemenkes-4-penyakit-musim-hujan",
+       "title": "Kemenkes Ingatkan 4 Penyakit Musim Hujan: ISPA 17,6 Juta Kasus",
+       "summary": "Kemenkes mengingatkan masyarakat mewaspadai empat penyakit musim hujan — ISPA, diare, DBD, dan leptospirosis — dengan data kumulatif hingga pekan ke-46/2026: ISPA sekitar 17,6 juta kasus, diare akut 3,9 juta kasus, suspek dengue 391 ribu kasus, suspek leptospirosis 5.702 kasus. Leptospirosis tertinggi di Jawa Tengah (2.559 suspek).",
+       "category": "Kesehatan",
+       "source": "RS Sari Asih",
+       "sourceUrl": "https://www.sariasih.id/berita/info-sehat/musim-hujan-tiba-kenali-4-penyakit-yang-mengintai-kesehatan-keluarga",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "festival-pasca-3-isi-solo",
+       "title": "Festival Pasca #3 ISI Solo Dibuka: 17 Karya Seni dari 4 Negara",
+       "summary": "Institut Seni Indonesia (ISI) Solo menggelar Festival Pasca #3, 27-29 November 2026 — pembukaan Jumat pukul 19.00 WIB di Teater Kapal — menampilkan 17 karya seni terkurasi dari Indonesia, Malaysia, Singapura, Amerika Serikat, dan Taiwan, gratis untuk publik. Tema: International Pathways of Excellence. (Satu outlet — status SEBAGIAN.)",
+       "category": "Budaya",
+       "source": "Kota Solo",
+       "sourceUrl": "https://kotasolo.id/event/festival-pasca-3-isi-solo-tampilkan-17-karya-seni-dari-berbagai-negara-p109o9/",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      },
+      {
+       "slug": "semburan-api-sumur-bor-bangkalan",
+       "title": "Semburan Api 10-15 Meter dari Sumur Bor di Bangkalan, ESDM: Gas Aman",
+       "summary": "Sumur bor air milik warga di Dusun Mor Leke, Desa Sendeng Dejeh, Labang, Bangkalan, menyemburkan air lalu api setinggi 10-15 meter sejak Kamis (26/11). Tim ESDM Jatim bersama SKK Migas dan Pertamina turun Jumat meneliti kandungan gasnya; ESDM menyebut gas yang ditemukan masih tergolong aman. Jenis gas dan penyebab pasti belum diketahui.",
+       "category": "Sains",
+       "source": "iNews",
+       "sourceUrl": "https://beta.inews.co.id/regional/jatim/esdm-dan-skk-migas-periksa-semburan-api-sumur-bor-di-bangkalan-kandungan-gas-diteliti",
+       "time": "28 Nov 2026",
+       "editionDate": "2026-11-28",
+       "editionLabel": "Pagi"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "label": "Jumat, 27 November 2026",
