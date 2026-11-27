@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T21:51:53",
+  "generated": "2026-11-27T10:20:14",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -132,6 +132,12 @@
           "source_slug": "ihsg-5242-rupiah-rp18-345",
           "first_used": "2026-11-26",
           "last_used": "2026-11-26"
+        },
+        {
+          "file": "ihsg-melonjak-5338.jpg",
+          "source_slug": "ihsg-melonjak-5338",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -254,7 +260,7 @@
           "file": "iu-world-tour-jis.jpg",
           "source_slug": "iu-world-tour-jis",
           "first_used": "2026-11-24",
-          "last_used": "2026-11-24"
+          "last_used": "2026-11-27"
         },
         {
           "file": "gnr-november-rain-hujan-gbk.jpg",
@@ -382,6 +388,12 @@
         {
           "file": "banjir-kapuas-hulu-37238-jiwa.jpg",
           "source_slug": "banjir-kapuas-hulu-37238-jiwa",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
+        },
+        {
+          "file": "banjir-citarum-19798-jiwa.jpg",
+          "source_slug": "banjir-citarum-19798-jiwa",
           "first_used": "2026-11-27",
           "last_used": "2026-11-27"
         }
@@ -667,7 +679,7 @@
           "file": "gempa-m72-laut-banda-maluku.jpg",
           "source_slug": "gempa-m72-laut-banda-maluku",
           "first_used": "2026-11-22",
-          "last_used": "2026-11-25"
+          "last_used": "2026-11-27"
         }
       ]
     },
@@ -1319,6 +1331,32 @@
           "last_used": "2026-11-27"
         }
       ]
+    },
+    "panji-festival": {
+      "aliases": [
+        "panji-festival"
+      ],
+      "images": [
+        {
+          "file": "panji-festival-20261127.jpg",
+          "source_slug": "asean-panji-festival-solo-2026",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
+        }
+      ]
+    },
+    "gula-ipb": {
+      "aliases": [
+        "gula-ipb"
+      ],
+      "images": [
+        {
+          "file": "gula-ipb-20261127.jpg",
+          "source_slug": "studi-ipb-gula-rumahan-518-persen",
+          "first_used": "2026-11-27",
+          "last_used": "2026-11-27"
+        }
+      ]
     }
   },
   "by_slug": {
@@ -1875,6 +1913,46 @@
     "3-wakil-ri-bwf-world-tour-finals": {
       "file": "3-wakil-ri-bwf-world-tour-finals.jpg",
       "title": "3 Wakil RI ke BWF World Tour Finals 2026",
+      "first_used": "2026-11-27"
+    },
+    "kpk-sop-ayam-muri-dana-dak": {
+      "file": "kpk-sop-ayam-muri-dana-dak.jpg",
+      "title": "KPK Bongkar Rekor MURI Sop Ayam Diduga dari Dana DAK",
+      "first_used": "2026-11-27"
+    },
+    "ihsg-melonjak-5338": {
+      "file": "ihsg-melonjak-5338.jpg",
+      "title": "IHSG Melonjak 1,84% ke 5.338,4",
+      "first_used": "2026-11-27"
+    },
+    "syed-modi-2-tiket-final": {
+      "file": "syed-modi-2-tiket-final.jpg",
+      "title": "Syed Modi: Derby Indonesia Pastikan 2 Tiket Final",
+      "first_used": "2026-11-27"
+    },
+    "status-wni-cawapres-sah": {
+      "file": "status-wni-cawapres-sah.jpg",
+      "title": "Verifikasi Cawapres: Status WNI Amran & Sugiono Dinyatakan Sah",
+      "first_used": "2026-11-27"
+    },
+    "leptospirosis-5702-suspek-jawa": {
+      "file": "leptospirosis-5702-suspek-jawa.jpg",
+      "title": "Leptospirosis: 5.702 Suspek di Jawa, Jateng Tertinggi 2.559",
+      "first_used": "2026-11-27"
+    },
+    "banjir-citarum-19798-jiwa": {
+      "file": "banjir-citarum-19798-jiwa.jpg",
+      "title": "Banjir Citarum Rendam Dayeuhkolot: 19.798 Jiwa Terdampak",
+      "first_used": "2026-11-27"
+    },
+    "ptbi-bi-surplus-1178-triliun": {
+      "file": "ptbi-bi-surplus-1178-triliun.jpg",
+      "title": "PTBI Malam Ini; BI Catat Surplus Rp117,8 Triliun",
+      "first_used": "2026-11-27"
+    },
+    "whatsapp-pesan-terjadwal": {
+      "file": "whatsapp-pesan-terjadwal.jpg",
+      "title": "WhatsApp Rilis Fitur Pesan Terjadwal",
       "first_used": "2026-11-27"
     }
   }

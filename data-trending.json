@@ -1,75 +1,75 @@
 {
- "updated": "2026-11-27T05:52:19+08:00",
- "edition": "pagi",
+ "updated": "2026-11-27T18:20:26+08:00",
+ "edition": "malam",
  "items": [
   {
-   "topic": "PDIP: Wapres Harus Dipilih Lewat Voting",
-   "label": "Basarah tegaskan pemilihan wapres harus voting, bukan musyawarah",
-   "keyword": "Voting wapres",
-   "kategori": "Politik",
+   "topic": "Tambang Pongkor: 13 Tewas Teridentifikasi, 13 Masih Dicari",
+   "label": "13 jenazah penambang Pongkor teridentifikasi, pencarian 13 lainnya berlanjut",
+   "keyword": "Pongkor",
+   "kategori": "Bencana",
    "rank": 1
   },
   {
-   "topic": "KPK Dalami Cukai Djarum, Bisa Meluas",
-   "label": "KPK dalami dugaan setoran cukai, penyidikan Djarum bisa meluas",
-   "keyword": "Cukai Djarum",
-   "kategori": "Hukum",
+   "topic": "AS Usulkan Tarif Impor hingga 18% untuk Indonesia",
+   "label": "USTR usulkan tarif hingga 18%, pemerintah siapkan strategi negosiasi",
+   "keyword": "Tarif AS",
+   "kategori": "Ekonomi",
    "rank": 2
   },
   {
-   "topic": "Spotify Wrapped Live: 21 Penampil",
-   "label": "Spotify umumkan 21 penampil Wrapped Live Indonesia 2026, tayang 3 Des di RCTI",
-   "keyword": "Spotify Wrapped",
-   "kategori": "Entertainment",
+   "topic": "Letjen Widi Divonis 5 Tahun & Dipecat dari TNI",
+   "label": "Widi Prasetijono divonis 5 tahun, rugikan negara Rp237 miliar",
+   "keyword": "Widi Prasetijono",
+   "kategori": "Hukum",
    "rank": 3
   },
   {
-   "topic": "Demo Bela Andri Darmawan Ricuh di Kendari",
-   "label": "Demo bela Andri Darmawan di Kendari ricuh, gelar perkara khusus digelar hari ini",
-   "keyword": "Demo Kendari",
-   "kategori": "Peristiwa",
+   "topic": "CKG: 50.007 Warga Risiko Tinggi Kanker Paru",
+   "label": "50.007 warga masuk kategori risiko tinggi kanker paru dari skrining CKG",
+   "keyword": "50.007",
+   "kategori": "Kesehatan",
    "rank": 4
   },
   {
-   "topic": "Gempa M5,4 Guncang Selatan Sumbawa",
-   "label": "Gempa M5,4 selatan Sumbawa, tidak berpotensi tsunami, dirasakan III MMI",
-   "keyword": "Gempa Sumbawa",
-   "kategori": "Bencana",
+   "topic": "Kebakaran Milkita Naik ke Penyidikan",
+   "label": "Polda Banten naikkan kebakaran pabrik Milkita ke penyidikan, diduga lalai",
+   "keyword": "Milkita",
+   "kategori": "Peristiwa",
    "rank": 5
   },
   {
-   "topic": "CKG Tembus 123,79 Juta Peserta",
-   "label": "CKG tembus 123,79 juta peserta, 95 persen dari target",
-   "keyword": "123,79 juta",
-   "kategori": "Kesehatan",
+   "topic": "Andy Taylor, Gitaris Duran Duran, Meninggal di Usia 65",
+   "label": "Andy Taylor meninggal setelah berjuang melawan kanker prostat stadium 4",
+   "keyword": "Andy Taylor",
+   "kategori": "Entertainment",
    "rank": 6
   },
   {
-   "topic": "Syed Modi: 7 Wakil RI ke Perempat Final",
-   "label": "Tujuh wakil Indonesia lolos ke perempat final Syed Modi International 2026",
-   "keyword": "Syed Modi",
-   "kategori": "Olahraga",
+   "topic": "TIDAL Larang Musik Buatan AI, 29 Juta Lagu Dihapus",
+   "label": "TIDAL hapus 29 juta lagu AI mulai 9 Desember, pertama di layanan besar",
+   "keyword": "TIDAL",
+   "kategori": "Teknologi",
    "rank": 7
   },
   {
-   "topic": "Pekan Keris Ponorogo dan Munas Senapati",
-   "label": "Keris Fest Ponorogo dan Munas Senapati di TIM, 21 tahun pengakuan UNESCO",
-   "keyword": "Keris Fest",
-   "kategori": "Budaya",
+   "topic": "Sekolah Rakyat Tak Akan Dibangun di Hutan Kota UI",
+   "label": "Mensos tegaskan Sekolah Rakyat tak dibangun di Hutan Kota UI",
+   "keyword": "Sekolah Rakyat",
+   "kategori": "Politik",
    "rank": 8
   },
   {
-   "topic": "Kemlu: WNI Tentara Bayaran Rusia",
-   "label": "Kemlu buka peluang pulangkan WNI yang diduga jadi tentara bayaran Rusia",
-   "keyword": "Tentara bayaran",
-   "kategori": "Politik",
+   "topic": "Festival Pasca #3 ISI Solo: 17 Karya dari 4 Negara",
+   "label": "ISI Solo gelar Festival Pasca #3, 17 karya seni dari 4 negara",
+   "keyword": "Festival Pasca",
+   "kategori": "Budaya",
    "rank": 9
   },
   {
-   "topic": "15 Provinsi Siaga Hujan Lebat",
-   "label": "BNPB: 15 provinsi siaga hujan lebat pada Jumat 27 November",
-   "keyword": "Hujan lebat",
-   "kategori": "Bencana",
+   "topic": "Nusa-Sense: AI Pelajar Sukabumi untuk Jalan Desa",
+   "label": "Pelajar Sukabumi raih perunggu OMI lewat Nusa-Sense, AI untuk jalan desa",
+   "keyword": "Nusa-Sense",
+   "kategori": "Sains",
    "rank": 10
   }
  ]
