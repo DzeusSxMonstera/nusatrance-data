@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T21:57:03",
+  "generated": "2026-11-28T10:27:38",
   "repo": "DzeusSxMonstera/nusatrance-data",
   "branch": "main",
   "img_dir": "img/pool",
@@ -192,6 +192,12 @@
           "file": "komdigi-tagih-penjelasan-google.jpg",
           "source_slug": "komdigi-tagih-penjelasan-google",
           "first_used": "2026-11-20",
+          "last_used": "2026-11-28"
+        },
+        {
+          "file": "as-wajibkan-izin-ekspor-chip-ai.jpg",
+          "source_slug": "as-wajibkan-izin-ekspor-chip-ai",
+          "first_used": "2026-11-28",
           "last_used": "2026-11-28"
         }
       ]
@@ -402,6 +408,12 @@
           "source_slug": "banjir-citarum-19798-jiwa",
           "first_used": "2026-11-27",
           "last_used": "2026-11-27"
+        },
+        {
+          "file": "longsor-susukan-banjarnegara.jpg",
+          "source_slug": "longsor-susukan-banjarnegara",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
         }
       ]
     },
@@ -1441,6 +1453,58 @@
           "last_used": "2026-11-28"
         }
       ]
+    },
+    "markup-apbn": {
+      "aliases": [
+        "markup-apbn"
+      ],
+      "images": [
+        {
+          "file": "markup-apbn-20261128.jpg",
+          "source_slug": "prabowo-markup-apbn-us21-miliar",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "bei-suspensi-saham": {
+      "aliases": [
+        "bei-suspensi-saham"
+      ],
+      "images": [
+        {
+          "file": "bei-suspensi-saham-20261128.jpg",
+          "source_slug": "bei-suspensi-5-saham-free-float",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "congklak-muri": {
+      "aliases": [
+        "congklak-muri"
+      ],
+      "images": [
+        {
+          "file": "congklak-muri-20261128.jpg",
+          "source_slug": "rekor-muri-congklak-1200-peserta",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
+    },
+    "brin-care-i": {
+      "aliases": [
+        "brin-care-i"
+      ],
+      "images": [
+        {
+          "file": "brin-care-i-20261128.jpg",
+          "source_slug": "brin-luncurkan-care-i",
+          "first_used": "2026-11-28",
+          "last_used": "2026-11-28"
+        }
+      ]
     }
   },
   "by_slug": {
@@ -2077,6 +2141,46 @@
     "tarif-as-18-persen-bisa-naik-25-persen": {
       "file": "tarif-as-18-persen-bisa-naik-25-persen.jpg",
       "title": "Tarif AS: 18% Bila Negosiasi Berhasil, Bisa 25% Bila Gagal",
+      "first_used": "2026-11-28"
+    },
+    "longsor-susukan-banjarnegara": {
+      "file": "longsor-susukan-banjarnegara.jpg",
+      "title": "Longsor Susukan Banjarnegara: 1 Tewas, 6 Masih Dicari",
+      "first_used": "2026-11-28"
+    },
+    "sugiono-kantongi-dukungan-4-partai": {
+      "file": "sugiono-kantongi-dukungan-4-partai.jpg",
+      "title": "Sugiono Kantongi Dukungan 4 Partai Jadi Wapres",
+      "first_used": "2026-11-28"
+    },
+    "arif-kurniawan-belum-dicekal": {
+      "file": "arif-kurniawan-belum-dicekal.jpg",
+      "title": "Arif Kurniawan Belum Dicekal, Diduga Kabur ke China",
+      "first_used": "2026-11-28"
+    },
+    "simple-plan-guncang-surabaya": {
+      "file": "simple-plan-guncang-surabaya.jpg",
+      "title": "Simple Plan Guncang Surabaya Malam Ini",
+      "first_used": "2026-11-28"
+    },
+    "dewa19-padi-satu-panggung-surabaya": {
+      "file": "dewa19-padi-satu-panggung-surabaya.jpg",
+      "title": "Dewa 19 & Padi Reborn Satu Panggung di Surabaya",
+      "first_used": "2026-11-28"
+    },
+    "as-wajibkan-izin-ekspor-chip-ai": {
+      "file": "as-wajibkan-izin-ekspor-chip-ai.jpg",
+      "title": "AS Wajibkan Izin Ekspor Chip AI, Komdigi Siapkan 3 Langkah",
+      "first_used": "2026-11-28"
+    },
+    "prabowo-renovasi-semua-puskesmas": {
+      "file": "prabowo-renovasi-semua-puskesmas.jpg",
+      "title": "Prabowo: Renovasi Semua Puskesmas di Indonesia",
+      "first_used": "2026-11-28"
+    },
+    "dua-tiket-final-syed-modi": {
+      "file": "dua-tiket-final-syed-modi.jpg",
+      "title": "Dua Tiket Final Syed Modi: Richie & Jafar/Rinjani Lolos",
       "first_used": "2026-11-28"
     }
   }
